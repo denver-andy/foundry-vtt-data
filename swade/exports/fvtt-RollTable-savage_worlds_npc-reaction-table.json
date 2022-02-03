@@ -1,0 +1,107 @@
+{
+  "name": "SW Reaction Table",
+  "img": "modules/game-icons-net/whitetransparent/think.svg",
+  "description": "Random reaction table from Savage Worlds.",
+  "results": [
+    {
+      "type": 0,
+      "text": "Hostile: The target is openly hostile and does his best to stand in the hero’s way. He won’t help without an overwhelming reward or payment of some kind.",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "vm2yfd99bpn5srlt",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 2,
+      "rangeH": 2
+    },
+    {
+      "type": 0,
+      "text": "Uncooperative: The target isn’t willing to help unless there’s a significant advantage to himself.",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "9obtveb8ykf27r6g",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 3,
+      "rangeH": 4
+    },
+    {
+      "type": 0,
+      "text": "Neutral: The target has no particular attitude and will help for little reward if the task at hand is very easy. If the task is difficult, he’ll require substantial payment of some kind.",
+      "weight": 5,
+      "range": [
+        5,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "na35fxpsnabust9i",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 5,
+      "rangeH": 9
+    },
+    {
+      "type": 0,
+      "text": "Friendly: The target will go out of his way for the hero. He’ll likely do easy tasks for free (or very little), and is willing to do more dangerous tasks for fair pay or other favors.",
+      "weight": 2,
+      "range": [
+        10,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "by9juyqtm5nrooif",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 10,
+      "rangeH": 11
+    },
+    {
+      "type": 0,
+      "text": "Helpful: The target is anxious to help the hero, and will probably do so for little or no pay depending on the nature of the task.",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "r5mpw75mmizdmh3a",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 12,
+      "rangeH": 12
+    }
+  ],
+  "formula": "2d6",
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.hvXQeolD1BKu4Zyo"
+    },
+    "exportSource": {
+      "world": "sw-ff-g-imaginative-diversions",
+      "system": "starwarsffg",
+      "coreVersion": "0.8.9",
+      "systemVersion": "1.6"
+    }
+  }
+}
