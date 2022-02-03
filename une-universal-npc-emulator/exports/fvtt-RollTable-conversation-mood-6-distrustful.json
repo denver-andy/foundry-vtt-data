@@ -1,0 +1,144 @@
+{
+  "name": "Conversation Mood 6  - Distrustful",
+  "img": "modules/game-icons-net/whitetransparent/chat-bubble.svg",
+  "description": "The NPC’s current conversation mood, based on their long-term relationship with the character.",
+  "results": [
+    {
+      "type": 0,
+      "text": "Withdrawn",
+      "weight": 11,
+      "range": [
+        1,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "mikwaghte9ydyi4j",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 11
+    },
+    {
+      "type": 0,
+      "text": "Guarded",
+      "weight": 13,
+      "range": [
+        12,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "13fz4d31jnde350j",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 12,
+      "rangeH": 24
+    },
+    {
+      "type": 0,
+      "text": "Cautious",
+      "weight": 37,
+      "range": [
+        25,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "idlczgavnlkauafo",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 25,
+      "rangeH": 61
+    },
+    {
+      "type": 0,
+      "text": "Neutral",
+      "weight": 20,
+      "range": [
+        62,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "7ikf3at4kvfktpe3",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 62,
+      "rangeH": 81
+    },
+    {
+      "type": 0,
+      "text": "Sociable",
+      "weight": 12,
+      "range": [
+        82,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "3qj9i62xg16mvckv",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 82,
+      "rangeH": 93
+    },
+    {
+      "type": 0,
+      "text": "Helpful",
+      "weight": 5,
+      "range": [
+        94,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "tfl33x7x3uqak7de",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 94,
+      "rangeH": 98
+    },
+    {
+      "type": 0,
+      "text": "Forthcoming",
+      "weight": 2,
+      "range": [
+        99,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4bsdetjc2ggxaynx",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 99,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

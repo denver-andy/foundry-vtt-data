@@ -1,0 +1,586 @@
+{
+  "name": "Conversation Focus",
+  "img": "modules/game-icons-net/whitetransparent/chat-bubble.svg",
+  "description": "Roll d100 to find the NPC focus of the conversation using Table 8. If possible the NPC Focus should be regarded as pertaining to the PC of the player rolling, the PC that will be speaking, or the party members in general. It may be helpful to put the word “PC’s” or “your” in front of the NPC Focus if there is a question. It is also helpful to narrow the NPC Focus. If “last story” was rolled figure out what the last story was. What happened during the last story that made this NPC want to discuss it?",
+  "results": [
+    {
+      "type": 0,
+      "text": "Current Scene",
+      "weight": 3,
+      "range": [
+        1,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "t14bymokohsmp0ck",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 3
+    },
+    {
+      "type": 0,
+      "text": "Last Story",
+      "weight": 3,
+      "range": [
+        4,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "1jh2yuw4ny5052lc",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 4,
+      "rangeH": 6
+    },
+    {
+      "type": 0,
+      "text": "Equipment",
+      "weight": 3,
+      "range": [
+        7,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "yde2j1lmbgambqyq",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 7,
+      "rangeH": 9
+    },
+    {
+      "type": 0,
+      "text": "Parents",
+      "weight": 3,
+      "range": [
+        10,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "mhimvx01s0ouif3k",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 10,
+      "rangeH": 12
+    },
+    {
+      "type": 0,
+      "text": "History",
+      "weight": 3,
+      "range": [
+        13,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "d6kzqd8nwjigvkr3",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 13,
+      "rangeH": 15
+    },
+    {
+      "type": 0,
+      "text": "Retainers",
+      "weight": 3,
+      "range": [
+        16,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "408val7fnqfqqkaz",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 16,
+      "rangeH": 18
+    },
+    {
+      "type": 0,
+      "text": "Wealth",
+      "weight": 3,
+      "range": [
+        19,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "uvjnh1gcbsc3httm",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 19,
+      "rangeH": 21
+    },
+    {
+      "type": 0,
+      "text": "Relics",
+      "weight": 3,
+      "range": [
+        22,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "w89s8d0zq6y3oqyh",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 22,
+      "rangeH": 24
+    },
+    {
+      "type": 0,
+      "text": "Last Action",
+      "weight": 3,
+      "range": [
+        25,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "jxz47en76r8fxd2p",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 25,
+      "rangeH": 27
+    },
+    {
+      "type": 0,
+      "text": "Skills",
+      "weight": 3,
+      "range": [
+        28,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ljfvkahn5p8nh2uw",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 28,
+      "rangeH": 30
+    },
+    {
+      "type": 0,
+      "text": "Superiors",
+      "weight": 3,
+      "range": [
+        31,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "qkxa6m82j5540bp7",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 31,
+      "rangeH": 33
+    },
+    {
+      "type": 0,
+      "text": "Fame",
+      "weight": 3,
+      "range": [
+        34,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "7p967i2gcat3jq2i",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 34,
+      "rangeH": 36
+    },
+    {
+      "type": 0,
+      "text": "Campaign",
+      "weight": 3,
+      "range": [
+        37,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "clhed12stltk4ai5",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 37,
+      "rangeH": 39
+    },
+    {
+      "type": 0,
+      "text": "Future Action",
+      "weight": 3,
+      "range": [
+        40,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "2g0b587mh5gamj24",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 40,
+      "rangeH": 42
+    },
+    {
+      "type": 0,
+      "text": "Friends",
+      "weight": 3,
+      "range": [
+        43,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "f810wtbch5n629d1",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 43,
+      "rangeH": 45
+    },
+    {
+      "type": 0,
+      "text": "Allies",
+      "weight": 3,
+      "range": [
+        46,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6kgoxf87vorp03ju",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 46,
+      "rangeH": 48
+    },
+    {
+      "type": 0,
+      "text": "Last Scene",
+      "weight": 3,
+      "range": [
+        49,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "d1655ick8p584ipj",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 49,
+      "rangeH": 51
+    },
+    {
+      "type": 0,
+      "text": "Contacts",
+      "weight": 3,
+      "range": [
+        52,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "x7by5ornj29l6pol",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 52,
+      "rangeH": 54
+    },
+    {
+      "type": 0,
+      "text": "Flaws",
+      "weight": 3,
+      "range": [
+        55,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "9th3o4si5figxcj7",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 55,
+      "rangeH": 57
+    },
+    {
+      "type": 0,
+      "text": "Antagonist",
+      "weight": 3,
+      "range": [
+        58,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5z9ka064q9fw28hi",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 58,
+      "rangeH": 60
+    },
+    {
+      "type": 0,
+      "text": "Rewards",
+      "weight": 3,
+      "range": [
+        61,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "wghe1ilv24l7cwkg",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 61,
+      "rangeH": 63
+    },
+    {
+      "type": 0,
+      "text": "Experience",
+      "weight": 3,
+      "range": [
+        64,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "b4y3sryr764jicfm",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 64,
+      "rangeH": 66
+    },
+    {
+      "type": 0,
+      "text": "Knowledge",
+      "weight": 3,
+      "range": [
+        67,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ua07pgnevw2n6hzn",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 67,
+      "rangeH": 69
+    },
+    {
+      "type": 0,
+      "text": "Recent Scene",
+      "weight": 3,
+      "range": [
+        70,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "qutvxtqvbmfpvur4",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 70,
+      "rangeH": 72
+    },
+    {
+      "type": 0,
+      "text": "Community",
+      "weight": 3,
+      "range": [
+        73,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "pxhb1l9h5g9mn4y8",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 73,
+      "rangeH": 75
+    },
+    {
+      "type": 0,
+      "text": "Treasure",
+      "weight": 3,
+      "range": [
+        76,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6ufm6g7bov4ud2up",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 76,
+      "rangeH": 78
+    },
+    {
+      "type": 0,
+      "text": "The Character",
+      "weight": 3,
+      "range": [
+        79,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "v109lwa6zwnerxe0",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 79,
+      "rangeH": 81
+    },
+    {
+      "type": 0,
+      "text": "Current Story",
+      "weight": 3,
+      "range": [
+        82,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4xbawhr7ob8k92bg",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 82,
+      "rangeH": 84
+    },
+    {
+      "type": 0,
+      "text": "Family",
+      "weight": 3,
+      "range": [
+        85,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "scaea3z7oosrxiu4",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 85,
+      "rangeH": 87
+    },
+    {
+      "type": 0,
+      "text": "Power",
+      "weight": 3,
+      "range": [
+        88,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "lk9flnquierhtdur",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 88,
+      "rangeH": 90
+    },
+    {
+      "type": 0,
+      "text": "Weapons",
+      "weight": 3,
+      "range": [
+        91,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "fxqdyjk0letx1pmm",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 91,
+      "rangeH": 93
+    },
+    {
+      "type": 0,
+      "text": "Previous Scene",
+      "weight": 3,
+      "range": [
+        94,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "72ghvoohcgx1ueyu",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 94,
+      "rangeH": 96
+    },
+    {
+      "type": 0,
+      "text": "Enemy",
+      "weight": 3,
+      "range": [
+        97,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "pn86ex2fw7k0ictx",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 97,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

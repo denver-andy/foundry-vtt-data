@@ -1,0 +1,9 @@
+Withdrawn{1}|
+Guarded{5}|
+Cautious{10}|
+Neutral{15}|
+Sociable{39}|
+Helpful{15}|
+Forthcoming{15}
+
+The NPC’s current conversation mood, based on their long-term relationship with the character.

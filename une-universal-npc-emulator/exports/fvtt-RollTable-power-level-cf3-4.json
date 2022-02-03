@@ -1,0 +1,110 @@
+{
+  "name": "Power Level CF3-4",
+  "img": "modules/game-icons-net/whitetransparent/swords-power.svg",
+  "description": "Determine the randomness level (“R-level”) of the scene by assigning a numeric value ranging from orderly to chaotic. The R-level can also represent a difficulty level where the higher the R-level the harder the challenges. Roll a d100 to determine the NPC’s power level relative to that of the PC’s using Table 3. For example if the Rlevel is Disarray and a 76 is rolled, the NPC will be Slightly Stronger than the PC’s.\n\nNote that I have mapped the R-Levels to Mythic GME Chaos Factors: Order (1-2), Calm (3-4), Standard (5-6), Disarray (7-8), Chaos (9-0).",
+  "results": [
+    {
+      "type": 0,
+      "text": "Much Weaker",
+      "weight": 4,
+      "range": [
+        1,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "nvklc9ruy30s297a",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 4
+    },
+    {
+      "type": 0,
+      "text": "Slightly Weaker",
+      "weight": 11,
+      "range": [
+        5,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "wv6af8z4q8ii0etc",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 5,
+      "rangeH": 15
+    },
+    {
+      "type": 0,
+      "text": "Comparable",
+      "weight": 70,
+      "range": [
+        16,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "rmxhgckw38c2q3t2",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 16,
+      "rangeH": 85
+    },
+    {
+      "type": 0,
+      "text": "Slightly Stronger",
+      "weight": 11,
+      "range": [
+        86,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "8bx7l919fxu3xwd9",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 86,
+      "rangeH": 96
+    },
+    {
+      "type": 0,
+      "text": "Much Stronger",
+      "weight": 4,
+      "range": [
+        97,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "qekqluad83g210c1",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 97,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}
