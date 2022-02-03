@@ -1,0 +1,365 @@
+{
+  "name": "Magic 8-Ball NPC Target",
+  "img": "modules/game-icons-net/whitetransparent/eight-ball.svg",
+  "description": "Target of NPC actions or motives. Combine with an NPC action to develop a storyline.",
+  "results": [
+    {
+      "type": 0,
+      "text": "An Ally",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "lrq9r83op4dg4jsv",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 1
+    },
+    {
+      "type": 0,
+      "text": "A Colleague",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "o04ndh4a1pp1qmq4",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 2,
+      "rangeH": 2
+    },
+    {
+      "type": 0,
+      "text": "A Foe",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "n808m8g2fgbelsfi",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 3,
+      "rangeH": 3
+    },
+    {
+      "type": 0,
+      "text": "A Traitor",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "1okk3frostjhn4ig",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 4,
+      "rangeH": 4
+    },
+    {
+      "type": 0,
+      "text": "A New Force",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "wz00iytz32kd9njm",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 5,
+      "rangeH": 5
+    },
+    {
+      "type": 0,
+      "text": "An Old Enemy",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "owu2bzyrzk9gsk6t",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 6,
+      "rangeH": 6
+    },
+    {
+      "type": 0,
+      "text": "Old Lore",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4dca5r6gcdreq8b9",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 7,
+      "rangeH": 7
+    },
+    {
+      "type": 0,
+      "text": "The People",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "r8457cyzb6hl8o6e",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 8,
+      "rangeH": 8
+    },
+    {
+      "type": 0,
+      "text": "Magic",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ze0y0kb7lrzhdq3i",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 9,
+      "rangeH": 9
+    },
+    {
+      "type": 0,
+      "text": "A Death",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "kxk67rb24lfqcyu3",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 10,
+      "rangeH": 10
+    },
+    {
+      "type": 0,
+      "text": "A Murder",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "mmx23n47gjcmicpv",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 11,
+      "rangeH": 11
+    },
+    {
+      "type": 0,
+      "text": "An Alliance",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ahl26nofx3jgmlli",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 12,
+      "rangeH": 12
+    },
+    {
+      "type": 0,
+      "text": "A Surrender",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "sqzf94qc4ndal08x",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 13,
+      "rangeH": 13
+    },
+    {
+      "type": 0,
+      "text": "Friends",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5ktyvyukdf7fkpqe",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 14,
+      "rangeH": 14
+    },
+    {
+      "type": 0,
+      "text": "An Enemy",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "7ihvw1683baingfg",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 15,
+      "rangeH": 15
+    },
+    {
+      "type": 0,
+      "text": "An Opponent",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "npxgms5682mi9gxz",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 16,
+      "rangeH": 16
+    },
+    {
+      "type": 0,
+      "text": "An Old Mentor",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "zflky0266glz6anv",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 17,
+      "rangeH": 17
+    },
+    {
+      "type": 0,
+      "text": "New Knowledge",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "jns969hhxwcfx94m",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 18,
+      "rangeH": 18
+    },
+    {
+      "type": 0,
+      "text": "Alchemy",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "uqr701grm8s463g5",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 19,
+      "rangeH": 19
+    },
+    {
+      "type": 0,
+      "text": "Dark Forces",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "0mz54ymnfu3oovbt",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 20,
+      "rangeH": 20
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}
