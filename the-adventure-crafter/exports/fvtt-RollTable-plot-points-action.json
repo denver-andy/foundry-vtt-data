@@ -1,0 +1,756 @@
+{
+  "name": "Plot Points - Action",
+  "img": "modules/game-icons-net/whitetransparent/crafting.svg",
+  "description": "Action-themed plot points.",
+  "results": [
+    {
+      "type": 0,
+      "text": "CONCLUSION: If this Turning Point is currently a Plotline Development, then it becomes a Plotline Conclusion. Incorporate anything necessary into this Turning Point to end this Plotline and remove it from the Plotlines List. If this Turning Point is a New Plotline or already a Conclusion, then consider this Plot Point a None.",
+      "weight": 8,
+      "range": [
+        1,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "fu2g034r7ojh644w",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 8
+    },
+    {
+      "type": 0,
+      "text": "NONE: Leave this Plot Point blank and go on to the next Plot Point, unless it would leave you with fewer than 2 Plot Points in this Turning Point, in which case re-roll.",
+      "weight": 16,
+      "range": [
+        9,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ftj4zuny7pi4501f",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 9,
+      "rangeH": 24
+    },
+    {
+      "type": 0,
+      "text": "A CHARACTER IS ATTACKED IN A NON-LETHAL WAY: A Character is attacked, but the assailant will not attack to kill.",
+      "weight": 2,
+      "range": [
+        25,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "9cg0fes9excz6ssg",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 25,
+      "rangeH": 26
+    },
+    {
+      "type": 0,
+      "text": "COLLATERAL DAMAGE: Whatever is going on in this Turning Point, the activity will spill over from the focus of that activity to things around it. This is particularly true for damaging events. For instance, a superhero defeats a villain in a downtown brawl, but doing significant damage to the buildings around them in the process. The collateral damage does not have to be physical. For instance, it could be the legal fallout from a major court decision.",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "qc5vk53kgsk7t4dm",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 27,
+      "rangeH": 27
+    },
+    {
+      "type": 0,
+      "text": "A CHARACTER IS ATTACKED IN A LETHAL WAY: An assailant is trying to kill a Character.",
+      "weight": 2,
+      "range": [
+        28,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ev5tu9hapbkz1t05",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 28,
+      "rangeH": 29
+    },
+    {
+      "type": 0,
+      "text": "AMBUSH: Whatever is happening in this Turning Point involves sudden action at an unexpected time.",
+      "weight": 2,
+      "range": [
+        30,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "yntvvagytaf4v6oi",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 30,
+      "rangeH": 31
+    },
+    {
+      "type": 0,
+      "text": "CATASTROPHE: Just about the worst thing that can happen does happen, and it happens spectacularly and with much action. This could be the impregnable fortress that gets sacked, the unstoppable superhero who gets defeated, the unsinkable ship that starts to sink.",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "f2jglhhe8qhncjrn",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 32,
+      "rangeH": 32
+    },
+    {
+      "type": 0,
+      "text": "CHARACTER HAS A CLEVER IDEA: A Character has an idea that has an impact on this Turning Point. For instance, the con man speaks up and just happens to know a secret way through the sewers into the walled city.",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "v1n7i90fvjhqtc3e",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 33,
+      "rangeH": 33
+    },
+    {
+      "type": 0,
+      "text": "SOMETHING IS GETTING AWAY: This Turning Point involves a time limit where, at the end of it, something will get away. For instance, a ship carrying a magic artifact is about to leave the dock and a Character has to fight their way through a pack of armed goons to board the ship before it sets sail.",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "n8jpylzwgwlfhmj6",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 34,
+      "rangeH": 34
+    },
+    {
+      "type": 0,
+      "text": "HUNTED: A Character is being hunted by someone or something that is not strictly legitimate. In other words, as opposed to Wanted By The Law, Hunted may mean a hit man is pursuing a Character to fulfill a mafia contract on them, or a ghost may be after a Character. The hunter doesn’t have to be seeking to kill.",
+      "weight": 2,
+      "range": [
+        35,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "bk344i6ifi5o62qx",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 35,
+      "rangeH": 36
+    },
+    {
+      "type": 0,
+      "text": "DISTRACTION: A Character is distracted in this Turning Point in such a way that it impacts events. For instance, before a villain delivers his killing blow he’s distracted by an image of his lost love, giving the hero time to escape.",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "zrwu21ok6jonsg9x",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 37,
+      "rangeH": 37
+    },
+    {
+      "type": 0,
+      "text": "A CHARACTER IS ATTACKED TO ABDUCT: An assailant is attempting to abduct a Character.",
+      "weight": 2,
+      "range": [
+        38,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "mvc8w3ukjmarlq2i",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 38,
+      "rangeH": 39
+    },
+    {
+      "type": 0,
+      "text": "SOMETHING EXOTIC: Whatever is happening in this Turning Point it involves an unusual or exotic element. For instance, if the Turning Point is about someone being attacked by an assassin, the assassin may have a very unusual identity or mode of attack (maybe he’s disguised as a clown and attacks with exploding balloons, or he is a martial artist with fantastic moves).",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ypkughelvcwip47i",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 40,
+      "rangeH": 40
+    },
+    {
+      "type": 0,
+      "text": "IMMEDIATELY: Immediate action is required in this Turning Point, whatever is going on. For instance, if this Turning Point involves engine failure on a starship, the Character doesn’t have days to resolve the issue, he may only have an hour. Whatever is going on, it requires immediate action.",
+      "weight": 2,
+      "range": [
+        41,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "hy7ev3d7yfpg33pc",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 41,
+      "rangeH": 42
+    },
+    {
+      "type": 0,
+      "text": "CHASE: This Turning Point involves a chase, where one Character is pursuing another.",
+      "weight": 2,
+      "range": [
+        43,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "eo1ssjvfnrpt43k9",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 43,
+      "rangeH": 44
+    },
+    {
+      "type": 0,
+      "text": "ESCAPE: This Turning Point involves an escape of some sort. For instance, a Character who was captured by brigands in an earlier Turning Point manages to slip away from his captors and escape into the forest.",
+      "weight": 2,
+      "range": [
+        45,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ts8pm8f9hlck5qxr",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 45,
+      "rangeH": 46
+    },
+    {
+      "type": 0,
+      "text": "HEAVILY GUARDED: This Turning Point involves entering a heavily guarded and dangerous location. For instance, this could be needing to infiltrate a high tech security facility to steal information, or breaking into the necromancers lair full of guardian zombies to destroy his magic crystal.",
+      "weight": 2,
+      "range": [
+        47,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "lp6s8ny6q6nxgx29",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 47,
+      "rangeH": 48
+    },
+    {
+      "type": 0,
+      "text": "RESCUE: A Character needs to be rescued in this Turning Point.",
+      "weight": 2,
+      "range": [
+        49,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "edrw25xnlcb3jmb9",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 49,
+      "rangeH": 50
+    },
+    {
+      "type": 0,
+      "text": "PHYSICAL CONTEST OF SKILLS: This Turning Point involves Characters squaring off against each other in a physical contest of skills. This can be anything such as combat, a sporting event, duel, arm wrestling contest, etc.",
+      "weight": 2,
+      "range": [
+        51,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "85whgjshp0bb4szr",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 51,
+      "rangeH": 52
+    },
+    {
+      "type": 0,
+      "text": "MASS BATTLE: This Turning Point involves a combat between many combatants. This can be a throw down between two teams or a battle in a war, for instance.",
+      "weight": 2,
+      "range": [
+        53,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5h3p6cb1tnut6yvy",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 53,
+      "rangeH": 54
+    },
+    {
+      "type": 0,
+      "text": "A CRUCIAL LIFE SUPPORT SYSTEM BEGINS TO FAIL: This can be an actual life support system, like the oxygen ventilation of a starship, or a safety system, like the brakes on a car. The failure will constitute an emergency for the Characters involved.",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4q88s9yt626ctqya",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 55,
+      "rangeH": 55
+    },
+    {
+      "type": 0,
+      "text": "VICTORY!: A Character achieves a victory over another Character in this Turning Point. For instance, a band of marauders successfully waylay the king’s couriers, or a hacker worms his way into a corporate computer system.",
+      "weight": 2,
+      "range": [
+        56,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "vkvcx0ihhci096uk",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 56,
+      "rangeH": 57
+    },
+    {
+      "type": 0,
+      "text": "TAKING CHANCES: A Character acts in a very risky way. For instance, a Character may suddenly show no regard for their life as they walk out across a narrow beam above a valley to save a friend. Or, the villain you are fighting takes a drug that makes him go into a battle frenzy where he loses all caution.",
+      "weight": 2,
+      "range": [
+        58,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "0gjk5pc1x15bpe8q",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 58,
+      "rangeH": 59
+    },
+    {
+      "type": 0,
+      "text": "SOLE SURVIVOR: This Turning Point involves some kind of process of elimination where there is only one left. This can be a battle, but doesn’t have to be. For instance, maybe a sinking ship has a single survivor who washes up on shore, or a group of crewmen from a starship playing chess with an alien intelligence is down to their last crewmember who is now chosen for the alien’s ultimate challenge.",
+      "weight": 2,
+      "range": [
+        60,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "bozxd36vgjp6m1bw",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 60,
+      "rangeH": 61
+    },
+    {
+      "type": 0,
+      "text": "STOP THAT: A Character takes action to stop something from happening in this Turning Point. The action could be expected, such as a hero putting an arrow through the executioner before he drops his axe. Or, it could be unexpected, like a Character suddenly shooting a captured villain right before he was about to reveal crucial details.",
+      "weight": 2,
+      "range": [
+        62,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "qtzmrm33b0jf7rla",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 62,
+      "rangeH": 63
+    },
+    {
+      "type": 0,
+      "text": "DEFEND OR NOT TO DEFEND: This Turning Point involves a confrontation between two Characters, where another Character views it and has the option to intervene or not. The observing Character is not directly part of the confrontation, but will become so if they step in. This Plot Point calls for three Characters to be Invoked.",
+      "weight": 2,
+      "range": [
+        64,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "w57ikffu1q2mrp8w",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 64,
+      "rangeH": 65
+    },
+    {
+      "type": 0,
+      "text": "CRASH: This Turning Point involves a vehicle carrying a Character to crash or threaten to crash. The Character(s) involved must either mitigate the damage of the crash, prevent the crash in the first place, and/or survive the crash. The vehicle can be anything from a plane to a car to a snow sled ... anything that can transport a Character and its crashing would be dangerous.",
+      "weight": 2,
+      "range": [
+        66,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "xey9lz90x5lv5zwh",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 66,
+      "rangeH": 67
+    },
+    {
+      "type": 0,
+      "text": "PHYSICAL BARRIER TO OVERCOME: A Character faces a physical barrier of some sort that must be overcome. It could be a cliff that needs to be climbed, a rickety bridge to cross, a door that needs to be knocked down, etc. Whatever the barrier is, it will require physical action to get past.",
+      "weight": 2,
+      "range": [
+        68,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "h9a45j7dgqll6eqx",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 68,
+      "rangeH": 69
+    },
+    {
+      "type": 0,
+      "text": "DOUBLE DOWN: Whatever is happening in this Turning Point, those events will intensify. For instance, if a ship is leaking on the high seas during a storm, maybe torrential winds tear down the sails.",
+      "weight": 2,
+      "range": [
+        70,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "2f33ozi0r65klbsu",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 70,
+      "rangeH": 71
+    },
+    {
+      "type": 0,
+      "text": "THEFT: This Turning Point involves a theft, whether attempted or successful. What is being stolen is an object of some kind, or information, or anything that can be taken. This Turning Point involves the actual activity and action of the theft or attempted theft. For instance, the Character is strolling through a museum when a group of men burst in to steal a ritual mask.",
+      "weight": 2,
+      "range": [
+        72,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "fmh9z6smfmfdjtws",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 72,
+      "rangeH": 73
+    },
+    {
+      "type": 0,
+      "text": "DEALING WITH A CALAMITY: This Turning Point involves a Character having to “fight” a calamity of some kind. For instance, maybe the Character is battling a fire to put it out, or he must fight his way through an ancient stone temple as it collapses around him.",
+      "weight": 2,
+      "range": [
+        74,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4x8kwpyrbru2hxmx",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 74,
+      "rangeH": 75
+    },
+    {
+      "type": 0,
+      "text": "SUDDEN CESSATION: Whatever is happening in this Turning Point, it will suddenly cease. This could occur at any time and the causes may be unknown. For instance, if Characters are attacked by a group, the group may suddenly break off and run away.",
+      "weight": 2,
+      "range": [
+        76,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "s8c77fxtblbo2ck2",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 76,
+      "rangeH": 77
+    },
+    {
+      "type": 0,
+      "text": "USED AGAINST THEM: A resource owned or aligned with one Character is somehow turned against them in this Turning Point. For instance, a small starship is being pursued by three massive battle cruisers. By skillful piloting, the smaller ship causes the larger ships to collide with each other, using their size against them. Or, a wizard may command a powerful golem, but another wizard casts a spell to make the golem attack its master.",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "uk3u7b0x5c6dto0i",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 78,
+      "rangeH": 78
+    },
+    {
+      "type": 0,
+      "text": "TRAVEL SETTING: This Turning Point takes place in a traveling vehicle. For instance, a ship at sea, a train, a ship hurtling through space, etc.",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "vw5pppgjv6rpoc58",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 79,
+      "rangeH": 79
+    },
+    {
+      "type": 0,
+      "text": "FRENETIC ACTIVITY: This Turning Point involves action coming fast and furious at a Character. It should be a rapid fire succession of action, for instance a series of attackers, an out of control boat rocketing down a rapids approaching peril after peril, running a gauntlet of some kind through a series of traps, etc.",
+      "weight": 2,
+      "range": [
+        80,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "fe8cdpqbx9n1bhus",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 80,
+      "rangeH": 81
+    },
+    {
+      "type": 0,
+      "text": "SNEAKY BARRIER: A barrier needs to be overcome through stealth or dexterity. For instance, a monster lives in a cave that is only accessible by climbing a high, treacherous cliffside. Or, there are too many ninjas guarding the villain to fight your way through, but you can slip past them unseen if you are skilled enough.",
+      "weight": 2,
+      "range": [
+        82,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "z9fsaqqo8jyz78m9",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 82,
+      "rangeH": 83
+    },
+    {
+      "type": 0,
+      "text": "A MOMENT OF PEACE: Whatever else is going on in this Turning Point, it should overall be a peaceful time for a Character. For instance, there is a lull in the war where the combatants have a chance to enjoy a drink together and relax before they must fight again.",
+      "weight": 2,
+      "range": [
+        84,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "dgq07em9o6oicw9o",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 84,
+      "rangeH": 85
+    },
+    {
+      "type": 0,
+      "text": "BEAT YOU TO IT: Whatever is happening in this Turning Point that involves arriving at a location for some purpose, a Character discovers that someone else has arrived before them. For instance, a Character goes to the morgue to check out a clue and learns that another investigator already showed up and took the body.",
+      "weight": 2,
+      "range": [
+        86,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "gz1bp63l8rh1atzc",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 86,
+      "rangeH": 87
+    },
+    {
+      "type": 0,
+      "text": "CONFRONTATION: This Turning Point involves Characters meeting in a confrontation that may turn physical if things don’t go well. For instance, a Character meets the leader of a street gang to get information, but the gang is notoriously twitchy and violent.",
+      "weight": 2,
+      "range": [
+        88,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5muqcktr547vcwg2",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 88,
+      "rangeH": 89
+    },
+    {
+      "type": 0,
+      "text": "PROTECTOR: A Character must protect someone or something in this Turning Point. If this is an Action Plot Point, the Character must actively protect in this Turning Point from a threat. If it is a Personal Plot Point, then the Character receives the protection duty in this Turning Point.",
+      "weight": 2,
+      "range": [
+        90,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "u45kkcrlh0cr5qh5",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 90,
+      "rangeH": 91
+    },
+    {
+      "type": 0,
+      "text": "CRESCENDO: A series of events that has taken place in this Adventure culminates in this Turning Point. If this is early in the Adventure or in this Plotline, then instead the Adventure or Plotline gets off to a fiery start. For instance, Characters following clues to track a cult finally discover their lair, resulting in a mass battle. Or, a Plotline about retrieving a stolen gem begins with a very elaborate theft.",
+      "weight": 2,
+      "range": [
+        92,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4pkr481hb64h0bpk",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 92,
+      "rangeH": 93
+    },
+    {
+      "type": 0,
+      "text": "DESTROY THE THING: A Character must destroy or try to destroy something in this Turning Point. Maybe a party of dungeon delvers reaches the heart of the cavern where they must break a mystic seal.",
+      "weight": 2,
+      "range": [
+        94,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "7wzdfyt3ee3qqoq6",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 94,
+      "rangeH": 95
+    },
+    {
+      "type": 0,
+      "text": "META: This is a special Plot Point category with Plot Points that change the Characters List or combine Plotlines. Go to the Meta Plot Points Table and roll 1d100 on it for your Plot Point.",
+      "weight": 5,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "0n8kbbgcdljj88yb",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 96,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

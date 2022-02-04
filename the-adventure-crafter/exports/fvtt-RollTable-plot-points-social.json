@@ -1,0 +1,892 @@
+{
+  "name": "Plot Points - Social",
+  "img": "modules/game-icons-net/whitetransparent/crafting.svg",
+  "description": "Plot points that emphasize social interactions.",
+  "results": [
+    {
+      "type": 0,
+      "text": "CONCLUSION: If this Turning Point is currently a Plotline Development, then it becomes a Plotline Conclusion. Incorporate anything necessary into this Turning Point to end this Plotline and remove it from the Plotlines List. If this Turning Point is a New Plotline or already a Conclusion, then consider this Plot Point a None.",
+      "weight": 8,
+      "range": [
+        1,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "78lyffa2tqseifb8",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 8
+    },
+    {
+      "type": 0,
+      "text": "NONE: Leave this Plot Point blank and go on to the next Plot Point, unless it would leave you with fewer than 2 Plot Points in this Turning Point, in which case re-roll.",
+      "weight": 16,
+      "range": [
+        9,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "iglt1h92oka3b646",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 9,
+      "rangeH": 24
+    },
+    {
+      "type": 0,
+      "text": "OUTCAST: A Character is considered an outcast by other Characters for some reason. Maybe the Character is part of an ethnic group that is disliked in the area, or perhaps the Character is popularly believed to be the perpetrator of a heinous crime.",
+      "weight": 2,
+      "range": [
+        25,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "y6080j826gvv5vg3",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 25,
+      "rangeH": 26
+    },
+    {
+      "type": 0,
+      "text": "SOLD!: This Turning Point involves a sale of some kind. Maybe goods are being sold, or information is being bought. Whatever is happening, goods and money are exchanging hands.",
+      "weight": 2,
+      "range": [
+        27,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "dukh9es7m3b01w99",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 27,
+      "rangeH": 28
+    },
+    {
+      "type": 0,
+      "text": "RETALIATION: Whatever is happening in this Turning Point, it involves an element of retaliation or revenge.",
+      "weight": 2,
+      "range": [
+        29,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6umskpgv0i97ltt9",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 29,
+      "rangeH": 30
+    },
+    {
+      "type": 0,
+      "text": "A HIGH ENERGY GATHERING: This Turning Point involves a social gathering with a great deal of energy or activity. This could be a busy nightclub, a loud party, or a sporting event, for instance.",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "500ayagmipef5ky6",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 31,
+      "rangeH": 31
+    },
+    {
+      "type": 0,
+      "text": "A RARE OR UNIQUE SOCIAL GATHERING: This is a social gathering for a specific and rare purpose. Examples would include funerals or a wedding.",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5hrj5yd0jsrj8ada",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 32,
+      "rangeH": 32
+    },
+    {
+      "type": 0,
+      "text": "AN ORGANIZATION: This Turning Point involves an organization of some kind. This can be an organization already in the Characters List or not. Whatever is happening in this Turning Point, the organization is formally involved in some way. For instance, a crime has been committed and a local guild had knowledge of it and covered it up to protect its own interests.",
+      "weight": 2,
+      "range": [
+        33,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "l0391lzkufp1l93w",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 33,
+      "rangeH": 34
+    },
+    {
+      "type": 0,
+      "text": "PEOPLE BEHAVING BADLY: This Turning Point involves someone behaving in a socially unacceptable way. For example, a group of drunks throwing bottles, or a heckler in a crowd yelling at a speaker.",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "cn3hs8pq2eu64zjp",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 35,
+      "rangeH": 35
+    },
+    {
+      "type": 0,
+      "text": "FAME: Whatever is happening in this Turning Point involves someone famous to some extent. This doesn’t necessarily mean that a famous Character is Invoked, just that the Turning Point has some connection to fame. For instance, if this Turning Point involves learning a secret about another Character, you may learn that they were once a member of a famous superhero group decades ago.",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "18u2ms8rsd7jgi6c",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 36,
+      "rangeH": 36
+    },
+    {
+      "type": 0,
+      "text": "SCAPEGOAT: This Turning Point involves an innocent Character accused of wrongdoing to throw suspicion off of the real culprit. For instance, the woman who took all the ammo blames the newcomer to the zombie survivalist group, or the mayor of the little New England town blames the practitioners of a religion for the bizarre events going on when he is actually at fault.",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "z3knpdnt4jfbadlx",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 37,
+      "rangeH": 37
+    },
+    {
+      "type": 0,
+      "text": "THE OBSERVER: Whatever is happening in this Turning Point that is presumed to be private from someone, is actually being witnessed or observed. The observed are not aware of this observer. For instance, two enemy generals are meeting in secret to form an alliance and betray their respective kings, but the meeting is observed by a princess who knows exactly what it means.",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "3wml2jeeia7lhbl6",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 38,
+      "rangeH": 38
+    },
+    {
+      "type": 0,
+      "text": "LIAR!: This Turning Point involves an active lie. The lie is being committed in this Turning Point. Something someone said or claimed is false. For instance, a vampire lord claims he knows nothing of a magic book, when actually he is seeking it himself. The lie may or may not be detected in this Turning Point.",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "1pn7f3ppgkoz14di",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 39,
+      "rangeH": 39
+    },
+    {
+      "type": 0,
+      "text": "HEADQUARTERS: A setting in this Turning Point is a Character’s main headquarters. For instance, it may be the ritzy bar where the mob boss runs his empire, or the wizard’s wilderness tower.",
+      "weight": 2,
+      "range": [
+        40,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "f8v3t5qf8rjh9757",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 40,
+      "rangeH": 41
+    },
+    {
+      "type": 0,
+      "text": "A COMMON SOCIAL GATHERING: This Turning Point involves a social gathering. This can be any gathering of people, generally for a common purpose, such as gathering for dinner at a home or restaurant, or an afternoon at a mall. The social gathering itself should be considered of a mundane nature, although what else transpires at the gathering doesn’t necessarily have to be.",
+      "weight": 2,
+      "range": [
+        42,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "2dqwjl7fss85fb15",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 42,
+      "rangeH": 43
+    },
+    {
+      "type": 0,
+      "text": "LIGHT URBAN SETTING: This Turning Point takes place in a light urban setting, such as a small town or village.",
+      "weight": 2,
+      "range": [
+        44,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4bx2xy00ufl18aw7",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 44,
+      "rangeH": 45
+    },
+    {
+      "type": 0,
+      "text": "A WORK RELATED GATHERING: This is a social gathering that involves professionals or workers. The gathering itself may or may not involve their actual work. For instance, police officers gathering at a “cop bar” or a team of super heroes gathering at their headquarters would both count.",
+      "weight": 2,
+      "range": [
+        46,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "45814ru4n4ygx7kl",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 46,
+      "rangeH": 47
+    },
+    {
+      "type": 0,
+      "text": "SUSPICION: This Turning Point involves a Character being suspicious of another Character for some reason. For instance, a beloved leader on a space station is murdered and suddenly every newcomer on board is viewed with suspicion.",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "qtuqsd9twzvdfqy8",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 48,
+      "rangeH": 48
+    },
+    {
+      "type": 0,
+      "text": "ENEMIES: This Turning Point involves enemies of a Character. Whatever activity is going on in this Turning Point, those enemies play an important role.",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "kz1jposiclik3ix7",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 49,
+      "rangeH": 49
+    },
+    {
+      "type": 0,
+      "text": "DENSE URBAN SETTING: This Turning Point takes place in a heavily urban area, such as a large city.",
+      "weight": 2,
+      "range": [
+        50,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "b3z1499zp65a8098",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 50,
+      "rangeH": 51
+    },
+    {
+      "type": 0,
+      "text": "A GROUP IS IN TROUBLE: A group, such as a community, is in trouble in this Plot Point. The group or community is facing a difficulty. For instance, maybe a village is being harassed by monsters, or a corporation is facing a lawsuit that could destroy it. Whatever the trouble is, it should be something that can be solved and will likely constitute a problem for a Character.",
+      "weight": 2,
+      "range": [
+        52,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "n7ksbbepk9d7hs7i",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 52,
+      "rangeH": 53
+    },
+    {
+      "type": 0,
+      "text": "TOKEN RESPONSE: A Character or organization acting in this Turning Point does the bare minimum to address a problem, or makes just a token effort, as opposed to doing something truly effective. For instance, a notorious space pirate has been captured, but instead of receiving serious prison time, the federation government goes very lenient on him and releases him from prison in a week.",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "lgic7etpevz15gq7",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 54,
+      "rangeH": 54
+    },
+    {
+      "type": 0,
+      "text": "NOT THEIR MASTER: A Character in this Turning Point who is assumed to be working for one source turns out to be working for another. For instance, the hitman who’s been trying to kill a Character doesn’t work for the mafia like you thought, but for a corporation who has an interest in that Character.",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "m8j7k8wxwh2eyeeb",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 55,
+      "rangeH": 55
+    },
+    {
+      "type": 0,
+      "text": "PUBLIC LOCATION: This Turning Point involves a public location, such as a town square or a park in the middle of the day.",
+      "weight": 2,
+      "range": [
+        56,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "p6y35nhjpeps4p1d",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 56,
+      "rangeH": 57
+    },
+    {
+      "type": 0,
+      "text": "THE LEADER: This Turning Point involves the leader of someone or some organization.",
+      "weight": 2,
+      "range": [
+        58,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4zfq5nftr1xk0wp1",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 58,
+      "rangeH": 59
+    },
+    {
+      "type": 0,
+      "text": "SAVIOR: A Character is involved in this Turning Point who offers to save the day.",
+      "weight": 2,
+      "range": [
+        60,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "sdmheznrv8x1hyx5",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 60,
+      "rangeH": 61
+    },
+    {
+      "type": 0,
+      "text": "REINFORCEMENTS: A Character who is running low on a human resource gets a boost. For instance, the battle is going poorly for King Leonard, but just before they lose King Ferdinand appears on the hill with his forces ready to save the day.",
+      "weight": 2,
+      "range": [
+        62,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5dhrebgi8nautqvp",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 62,
+      "rangeH": 63
+    },
+    {
+      "type": 0,
+      "text": "GOVERNMENT: This Turning Point involves government in some way. Maybe a Character has to deal with a border crossing checkpoint, or a starship needs to get proper authorization to leave port.",
+      "weight": 2,
+      "range": [
+        64,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "nifoj25v6v0iloho",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 64,
+      "rangeH": 65
+    },
+    {
+      "type": 0,
+      "text": "INJUSTICE: This Turning Point involves a social injustice of some kind. For instance, a corrupt politician uses a civic ordinance to foreclose on an apartment building where friends of a certain hero, who has upset the politician, live.",
+      "weight": 2,
+      "range": [
+        66,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "3tmvxouyabuervbj",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 66,
+      "rangeH": 67
+    },
+    {
+      "type": 0,
+      "text": "A CELEBRATION: This Plot Point involves a celebration of some sort, such as a birthday party or a high school graduation party.",
+      "weight": 2,
+      "range": [
+        68,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "3w9xxew9w9jyixot",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 68,
+      "rangeH": 69
+    },
+    {
+      "type": 0,
+      "text": "STANDOFF: This Turning Point involves two or more Characters in a tense standoff. For instance, a group of mercenaries have the Characters pinned down behind rubble with gunfire, while the Characters fire back. Neither side can take out the other, but neither can they leave without resolving the conflict.",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "3mat6c62cufrwunv",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 70,
+      "rangeH": 70
+    },
+    {
+      "type": 0,
+      "text": "RELIGION: This Turning Point involves some aspect of religion or religious belief. For instance, maybe an event is taking place at a church, or Characters stumble upon a cult preparing a magic ritual for their otherworldly god.",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "xnzjmu54czuayiom",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 71,
+      "rangeH": 71
+    },
+    {
+      "type": 0,
+      "text": "INNOCENCE: This Turning Point involves an element of innocence, usually an innocent person in an otherwise less than innocent situation. For instance, an average citizen finds herself in the middle of two vampires battling. This can also be considered a “fish out of water” Plot Point, where someone who does not belong in a situation finds themselves in that situation.",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "b9mmst574s0no7i7",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 72,
+      "rangeH": 72
+    },
+    {
+      "type": 0,
+      "text": "PREPARATION: This Turning Point involves a Character needing to prepare for something. For instance, a wizard must study up on how to banish demons before a villain arrives, or a town of prospectors and merchants must learn how to fight before the band of outlaws arrives to exact their revenge for hanging a comrade.",
+      "weight": 2,
+      "range": [
+        73,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "0wg4w875p73fseo5",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 73,
+      "rangeH": 74
+    },
+    {
+      "type": 0,
+      "text": "A MEETING OF MINDS: This Turning Point involves two Characters coming together for a discussion of importance.",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "y59zkngd1k67owig",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 75,
+      "rangeH": 75
+    },
+    {
+      "type": 0,
+      "text": "ORGANIZATIONS IN CONFLICT: This Turning Point involves two or more organizations that are at odds with each other. For instance, two rival mafia organizations may be trying to capture a master counterfeiter to use for their own purposes.",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "eruxrzvq4liz85xv",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 76,
+      "rangeH": 76
+    },
+    {
+      "type": 0,
+      "text": "POWERFUL PERSON: This Turning Point involves a powerful person. The Character’s power can be of any nature, from a physically powerful warrior to a government figure with a lot of influence. Invoke a Character. If the Character is powerful, then that is the powerful person. If they are not, then the powerful person is someone associated with that Character in some way.",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "j0des6kyaal5az48",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 77,
+      "rangeH": 77
+    },
+    {
+      "type": 0,
+      "text": "TRAVEL SETTING: This Turning Point takes place in a traveling vehicle. For instance, a ship at sea, a train, a ship hurtling through space, etc.",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "xhnm01q0hlhw1by5",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 78,
+      "rangeH": 78
+    },
+    {
+      "type": 0,
+      "text": "ESCORT DUTY: A Character must escort another Character somewhere. For instance, this could be a bodyguard transporting a high powered executive to a remote location, or a band of warriors trying to get a princess through a valley full of monsters.",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "q80qj9xxmo7u5c7p",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 79,
+      "rangeH": 79
+    },
+    {
+      "type": 0,
+      "text": "AN OLD DEAL: This Turning Point involves an agreement made long ago, probably even before this Adventure began. For instance, occult investigators researching a mysterious death discover that the deceased person sold his soul to a demon ten years ago, and they suspect the death is the demon having come to collect.",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "8ejssddtecg3t3f0",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 80,
+      "rangeH": 80
+    },
+    {
+      "type": 0,
+      "text": "ALLIANCE: One group offers to ally with another. This may be a surprise alliance, such as an enemy wanting to join with another enemy to take on a common foe, or it could be something less dramatic, such as the FBI offering to assist local law enforcement in solving a crime. The “groups” in question can be formal organizations or something looser, such as groups of individuals.",
+      "weight": 2,
+      "range": [
+        81,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "pyxuy4ycsaosouvx",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 81,
+      "rangeH": 82
+    },
+    {
+      "type": 0,
+      "text": "POWER OVER OTHERS: A Character has power over other Characters in some way, shape, or form in this Turning Point. This power puts the Character in a commanding position in regards to the others. For instance, the lord of a land demands all the peasants pay high taxes or else his men will oppress them. Or, the producer of an anti-toxin for a disease that an entire village has demands they give him whatever he wants in order to receive the medicine.",
+      "weight": 2,
+      "range": [
+        83,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "x7c1u0awhfkpbkz9",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 83,
+      "rangeH": 84
+    },
+    {
+      "type": 0,
+      "text": "RURAL SETTING: This Turning Point involves a rural setting, such as out in the country or at a farm.",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "g64ljnv3seosz2k3",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 85,
+      "rangeH": 85
+    },
+    {
+      "type": 0,
+      "text": "CORRUPTION: This Turning Point involves corruption of a social apparatus of some kind. For instance, a police officer on the take from the mob, or the villain of the Adventure turns out to be a local bureaucrat using his position to give smugglers access to a dock at night.",
+      "weight": 2,
+      "range": [
+        86,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "yn5enijcm7r5rtve",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 86,
+      "rangeH": 87
+    },
+    {
+      "type": 0,
+      "text": "IT’S BUSINESS: This Turning Point involves business or commerce in some way. It can either be a business transaction, or a business is involved in the Turning Point. For instance, a corporation hires a super hero to protect an important shipment, or a book of antiquity containing a needed spell has to be purchased from an auction house.",
+      "weight": 2,
+      "range": [
+        88,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "yj5il39scd6ewi3s",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 88,
+      "rangeH": 89
+    },
+    {
+      "type": 0,
+      "text": "JUST CAUSE GONE AWRY: This Turning Point involves something that began as a just cause but has spiraled into something unjust. For instance, a hero takes down a group of orcs terrorizing a town, saving the people, but now the hero has installed himself as the overlord of the town and is demanding tribute.",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "o8s9nz2cwva1qq4l",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 90,
+      "rangeH": 90
+    },
+    {
+      "type": 0,
+      "text": "CONFRONTATION: This Turning Point involves Characters meeting in a confrontation that may turn physical if things don’t go well. For instance, a Character meets the leader of a street gang to get information, but the gang is notoriously twitchy and violent.",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "a7nv7du3lhaqvp0a",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 91,
+      "rangeH": 91
+    },
+    {
+      "type": 0,
+      "text": "ARGUMENT: A disagreement between two Characters leads to a conflict in this Turning Point.",
+      "weight": 2,
+      "range": [
+        92,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "k0apkoq18gjt3d35",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 92,
+      "rangeH": 93
+    },
+    {
+      "type": 0,
+      "text": "SOCIAL TENSION SET TO BOILING: An element of extreme social tension is near the breaking point. This Turning Point involves some aspect of that, such as an event that increases the tension or an event that is a result of the tension. For instance, two nations at the brink of war have a border skirmish as pressure rises among soldiers.",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "gjn9wxpxxv6yn0h3",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 94,
+      "rangeH": 94
+    },
+    {
+      "type": 0,
+      "text": "SERVANT: This Turning Point involves a servant or proxy of another Character. Invoke a Character for the servant to represent.",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "x5aaspf6grn25t7p",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 95,
+      "rangeH": 95
+    },
+    {
+      "type": 0,
+      "text": "META: This is a special Plot Point category with Plot Points that change the Characters List or combine Plotlines. Go to the Meta Plot Points Table and roll 1d100 on it for your Plot Point.",
+      "weight": 5,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "9n13qyfnynnzlyba",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 96,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}
