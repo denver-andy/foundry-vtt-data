@@ -1,0 +1,13 @@
+{
+  "name": "Resolving Random Events",
+  "content": "",
+  "img": "mythic-magazine/images/resolving_random_events.jpg",
+  "flags": {
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

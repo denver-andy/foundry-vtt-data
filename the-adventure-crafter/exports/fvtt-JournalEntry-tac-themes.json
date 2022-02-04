@@ -1,0 +1,17 @@
+{
+  "name": "TAC Themes",
+  "content": "<h2>Action</h2>\n<p>Action Themed Plot Points focus on elements that promote instant activity in the Adventure. These Plot Points will often call upon Characters to get busy and do something right away, like fight off opponents or deal with a deadly catastrophe.</p>\n<p>Adventures with Action as the top Theme will feature lots of activity, such as combat and emergencies to handle.</p>\n<p> </p>\n<h2>Tension</h2>\n<p>Tension Plot Points are Adventure elements designed to make Characters nervous. This is the horror movie Theme, where Adventures that feature Tension as the top Theme will have plenty of elements to frighten and make  Characters sweat.</p>\n<p> </p>\n<h2>Mystery</h2>\n<p>Mystery Plot Points are all about raising and answering questions. Adventures with Mystery as the top Theme will likely feature a lot of investigation on the part of the Characters.</p>\n<p> </p>\n<h2>Social</h2>\n<p>The Social Theme is all about people interacting with each other and the presence of social institutions. An Adventure with Social as the top Theme will likely involve a lot of elements that invoke the goals and aspirations of individuals and groups, and how those ambitions interact with others. A Social Themed Adventure may include a lot of negotiation and intrigue.</p>\n<p> </p>\n<h2>Personal</h2>\n<p>The Personal Theme is all about drawing individual Characters into the Adventure personally, with their backgrounds and personal stories having direct connections with the Plotlines of the Adventure. Adventures with Personal as the top Theme will likely include elements that tie at least one Character directly into a Plotline.</p>\n<p> </p>\n<h2>What are Themes Used For?</h2>\n<p>Aside from helping to frame the Adventure in your mind, Themes have a practical use in The Adventure Crafter. You create Plot Points for each Turning Point in your Adventure with Themes guiding this process. Plot Points are specific elements that direct the course of your Adventure, for instance indicating that a Character gets attacked or revealing that a Character has discovered a clue to a mystery.</p>\n<p>Plot Points are broken up into the five different Theme categories. When rolling for a Plot Point, you also roll to see which Theme you are drawing your Plot Point from. Higher priority Themes are more likely to come up than lower priority Themes.</p>",
+  "img": null,
+  "flags": {
+    "monks-enhanced-journal": {
+      "type": "base",
+      "scrollPos": "{\".description\":0}"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

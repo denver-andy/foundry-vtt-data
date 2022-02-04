@@ -1,0 +1,13 @@
+{
+  "name": "Adventure Crafter Flowchart",
+  "content": "",
+  "img": "mythic-magazine/images/adventure_crafter_flowchart.jpg",
+  "flags": {
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}
