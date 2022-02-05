@@ -1,0 +1,161 @@
+{
+  "name": "TAC Character - Special Traits",
+  "img": "modules/game-icons-net/whitetransparent/portrait.svg",
+  "description": "This table defines special traits associated with new characters.",
+  "results": [
+    {
+      "type": 0,
+      "text": "THE CHARACTER IS AN INDIVIDUAL: The Character is an individual, as opposed to an organization or object.",
+      "weight": 50,
+      "range": [
+        1,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "8mwmikhkucbc6bge",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 50
+    },
+    {
+      "type": 0,
+      "text": "THE CHARACTER IS AN ORGANIZATION: This Character is not a specific individual, but an organization or community. General members of this organization are considered part of the Character as a community.",
+      "weight": 7,
+      "range": [
+        51,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "q636n3bbe6y9b4l5",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 51,
+      "rangeH": 57
+    },
+    {
+      "type": 0,
+      "text": "THE CHARACTER IS AN OBJECT: This Character is something other than a typical, living individual or group organization. The Character is an object of some kind that could also be considered a Character unto itself. Examples might include a spaceship that is old and temperamental, or a city teeming with culture.",
+      "weight": 7,
+      "range": [
+        58,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "alecwj9nw9nmbsac",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 58,
+      "rangeH": 64
+    },
+    {
+      "type": 0,
+      "text": "THE CHARACTER IS CONNECTED TO THIS PLOTLINE: This Character enters the Adventure somehow connected with the Plotline of this Turning Point.",
+      "weight": 7,
+      "range": [
+        65,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "vvu39mhnkctywwt8",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 65,
+      "rangeH": 71
+    },
+    {
+      "type": 0,
+      "text": "THE CHARACTER IS NOT CONNECTED TO THIS PLOTLINE: This Character enters the Adventure not connected to this Turning Point’s Plotline. The Character may become part of the Plotline in the course of this Turning Point, but does not start off that way. Examples include bystanders to the main events of a Turning Point or people outside the events of the Plotline who get drawn into the Adventure.",
+      "weight": 7,
+      "range": [
+        72,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "7tsb3fafnyo56clc",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 72,
+      "rangeH": 78
+    },
+    {
+      "type": 0,
+      "text": "THE CHARACTER ASSISTS IN RESOLVING THIS PLOTLINE: This Character is someone who can help resolve the current Plotline in some way, likely serving as an aid to the Player Characters.",
+      "weight": 7,
+      "range": [
+        79,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "dt9lk2avhzyemshf",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 79,
+      "rangeH": 85
+    },
+    {
+      "type": 0,
+      "text": "THE CHARACTER HINDERS RESOLVING THIS PLOTLINE: This Character gets in the way of resolving the current Plotline in some way, likely serving as a complication to the Player Characters.",
+      "weight": 7,
+      "range": [
+        86,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "as06xfv9vagkub56",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 86,
+      "rangeH": 92
+    },
+    {
+      "type": 0,
+      "text": "THE CHARACTER IS CONNECTED TO AN EXISTING CHARACTER: This Character has some relationship to another, existing Character in this Adventure. Roll on the Characters List to see who. A result of New Character is changed to Choose The Most Logical Character. The connection can be anything, from the two Characters are related, they know each other, they were former friends, they both work in the same occupation or belong to the same organization, they look or act similarly, they have similar skills or equipment, etc. The connection can be as close or as distant as you like.",
+      "weight": 8,
+      "range": [
+        93,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ikpexso91qelljrx",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 93,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}
