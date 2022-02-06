@@ -1,0 +1,52 @@
+Flour{1}|
+Salt{1}|
+Canvas{1}|
+Fabric/Cloth{1}|
+Spices{1}|
+Rare Spices{1}|
+Metal Ore{1}|
+Precious Metals{1}|
+Metal Ingots{1}|
+Lumber{1}|
+Fruit{1}|
+Vegetables{1}|
+Coal{1}|
+Wool or Cotton{1}|
+Milk, Cheese, & Butter{1}|
+Honey{1}|
+Tallow{1}|
+Wax{1}|
+Dried Fish{1}|
+Sugar{1}|
+Coffee & Tea{1}|
+Tobacco{1}|
+Stone{1}|
+Marble{1}|
+Ceramics or Porcelain{1}|
+Ale{1}|
+Wine{1}|
+Spirits{1}|
+Dried Meats{1}|
+Art{1}|
+Clothing{1}|
+Fine Clothing{1}|
+Glassware{1}|
+Jewelry{1}|
+Gemstones{1}|
+Pigments or Paint{1}|
+Leather{1}|
+Furs{1}|
+Bricks{1}|
+Furniture{1}|
+Inks & Parchment{1}|
+Tools{1}|
+Weapons{1}|
+Armor{1}|
+Hay{1}|
+Grains{1}|
+Livestock{1}|
+Fowl{1}|
+Exotic Creatures{1}|
+Slaves{1}
+
+Trade goods carried by a ship, caravan, etc.
