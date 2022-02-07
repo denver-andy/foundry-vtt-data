@@ -1,0 +1,12 @@
+The target is moved within the location.|
+A powerful enemy arrived at the location.|
+Another group tries to steal the target.|
+An external event changes up the situation.|
+War erupts around the location.|
+Extra non-combatants arrive at the location.|
+The guardians of the target change their behavior.|
+The target changes in some way. (An egg hatches, a magic item wakes up...)|
+An accident or disaster occurs at the location.|
+An opposing force at the location wakes up.
+
+Complications that might occur during a heist. Taken from Sly Flourish's blog "Running Heists in D&D".
