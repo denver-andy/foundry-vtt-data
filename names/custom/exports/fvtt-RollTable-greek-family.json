@@ -1,0 +1,1728 @@
+{
+  "name": "Greek - Family",
+  "img": "modules/game-icons-net/whitetransparent/id-card.svg",
+  "description": "Greek-inspired family names.",
+  "results": [
+    {
+      "type": 0,
+      "text": "Adamos",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "o0algl3xlqrwdqcu",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 1
+    },
+    {
+      "type": 0,
+      "text": "Aetos",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "i3l8luvupdnabj2p",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 2,
+      "rangeH": 2
+    },
+    {
+      "type": 0,
+      "text": "Andino",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "lwvjzjjts0f5k2y9",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 3,
+      "rangeH": 3
+    },
+    {
+      "type": 0,
+      "text": "Angelopoulos",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "zl9wbrq2dvkw20lp",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 4,
+      "rangeH": 4
+    },
+    {
+      "type": 0,
+      "text": "Argyros",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ekkoohxj3jz3j9n6",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 5,
+      "rangeH": 5
+    },
+    {
+      "type": 0,
+      "text": "Ariti",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "r73213v0jef7vhzm",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 6,
+      "rangeH": 6
+    },
+    {
+      "type": 0,
+      "text": "Bakirtzis",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "77vtmu2q4aft6ovz",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 7,
+      "rangeH": 7
+    },
+    {
+      "type": 0,
+      "text": "Balaskas",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "yi5ybdawxo3soh7p",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 8,
+      "rangeH": 8
+    },
+    {
+      "type": 0,
+      "text": "Baros",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6zmqsgwuh4w73nsb",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 9,
+      "rangeH": 9
+    },
+    {
+      "type": 0,
+      "text": "Bouras",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "n62iwy5ge9nd09f8",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 10,
+      "rangeH": 10
+    },
+    {
+      "type": 0,
+      "text": "Castellanos",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "nkchxe1ek6xxnuqw",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 11,
+      "rangeH": 11
+    },
+    {
+      "type": 0,
+      "text": "Chaconas",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "q8ytvc6vg7id7dgj",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 12,
+      "rangeH": 12
+    },
+    {
+      "type": 0,
+      "text": "Chloros",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "gkx16x3p02ah50mf",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 13,
+      "rangeH": 13
+    },
+    {
+      "type": 0,
+      "text": "Christodoulopoulos",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "y98et8fmkdivxi4g",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 14,
+      "rangeH": 14
+    },
+    {
+      "type": 0,
+      "text": "Christoforou",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6qkh1fxb3er3gspk",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 15,
+      "rangeH": 15
+    },
+    {
+      "type": 0,
+      "text": "Cirillo",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "au1gffn4wdu0c5vu",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 16,
+      "rangeH": 16
+    },
+    {
+      "type": 0,
+      "text": "Condos",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ysv4ahjrajqyidc0",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 17,
+      "rangeH": 17
+    },
+    {
+      "type": 0,
+      "text": "Danielopoulos",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "97qhrdrniwm3hnb7",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 18,
+      "rangeH": 18
+    },
+    {
+      "type": 0,
+      "text": "Demetriou",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ohlq23aohwgzm6ks",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 19,
+      "rangeH": 19
+    },
+    {
+      "type": 0,
+      "text": "Diakos",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ocyirt58sdrr4zhc",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 20,
+      "rangeH": 20
+    },
+    {
+      "type": 0,
+      "text": "Diamandis",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ytg8xhsunskg1jx2",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 21,
+      "rangeH": 21
+    },
+    {
+      "type": 0,
+      "text": "Dougenis",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "nvt18krix5i6u1d8",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 22,
+      "rangeH": 22
+    },
+    {
+      "type": 0,
+      "text": "Doukas",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "q9i4p3nkyzi16pp4",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 23,
+      "rangeH": 23
+    },
+    {
+      "type": 0,
+      "text": "Drakos",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "efae0vzwnkjq690h",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 24,
+      "rangeH": 24
+    },
+    {
+      "type": 0,
+      "text": "Drivas",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "th7clot91v9z415q",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 25,
+      "rangeH": 25
+    },
+    {
+      "type": 0,
+      "text": "Economos",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "s8ix5q70nyqgcdcu",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 26,
+      "rangeH": 26
+    },
+    {
+      "type": 0,
+      "text": "Eliades",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "llmyivmqgyysmgds",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 27,
+      "rangeH": 27
+    },
+    {
+      "type": 0,
+      "text": "Eliopoulos",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "nwjzuyqsk9inmhbd",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 28,
+      "rangeH": 28
+    },
+    {
+      "type": 0,
+      "text": "Filo",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "pvhiix60awqhdawg",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 29,
+      "rangeH": 29
+    },
+    {
+      "type": 0,
+      "text": "Florakis",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "7flwtjolpoj5lnj3",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 30,
+      "rangeH": 30
+    },
+    {
+      "type": 0,
+      "text": "Fotos",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "480alrxdcr7acrp6",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 31,
+      "rangeH": 31
+    },
+    {
+      "type": 0,
+      "text": "Frangopoulos",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "dj3uofz3j3v087no",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 32,
+      "rangeH": 32
+    },
+    {
+      "type": 0,
+      "text": "Gabris",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ebo4dffr9ni35c6i",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 33,
+      "rangeH": 33
+    },
+    {
+      "type": 0,
+      "text": "Galanis",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "q371irponlifhkl1",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 34,
+      "rangeH": 34
+    },
+    {
+      "type": 0,
+      "text": "Galatas",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "z9o3gmo7vzwuseff",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 35,
+      "rangeH": 35
+    },
+    {
+      "type": 0,
+      "text": "Gataki",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ce9i6ble6eh5hjmv",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 36,
+      "rangeH": 36
+    },
+    {
+      "type": 0,
+      "text": "Georgiades",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "p3uuycy40magmtlh",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 37,
+      "rangeH": 37
+    },
+    {
+      "type": 0,
+      "text": "Georgiou",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "0up7fe2lwzkin1e4",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 38,
+      "rangeH": 38
+    },
+    {
+      "type": 0,
+      "text": "Halkias",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "8zdqezkil8il253l",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 39,
+      "rangeH": 39
+    },
+    {
+      "type": 0,
+      "text": "Hasapi",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "enflikgrtwkj5a1f",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 40,
+      "rangeH": 40
+    },
+    {
+      "type": 0,
+      "text": "Hondros",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ctoal7z80zruhx6o",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 41,
+      "rangeH": 41
+    },
+    {
+      "type": 0,
+      "text": "Ioannou",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "hwtgy3gtij9sz6ax",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 42,
+      "rangeH": 42
+    },
+    {
+      "type": 0,
+      "text": "Iordanou",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "9097rgixf1iu16s2",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 43,
+      "rangeH": 43
+    },
+    {
+      "type": 0,
+      "text": "Iraklidis",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5uh90dctwk8e4amp",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 44,
+      "rangeH": 44
+    },
+    {
+      "type": 0,
+      "text": "Kallis",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "mn12qjtsg6g32zbd",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 45,
+      "rangeH": 45
+    },
+    {
+      "type": 0,
+      "text": "Kappas",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "agtw81fhrwn8sch3",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 46,
+      "rangeH": 46
+    },
+    {
+      "type": 0,
+      "text": "Katopodis",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "09ghbejhn3ijmwo8",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 47,
+      "rangeH": 47
+    },
+    {
+      "type": 0,
+      "text": "Lambros",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "tdh57p5fpwmzrnrl",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 48,
+      "rangeH": 48
+    },
+    {
+      "type": 0,
+      "text": "Laskaris",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ayz0e23uf6ebdngy",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 49,
+      "rangeH": 49
+    },
+    {
+      "type": 0,
+      "text": "Lekas",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "rhwhqp7nwhbabhgd",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 50,
+      "rangeH": 50
+    },
+    {
+      "type": 0,
+      "text": "Leos",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "vthio71zee95biv9",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 51,
+      "rangeH": 51
+    },
+    {
+      "type": 0,
+      "text": "Leventis",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ui1qh0rrtvrlkoul",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 52,
+      "rangeH": 52
+    },
+    {
+      "type": 0,
+      "text": "Lykaios",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "lkii7zvf5jlbmyyh",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 53,
+      "rangeH": 53
+    },
+    {
+      "type": 0,
+      "text": "Makris",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "bfxh912yoymc6s87",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 54,
+      "rangeH": 54
+    },
+    {
+      "type": 0,
+      "text": "Mallas",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "uoaie3tnqeh9a8sd",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 55,
+      "rangeH": 55
+    },
+    {
+      "type": 0,
+      "text": "Mandrapilias",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "3fcst99kvlfzkc3m",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 56,
+      "rangeH": 56
+    },
+    {
+      "type": 0,
+      "text": "Mavros",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "p4dtfiayikjx3nwt",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 57,
+      "rangeH": 57
+    },
+    {
+      "type": 0,
+      "text": "Mikos",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "w9xtl4ss8m76emyv",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 58,
+      "rangeH": 58
+    },
+    {
+      "type": 0,
+      "text": "Moustakas",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "489v51flkyk64gvu",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 59,
+      "rangeH": 59
+    },
+    {
+      "type": 0,
+      "text": "Nanos",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "7zbs616uk4mztbw8",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 60,
+      "rangeH": 60
+    },
+    {
+      "type": 0,
+      "text": "Nephus",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "3xvfcm2h6w8ysvvz",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 61,
+      "rangeH": 61
+    },
+    {
+      "type": 0,
+      "text": "Nicolaides",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "fopiydv9rl0ytsmr",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 62,
+      "rangeH": 62
+    },
+    {
+      "type": 0,
+      "text": "Nicoli",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "bpyj8h078latvo48",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 63,
+      "rangeH": 63
+    },
+    {
+      "type": 0,
+      "text": "Nomikos",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "12ap77kkf2l1v86x",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 64,
+      "rangeH": 64
+    },
+    {
+      "type": 0,
+      "text": "Onasis",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "tl7qmh4l44j3dh2x",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 65,
+      "rangeH": 65
+    },
+    {
+      "type": 0,
+      "text": "Othonos",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "jrad609tkz8741bv",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 66,
+      "rangeH": 66
+    },
+    {
+      "type": 0,
+      "text": "Pagonis",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "gbbgi1sl98tu3ci8",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 67,
+      "rangeH": 67
+    },
+    {
+      "type": 0,
+      "text": "Pallas",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "8uk1yus0e2k533el",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 68,
+      "rangeH": 68
+    },
+    {
+      "type": 0,
+      "text": "Panagos",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "i69b2iwojpcxy3ff",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 69,
+      "rangeH": 69
+    },
+    {
+      "type": 0,
+      "text": "Pantazis",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "yqs4t3u70w4ffuvm",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 70,
+      "rangeH": 70
+    },
+    {
+      "type": 0,
+      "text": "Papadakis",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "u8kqg9pl9h8mtibi",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 71,
+      "rangeH": 71
+    },
+    {
+      "type": 0,
+      "text": "Papadopoulos",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "bpifd5qi03pxp0bp",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 72,
+      "rangeH": 72
+    },
+    {
+      "type": 0,
+      "text": "Papatonis",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "edlnri8uehlzpk6m",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 73,
+      "rangeH": 73
+    },
+    {
+      "type": 0,
+      "text": "Papazoglou",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "sxc6f60o92p98krg",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 74,
+      "rangeH": 74
+    },
+    {
+      "type": 0,
+      "text": "Pavlis",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "odulxz3cyayn1s11",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 75,
+      "rangeH": 75
+    },
+    {
+      "type": 0,
+      "text": "Raptis",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ydjea652f4bhe6zm",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 76,
+      "rangeH": 76
+    },
+    {
+      "type": 0,
+      "text": "Regas",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "56fugi9eoshvnuui",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 77,
+      "rangeH": 77
+    },
+    {
+      "type": 0,
+      "text": "Rella",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "tkzcxlfe8b8lwrc3",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 78,
+      "rangeH": 78
+    },
+    {
+      "type": 0,
+      "text": "Remis",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "adu28u8ftjm729gu",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 79,
+      "rangeH": 79
+    },
+    {
+      "type": 0,
+      "text": "Sagona",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "9vxuxpt22jjs0b9f",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 80,
+      "rangeH": 80
+    },
+    {
+      "type": 0,
+      "text": "Samaras",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "lam9szy71jcoqjmt",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 81,
+      "rangeH": 81
+    },
+    {
+      "type": 0,
+      "text": "Selinofoto",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "bgptsx3cu07vcdmc",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 82,
+      "rangeH": 82
+    },
+    {
+      "type": 0,
+      "text": "Servopoulos",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5sxsxwn2748ni2vl",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 83,
+      "rangeH": 83
+    },
+    {
+      "type": 0,
+      "text": "Sideris",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "3b55ob9b4925e9p3",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 84,
+      "rangeH": 84
+    },
+    {
+      "type": 0,
+      "text": "Sotiropoulos",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "xbga8vbt3gsxttvj",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 85,
+      "rangeH": 85
+    },
+    {
+      "type": 0,
+      "text": "Tavoularis",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "119nb084ffh4h5ai",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 86,
+      "rangeH": 86
+    },
+    {
+      "type": 0,
+      "text": "Teresi",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ckx73mj828v9u0a9",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 87,
+      "rangeH": 87
+    },
+    {
+      "type": 0,
+      "text": "Theodoropoulos",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "yp2m6rj5iai1xltp",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 88,
+      "rangeH": 88
+    },
+    {
+      "type": 0,
+      "text": "Tsaoussis",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "15bv7ao255vqb7wx",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 89,
+      "rangeH": 89
+    },
+    {
+      "type": 0,
+      "text": "Vasilakis",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "wh27bevxywjaiaqy",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 90,
+      "rangeH": 90
+    },
+    {
+      "type": 0,
+      "text": "Vassos",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "kgw8jfgy9grq1nem",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 91,
+      "rangeH": 91
+    },
+    {
+      "type": 0,
+      "text": "Vitalis",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "irk10hz8oy8u6q17",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 92,
+      "rangeH": 92
+    },
+    {
+      "type": 0,
+      "text": "Voulgaropoulos",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "1qplca2tnv3n1kwi",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 93,
+      "rangeH": 93
+    },
+    {
+      "type": 0,
+      "text": "Vouvali",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "xvysqfmg5v1c4det",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 94,
+      "rangeH": 94
+    },
+    {
+      "type": 0,
+      "text": "Xenakis",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "gn46nnjizsvqf6ix",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 95,
+      "rangeH": 95
+    },
+    {
+      "type": 0,
+      "text": "Xiphias",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "pu3l8y26o4ok7nkx",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 96,
+      "rangeH": 96
+    },
+    {
+      "type": 0,
+      "text": "Yiannopoulos",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "d7dwrjybvjg39v48",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 97,
+      "rangeH": 97
+    },
+    {
+      "type": 0,
+      "text": "Zafeiriou",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "hd98ldk44h6sc8im",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 98,
+      "rangeH": 98
+    },
+    {
+      "type": 0,
+      "text": "Zervas",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "9bgl51q9raa37xgz",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 99,
+      "rangeH": 99
+    },
+    {
+      "type": 0,
+      "text": "Zografos",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "d77tn9ag3gxwqjj5",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 100,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.g0uqlZCegafz6Etb"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

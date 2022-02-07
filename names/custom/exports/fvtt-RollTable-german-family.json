@@ -1,0 +1,1728 @@
+{
+  "name": "German - Family",
+  "img": "modules/game-icons-net/whitetransparent/id-card.svg",
+  "description": "German-inspired family names.",
+  "results": [
+    {
+      "type": 0,
+      "text": "Albrecht",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "7dq468i86ynup320",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 1
+    },
+    {
+      "type": 0,
+      "text": "Amberger",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "fln09io9wbc2djj6",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 2,
+      "rangeH": 2
+    },
+    {
+      "type": 0,
+      "text": "Arnold",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "nw13p732jlgejrjk",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 3,
+      "rangeH": 3
+    },
+    {
+      "type": 0,
+      "text": "Bauer",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "r1cxec33bwaezfeg",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 4,
+      "rangeH": 4
+    },
+    {
+      "type": 0,
+      "text": "Baumann",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "2nfz21cox8jmxeg3",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 5,
+      "rangeH": 5
+    },
+    {
+      "type": 0,
+      "text": "Becker",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "xrdu7ofs239cxse9",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 6,
+      "rangeH": 6
+    },
+    {
+      "type": 0,
+      "text": "Berger",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "yzmdho11fi1jbhsq",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 7,
+      "rangeH": 7
+    },
+    {
+      "type": 0,
+      "text": "Bergmann",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ejhkii6o0scnedie",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 8,
+      "rangeH": 8
+    },
+    {
+      "type": 0,
+      "text": "Böhm",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "dy0k309auv5jriw7",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 9,
+      "rangeH": 9
+    },
+    {
+      "type": 0,
+      "text": "Brandt",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "41elj750zci8els9",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 10,
+      "rangeH": 10
+    },
+    {
+      "type": 0,
+      "text": "Braun",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "3smq5z0qz2tuk4c9",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 11,
+      "rangeH": 11
+    },
+    {
+      "type": 0,
+      "text": "Busch",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "hwaxcead1eml99mg",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 12,
+      "rangeH": 12
+    },
+    {
+      "type": 0,
+      "text": "Clarius",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "h2dkkd6jfo5sdzxp",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 13,
+      "rangeH": 13
+    },
+    {
+      "type": 0,
+      "text": "Cleve",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "k4jabo5lxvsgkjyc",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 14,
+      "rangeH": 14
+    },
+    {
+      "type": 0,
+      "text": "Dietrich",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "3gwefyfttutrcxzb",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 15,
+      "rangeH": 15
+    },
+    {
+      "type": 0,
+      "text": "Dietzsch",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "8jmig0u7hi27fka9",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 16,
+      "rangeH": 16
+    },
+    {
+      "type": 0,
+      "text": "Dohmann",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "f2vw896ntyr35mzy",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 17,
+      "rangeH": 17
+    },
+    {
+      "type": 0,
+      "text": "Eicke",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "0zej8whbr9nms4ge",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 18,
+      "rangeH": 18
+    },
+    {
+      "type": 0,
+      "text": "Engel",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4difevfby7s2ps83",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 19,
+      "rangeH": 19
+    },
+    {
+      "type": 0,
+      "text": "Esenwein",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "a4n8v6tfm87ltlbv",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 20,
+      "rangeH": 20
+    },
+    {
+      "type": 0,
+      "text": "Fischer",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4e87g21d0p9q4by5",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 21,
+      "rangeH": 21
+    },
+    {
+      "type": 0,
+      "text": "Frank",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "uwwzoge7b3gmija5",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 22,
+      "rangeH": 22
+    },
+    {
+      "type": 0,
+      "text": "Friedrich",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6q6p413jnrdltmgx",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 23,
+      "rangeH": 23
+    },
+    {
+      "type": 0,
+      "text": "Fuchs",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "t6n2g4h3vjmsz9n3",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 24,
+      "rangeH": 24
+    },
+    {
+      "type": 0,
+      "text": "Graf",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "vag7wkhag9gxpir5",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 25,
+      "rangeH": 25
+    },
+    {
+      "type": 0,
+      "text": "Grosse",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "pk8e18wakwbn3p6x",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 26,
+      "rangeH": 26
+    },
+    {
+      "type": 0,
+      "text": "Günther",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "2vl4tjrengq18a5e",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 27,
+      "rangeH": 27
+    },
+    {
+      "type": 0,
+      "text": "Haas",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "y9o43kyw8x278vmm",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 28,
+      "rangeH": 28
+    },
+    {
+      "type": 0,
+      "text": "Hahn",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "wqwj94aueqmyoefj",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 29,
+      "rangeH": 29
+    },
+    {
+      "type": 0,
+      "text": "Hartmann",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "tlmwe2h7pao50cfd",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 30,
+      "rangeH": 30
+    },
+    {
+      "type": 0,
+      "text": "Heinrich",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "z7tppw7527tyx4zq",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 31,
+      "rangeH": 31
+    },
+    {
+      "type": 0,
+      "text": "Herrmann",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "dx9ze2qvb1yo02hn",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 32,
+      "rangeH": 32
+    },
+    {
+      "type": 0,
+      "text": "Hesse",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "k4fucsmx9pql875s",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 33,
+      "rangeH": 33
+    },
+    {
+      "type": 0,
+      "text": "Hoffmann",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "pdyuvmhq61owtu2b",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 34,
+      "rangeH": 34
+    },
+    {
+      "type": 0,
+      "text": "Horn",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "1p2095riyt3cdo30",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 35,
+      "rangeH": 35
+    },
+    {
+      "type": 0,
+      "text": "Huber",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ruq0tm3ct0v10o9b",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 36,
+      "rangeH": 36
+    },
+    {
+      "type": 0,
+      "text": "Huhn",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "w9nmnl61v5qnwsiw",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 37,
+      "rangeH": 37
+    },
+    {
+      "type": 0,
+      "text": "Ihly",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "57mzcxxr6p3bkqkj",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 38,
+      "rangeH": 38
+    },
+    {
+      "type": 0,
+      "text": "Jung",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "pv04fabu9jemaiwy",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 39,
+      "rangeH": 39
+    },
+    {
+      "type": 0,
+      "text": "Junker",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "3g2w7l8iggmem03g",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 40,
+      "rangeH": 40
+    },
+    {
+      "type": 0,
+      "text": "Keller",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "gz5h57bvxsua3hme",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 41,
+      "rangeH": 41
+    },
+    {
+      "type": 0,
+      "text": "Klein",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "2kxk9z4e9zo9nt8f",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 42,
+      "rangeH": 42
+    },
+    {
+      "type": 0,
+      "text": "Koch",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "onbtttmky4flf0sp",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 43,
+      "rangeH": 43
+    },
+    {
+      "type": 0,
+      "text": "Köhler",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "1hx82h678ko9aedd",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 44,
+      "rangeH": 44
+    },
+    {
+      "type": 0,
+      "text": "König",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "xm9h7gkwagg5wgag",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 45,
+      "rangeH": 45
+    },
+    {
+      "type": 0,
+      "text": "Krämer",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "0wxjorbcjmtk2tlw",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 46,
+      "rangeH": 46
+    },
+    {
+      "type": 0,
+      "text": "Krause",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6u1mzv0bbzprjxnu",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 47,
+      "rangeH": 47
+    },
+    {
+      "type": 0,
+      "text": "Krüger",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "2nul2ymbah3y7v1h",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 48,
+      "rangeH": 48
+    },
+    {
+      "type": 0,
+      "text": "Kuhn",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "i42htodvutvcgxnh",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 49,
+      "rangeH": 49
+    },
+    {
+      "type": 0,
+      "text": "Lange",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "fwhuo4sdqzvu1u11",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 50,
+      "rangeH": 50
+    },
+    {
+      "type": 0,
+      "text": "Lehmann",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ho5jgc4c6v5cimvh",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 51,
+      "rangeH": 51
+    },
+    {
+      "type": 0,
+      "text": "Lorenz",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "azrc6c26lqdm1z7h",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 52,
+      "rangeH": 52
+    },
+    {
+      "type": 0,
+      "text": "Ludolph",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "u3m4r5npasq41zhg",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 53,
+      "rangeH": 53
+    },
+    {
+      "type": 0,
+      "text": "Ludwig",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "w95440fx0yavs7ec",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 54,
+      "rangeH": 54
+    },
+    {
+      "type": 0,
+      "text": "Martin",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "kzzld42w3njqu06l",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 55,
+      "rangeH": 55
+    },
+    {
+      "type": 0,
+      "text": "Meier",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "mkdw73aefgd5p0y4",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 56,
+      "rangeH": 56
+    },
+    {
+      "type": 0,
+      "text": "Mohr",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "miy2tcbyyyks7wbc",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 57,
+      "rangeH": 57
+    },
+    {
+      "type": 0,
+      "text": "Müller",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "f7qqbq3ciui5w920",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 58,
+      "rangeH": 58
+    },
+    {
+      "type": 0,
+      "text": "Neimke",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "axl6xch87u2plb39",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 59,
+      "rangeH": 59
+    },
+    {
+      "type": 0,
+      "text": "Neumann",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "bj16juk39i7ygl5j",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 60,
+      "rangeH": 60
+    },
+    {
+      "type": 0,
+      "text": "Nitzsch",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "pvwutq7q85ihaysu",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 61,
+      "rangeH": 61
+    },
+    {
+      "type": 0,
+      "text": "Onnen",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "50eqvvjew9jwvjik",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 62,
+      "rangeH": 62
+    },
+    {
+      "type": 0,
+      "text": "Orth",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "0fqdydby0kbg3h57",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 63,
+      "rangeH": 63
+    },
+    {
+      "type": 0,
+      "text": "Otto",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ezhe2dr5gymjjbi9",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 64,
+      "rangeH": 64
+    },
+    {
+      "type": 0,
+      "text": "Peters",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "l5rssnzhml8dlx0f",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 65,
+      "rangeH": 65
+    },
+    {
+      "type": 0,
+      "text": "Pfeiffer",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4vold79kswkb1s62",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 66,
+      "rangeH": 66
+    },
+    {
+      "type": 0,
+      "text": "Pohl",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "uagowos4ing984pn",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 67,
+      "rangeH": 67
+    },
+    {
+      "type": 0,
+      "text": "Richter",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "n2ddm8eur4pnh0un",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 68,
+      "rangeH": 68
+    },
+    {
+      "type": 0,
+      "text": "Roth",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "b5lavmvul1dw35k4",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 69,
+      "rangeH": 69
+    },
+    {
+      "type": 0,
+      "text": "Sauer",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "thlqvf31ivnhpatf",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 70,
+      "rangeH": 70
+    },
+    {
+      "type": 0,
+      "text": "Schäfer",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "b41l4svwvhlcbm6b",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 71,
+      "rangeH": 71
+    },
+    {
+      "type": 0,
+      "text": "Schmidt",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "r78pcsyjyffhjb7z",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 72,
+      "rangeH": 72
+    },
+    {
+      "type": 0,
+      "text": "Schneider",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "eadwntzm859od5yx",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 73,
+      "rangeH": 73
+    },
+    {
+      "type": 0,
+      "text": "Schreiber",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ph2azw2fzcsby01m",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 74,
+      "rangeH": 74
+    },
+    {
+      "type": 0,
+      "text": "Schröder",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "c8elzj7ifya83bf2",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 75,
+      "rangeH": 75
+    },
+    {
+      "type": 0,
+      "text": "Schubert",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "xt86fweis6jk9sw8",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 76,
+      "rangeH": 76
+    },
+    {
+      "type": 0,
+      "text": "Schulte",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "2tpokbj7jsckbfdc",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 77,
+      "rangeH": 77
+    },
+    {
+      "type": 0,
+      "text": "Schulz",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "zxkcqkiw7meudvxj",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 78,
+      "rangeH": 78
+    },
+    {
+      "type": 0,
+      "text": "Schuster",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5n7i6moc1w8z9gkr",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 79,
+      "rangeH": 79
+    },
+    {
+      "type": 0,
+      "text": "Schwarz",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "rsjdbzno1v925186",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 80,
+      "rangeH": 80
+    },
+    {
+      "type": 0,
+      "text": "Seidel",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "lkvieihbt93xrodq",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 81,
+      "rangeH": 81
+    },
+    {
+      "type": 0,
+      "text": "Simon",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "1ilubyxu92bvkoyx",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 82,
+      "rangeH": 82
+    },
+    {
+      "type": 0,
+      "text": "Sommer",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "69ecfcxgku6i2mb3",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 83,
+      "rangeH": 83
+    },
+    {
+      "type": 0,
+      "text": "Stein",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "hnads6h4au94fzz1",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 84,
+      "rangeH": 84
+    },
+    {
+      "type": 0,
+      "text": "Thomas",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "tw6fmg3qb1oo53kg",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 85,
+      "rangeH": 85
+    },
+    {
+      "type": 0,
+      "text": "Uebler",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "k6fc842tdoknw8fq",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 86,
+      "rangeH": 86
+    },
+    {
+      "type": 0,
+      "text": "Unger",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "tbg5de7j53hf1kam",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 87,
+      "rangeH": 87
+    },
+    {
+      "type": 0,
+      "text": "Vogel",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5qwor9w4b6ju0sv9",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 88,
+      "rangeH": 88
+    },
+    {
+      "type": 0,
+      "text": "Voigt",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "anlf3ikwa57tkmge",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 89,
+      "rangeH": 89
+    },
+    {
+      "type": 0,
+      "text": "Wagner",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "7oib47whv1al9r40",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 90,
+      "rangeH": 90
+    },
+    {
+      "type": 0,
+      "text": "Walter",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "xvmrmupo4xbet1e4",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 91,
+      "rangeH": 91
+    },
+    {
+      "type": 0,
+      "text": "Weber",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "biw3bg0et7hhmi0k",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 92,
+      "rangeH": 92
+    },
+    {
+      "type": 0,
+      "text": "Weiss",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "sul7pma5zae8lknb",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 93,
+      "rangeH": 93
+    },
+    {
+      "type": 0,
+      "text": "Werner",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "a5r47gi458fr8r8d",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 94,
+      "rangeH": 94
+    },
+    {
+      "type": 0,
+      "text": "Winkler",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "gyf01v404oi3skd5",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 95,
+      "rangeH": 95
+    },
+    {
+      "type": 0,
+      "text": "Winter",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "fdorcpidhlodqx1g",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 96,
+      "rangeH": 96
+    },
+    {
+      "type": 0,
+      "text": "Wolff",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "htylv1nwad8q2cjq",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 97,
+      "rangeH": 97
+    },
+    {
+      "type": 0,
+      "text": "Zandt",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "81rik05wqbstxwz3",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 98,
+      "rangeH": 98
+    },
+    {
+      "type": 0,
+      "text": "Ziegler",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "klhcjm4xjc14lztn",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 99,
+      "rangeH": 99
+    },
+    {
+      "type": 0,
+      "text": "Zimmermann",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "peqw5c421em73k6g",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 100,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.een7oiQok6LuVE6S"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}
