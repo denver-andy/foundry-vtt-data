@@ -1,0 +1,8 @@
+Sleet / Blizzard{1}|
+Rainy{3}|
+Light Rain{4}|
+Overcast{3}|
+Clear Skies{7}|
+Hot{2}
+
+Weather is a major consideration when travelling. Consult the DMG (p.109) or use the table below to determine what the weather is doing on any particular day or night. Where the weather gives the option Hot, if the roll is towards the lower end of the range, it is warm. If higher, it is hot. The results scale upwards. Adjust by terrain also. If in a desert, add 5. If in mountains or ice steppes, subtract 5.

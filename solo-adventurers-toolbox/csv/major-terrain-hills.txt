@@ -1,0 +1,13 @@
+Continuing Hills (5 miles){55}|
+Gully (1d4 miles){5}|
+Waterway (1d4 miles){5}|
+Lake (1d4 miles){5}|
+Small Wood (1d4 miles){5}|
+Rocky Outcrop (1d4 miles){5}|
+Small Mountain Range / Foothills (1d4 miles){5}|
+Unmarked Forest Settlement{5}|
+D6 roll. [1-2]: Structure; [3-4]: Monument; [5-6]: Interesting Landscape Feature{5}|
+Monster Lair{5}
+
+
+Major terrain features in Hilly areas. Roll every 5 miles of new terrain.

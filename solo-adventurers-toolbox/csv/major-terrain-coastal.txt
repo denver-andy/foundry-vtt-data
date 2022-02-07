@@ -1,0 +1,12 @@
+Continuing Coastal Terrain (5 miles){60}|
+Hills (with cliffs, perhaps) (1d4 miles){5}|
+Gully (1d4 miles){5}|
+Waterway (1d4 miles){5}|
+Small Wood (1d4 miles){5}|
+Rocky Outcrop (1d4 miles){5}|
+Unmarked Settlement{5}|
+D6 roll. [1-2]: Structure; [3-4]: Monument; [5-6]: Interesting Landscape Feature{5}|
+Monster Lair{5}
+
+
+Major terrain features in Coastal areas. Roll every 5 miles of new terrain.

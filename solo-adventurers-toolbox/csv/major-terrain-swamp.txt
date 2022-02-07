@@ -1,0 +1,11 @@
+Continuing Swamp (5 miles){51}|
+Waterway (1d4 miles){7}|
+Lake (1d4 miles){7}|
+Small Wood (1d4 miles){7}|
+Rocky Outcrop (1d4 miles){7}|
+Unmarked Settlement{7}|
+D6 roll. [1-2]: Structure; [3-4]: Monument; [5-6]: Interesting Landscape Feature{7}|
+Monster Lair{7}|
+
+
+Major terrain features in Swamp areas. Roll every 5 miles of new terrain.

@@ -1,0 +1,15 @@
+Continuing Grassland (5 miles){56}|
+Hills (1d4 miles){4}|
+Swamp (1d4 miles){4}|
+Gully (1d4 miles){4}|
+Waterway (1d4 miles){4}|
+Lake (1d4 miles){4}|
+Small Wood (1d4 miles){4}|
+Rocky Outcrop (1d4 miles){4}|
+Small Mountain Range / Foothills (1d4 miles){4}|
+Unmarked Settlement{4}|
+D6 roll. [1-2]: Structure; [3-4]: Monument; [5-6]: Interesting Landscape Feature{4}|
+Monster Lair{4}
+
+
+Major terrain features in Grassland areas. Roll every 5 miles of new terrain.

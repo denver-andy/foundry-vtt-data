@@ -1,0 +1,10 @@
+Continuing Desert Terrain (5 miles){70}|
+Oasis (see Oasis Table) (1d4 miles){5}|
+Small Mountain Range (Dry, no Snow) (1d4 miles){5}|
+Rocky Outcrop (1d4 miles){5}|
+Unmarked Settlement{5}|
+D6 roll. [1-2]: Structure; [3-4]: Monument; [5-6]: Interesting Landscape Feature{5}|
+Monster Lair{5}
+
+
+Major terrain features in Desert areas. Roll every 5 miles of new terrain.
