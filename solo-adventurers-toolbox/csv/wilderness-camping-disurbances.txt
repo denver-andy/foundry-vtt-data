@@ -1,0 +1,12 @@
+Loud Noise{20|}
+Animal (Indifferent){15}|
+Animal (Hostile){15}|
+Disturbing Dream{10}|
+NPC (Curious){20}|
+NPC (Hostile, Bandit, Thief, etc.){5}|
+Monster{5}|
+Natural Disaster{1}|
+Storm / Weather Change{9}
+
+
+This table can determine what disturbs sleeping characters.

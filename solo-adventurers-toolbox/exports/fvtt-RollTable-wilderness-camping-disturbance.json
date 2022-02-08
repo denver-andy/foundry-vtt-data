@@ -1,0 +1,181 @@
+{
+  "name": "Wilderness - Camping Disturbance",
+  "img": "modules/game-icons-net/whitetransparent/camping-tent.svg",
+  "description": "This table can determine what disturbs sleeping characters.",
+  "results": [
+    {
+      "type": 0,
+      "text": "Loud Noise",
+      "weight": 20,
+      "range": [
+        1,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "rdheg7raj8zl9xq3",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 20
+    },
+    {
+      "type": 0,
+      "text": "}Animal (Indifferent)",
+      "weight": 15,
+      "range": [
+        21,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4qga6famfkip2v5g",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 21,
+      "rangeH": 35
+    },
+    {
+      "type": 0,
+      "text": "Animal (Hostile)",
+      "weight": 15,
+      "range": [
+        36,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "oradi20xj2sipvyy",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 36,
+      "rangeH": 50
+    },
+    {
+      "type": 0,
+      "text": "Disturbing Dream",
+      "weight": 10,
+      "range": [
+        51,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "m0v7w03fimy17ewh",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 51,
+      "rangeH": 60
+    },
+    {
+      "type": 0,
+      "text": "NPC (Curious)",
+      "weight": 20,
+      "range": [
+        61,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "se93l4e3qhafuj2r",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 61,
+      "rangeH": 80
+    },
+    {
+      "type": 0,
+      "text": "NPC (Hostile, Bandit, Thief, etc.)",
+      "weight": 5,
+      "range": [
+        81,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "cbbjdohcdfh8c1ua",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 81,
+      "rangeH": 85
+    },
+    {
+      "type": 0,
+      "text": "Monster",
+      "weight": 5,
+      "range": [
+        86,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "emhwus1iv04csg8i",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 86,
+      "rangeH": 90
+    },
+    {
+      "type": 0,
+      "text": "Natural Disaster",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "f30azxua5emwh3xh",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 91,
+      "rangeH": 91
+    },
+    {
+      "type": 0,
+      "text": "Storm / Weather Change",
+      "weight": 9,
+      "range": [
+        92,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "7yi0q6yfxmamnl69",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 92,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.qbVfAl4e1F8rHQVS"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}
