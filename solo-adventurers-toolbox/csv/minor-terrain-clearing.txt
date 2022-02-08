@@ -1,0 +1,13 @@
+Natural clearing, devoid of trees. Is something watching you from the trees? Q/A roll. Do you notice it?{52}|
+Druid circle containing standing stones. Q/A roll to see what you can discern. Clue 20%.{6}|
+Totems and other sinister symbols. Q/A rolls, medium encounter 10%. Clue 40%. Possibly dark rituals take place here.{6}|
+Clearing contains a pond, watering hole for local wildlife. Easy encounter(beast) 20%. If left alone it will probably just take a drink and leave.{6}|
+Abandoned campsite. Q/A rolls, investigation rolls to find out more. Clue 50%. {6}|
+Active campsite. Perception check, Easy, to determine whether you hear the inhabitants before seeing them. 50% friendly.{6}|
+Magic at work here - some sort of dimensional rift? Q/A rolls to see what’s happening here!{6}|
+Structure present in the clearing. Roll on Structures table. {6}|
+Treant meeting currently in progress. Q/A / Charisma rolls to interact?{3}|
+Magical glade. A mage or some other magic user (or fey creatures) has a residence here. 50% friendly. Q/A rolls to determine interaction. Perhaps they have a quest for you!{2}
+
+
+Minor terrain features associated with clearfelled areas.

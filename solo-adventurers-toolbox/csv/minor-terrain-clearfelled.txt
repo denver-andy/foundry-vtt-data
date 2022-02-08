@@ -1,0 +1,9 @@
+Clear-felled Area. Large section of forest removed for local industry{50}|
+Army cutting down trees to build siege weapons. 40% human. 50% army still there.{10}|
+This clear area is the result of a forest fire, not active clear-felling. Moderate skill check to discern cause. Q/A rolls to determine cause.{10}|
+Clear-felled area contains an unmarked settlement. Roll on Unmarked Settlement Table.{10}|
+Area being clear-felled presently. Workers are 70% human. Contracted by nearby large settlement. Q/A to find out more.{10}|
+Area being clear-felled presently. Workers are 70% human. Timber will go to building new Unmarked Settlement. Roll on Unmarked Settlement table. Workers camp nearby.{10}
+
+
+Minor terrain features associated with clearfelled areas.
