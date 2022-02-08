@@ -1,0 +1,19 @@
+{
+  "name": "Wilderness Generation",
+  "content": "<p></p>\n<blockquote>\n<p>The Solo Adventurer’s Toolbox</p>\n</blockquote>\n<p> </p>\n<h2>RANDOM WILDERNESS GENERATION</h2>\n<p> </p>\n<p>This system is useful for quest-based play and wilderness-based quests, where your PC or PCs are travelling across wilderness to explore a certain area, perhaps following up on rumors about activity in that area. Similar to how you might randomly generate a dungeon with the Random Dungeon Generation tools, the system contained here generates random terrain and wilderness features. This system can be used whenever you are adventuring through and exploring wilderness without knowing exactly what is within that territory.</p>\n<p> </p>\n<h2>Major Terrain</h2>\n<ul>\n<li>@RollTable[f8JyBvIWJe3phErh]{Major Terrain - Arctic}</li>\n<li>@RollTable[RTSjnKm9QXa46DVH]{Major Terrain - Coastal}</li>\n<li>@RollTable[fSEVnX69JMB7xBsP]{Major Terrain - Desert}</li>\n<li>@RollTable[DvkkCWFzufqdFVOA]{Major Terrain - Forest/Jungle}</li>\n<li>@RollTable[l3PiIzk22EIPCqvI]{Major Terrain - Grassland}</li>\n<li>@RollTable[zD8lYwUNLcr7H2Nf]{Major Terrain - Hills}</li>\n<li>@RollTable[gRbyHS0lSPDPEjTk]{Major Terrain - Mountains}</li>\n<li>@RollTable[MNg2sgVwjfqUNg1b]{Major Terrain - Swamp}</li>\n</ul>\n<p> </p>\n<h2>Minor Terrain Features</h2>\n<ul>\n<li>@RollTable[xRZCRlLLah27s7Fr]{Minor Terrain - Clearfelled}</li>\n<li>@RollTable[7SSWt2yO9hEKeGvG]{Minor Terrain - Clearing}</li>\n<li>@RollTable[xlhXcJAAKxMYS62q]{Minor Terrain - Foothills &amp; Small Mountains}</li>\n<li>@RollTable[95swUYcblUYsYMom]{Minor Terrain - Gully}</li>\n<li>@RollTable[6A4ZC0jAzlkgV4aI]{Minor Terrain - Hills}</li>\n<li>@RollTable[2FZ5SMJsZZhH3yQu]{Minor Terrain - Lake}</li>\n<li>@RollTable[FC9kO41b8HVhfIhc]{Minor Terrain - Oasis}</li>\n<li>@RollTable[N6LOvD5IEYr4qLAH]{Minor Terrain - Rocky Outcrop}</li>\n<li>@RollTable[orPsB1UmS0fsIQsX]{Minor Terrain - Small Wood}</li>\n<li>@RollTable[9VdGhePKYSmy8mxh]{Minor Terrain - Swamp}</li>\n<li>@RollTable[MJWPIjIEzB5i8016]{Minor Terrain - Unmarked Settlement}</li>\n<li>@RollTable[pvI60dz2wn9SfvVt]{Minor Terrain - Waterways}</li>\n</ul>\n<p> </p>\n<h2>Other Terrain &amp; Features</h2>\n<ul>\n<li>@RollTable[aWGT6H9Gq51lfSzF]{Wilderness - Interesting Landscape Feature}</li>\n<li>@RollTable[kQF4pwDn5BnARicU]{Wilderness - Monuments}</li>\n<li>@RollTable[7CIYdBi8zeKGm0R3]{Wilderness - Structures}</li>\n<li>@RollTable[HnkrjD29HvUksDJt]{Wilderness - Unmarked Settlements}</li>\n</ul>\n<p></p>\n<h2>Clues, Encounters, &amp; Events</h2>\n<ul>\n<li>@RollTable[58A0Q9kkP8JO2G4f]{Wilderness - Active Area Discovery}</li>\n<li>@RollTable[YAXmXu0NNsxD5vTi]{Wilderness - Clues}</li>\n<li>@RollTable[Ms5unan7drtpUGZK]{Wilderness - Random Encounters}</li>\n<li>@RollTable[OQiPcbtdYdBFCJjR]{Wilderness - Random Events}</li>\n</ul>",
+  "img": "",
+  "flags": {
+    "monks-enhanced-journal": {
+      "type": "base"
+    },
+    "scene-packer": {
+      "sourceId": "JournalEntry.rIrYtCDtTLeMu5YR"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Unmarked Settlements",
+  "content": "<p></p>\n<h2>POSSIBILITY OF FINDING UNMARKED SETTLEMENT</h2>\n<p>Roll 1d4-1 to determine how many chance rolls to make between each marked settlement. For example, a d4 roll of 4 means 3 chance rolls. For every one of these that is below the % chance, you find one unmarked settlement. It might take you 4 days to travel from one marked settlement to another. Space out these chance rolls however you like. Unmarked settlements will be villages, hamlets, stationed garrisons, forestry worker encampments and the like - nothing larger than that.</p>\n<p> </p>\n<div>\n<table title border=\"1\">\n<tbody>\n<tr>\n<td>\n<p>Population Density</p>\n</td>\n<td style=\"text-align:center\">\n<p>Chance</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Low</p>\n</td>\n<td style=\"text-align:center\">\n<p>5%</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Medium</p>\n</td>\n<td style=\"text-align:center\">\n<p>10%</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>High</p>\n</td>\n<td style=\"text-align:center\">\n<p>20%</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p> </p>\n<h2>NATURE OF UNMARKED SETTLEMENT</h2>\n<p>Use the @RollTable[HnkrjD29HvUksDJt]{Wilderness - Unmarked Settlements} table to establish the size and nature of the settlement. Wherever you see a percentage value in a table, that is a direction to make a d100 roll. If you roll at or below that value, something happened. Use Q/A rolls to garner more information about the settlement, for example, whether it is inhabited by humans or orcs!</p>\n<p></p>",
+  "img": "",
+  "flags": {
+    "monks-enhanced-journal": {
+      "type": "base",
+      "scrollPos": "{\".description\":0}"
+    },
+    "scene-packer": {
+      "sourceId": "JournalEntry.40LZs2t77BcNvkA7"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

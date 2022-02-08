@@ -1,0 +1,19 @@
+{
+  "name": "Weather",
+  "content": "<p>Weather is a major consideration when travelling. Consult the DMG (p.109) or use the table below to determine what the weather is doing on any particular day or night. Where the weather gives the option Hot, if the roll is towards the lower end of the range, it is warm. If higher, it is hot. The results scale upwards. Adjust by terrain also. If in a desert, add 5. If in mountains or ice steppes, subtract 5.</p>\n<h2>Weather Tables by Season</h2>\n<ul>\n<li>@RollTable[26nTCGXT1z3X0J0F]{Weather - Winter}</li>\n<li>@RollTable[ADA2BAKNTg9PpqwF]{Weather - Spring}</li>\n<li>@RollTable[Qxez2SrPR27gGOVa]{Weather - Summer}</li>\n<li>@RollTable[59YXFJAIMBVC0WA4]{Weather - Autumn}</li>\n</ul>\n<p> </p>",
+  "img": "",
+  "flags": {
+    "monks-enhanced-journal": {
+      "type": "base"
+    },
+    "scene-packer": {
+      "sourceId": "JournalEntry.HuPpLnVoQlvQ3TFN"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

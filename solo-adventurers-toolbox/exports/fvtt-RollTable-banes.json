@@ -1,0 +1,878 @@
+{
+  "name": "Banes",
+  "img": "modules/game-icons-net/whitetransparent/evil-hand.svg",
+  "description": "This table is useful when an oracle determines you have encountered a bane, or by any method you deem appropriate.",
+  "results": [
+    {
+      "type": 0,
+      "text": "Curse of Shar. The goddess of dark, night, and forgetfulness roams this area, and you have unknowingly been touched by her malevolent energy. One random player must make a DC 12 + tier Charisma saving throw. If they fail, they are under the effects of a level 1 bane spell, but will not be aware of this until the next combat encounter begins. During your next combat, deduct 1d4 from all attack rolls and saving throws. You may repeat this saving throw at the end of each of your turns, ending the effect on a success.",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "jpaicitwytnnsyqg",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 2
+    },
+    {
+      "type": 0,
+      "text": "Dark Foreboding. You have been assailed by a haunting vision or premonition. Choose a character to make a DC 17 + tier Wisdom saving throw. If they fail, then for the rest of this quest that character has disadvantage when making attack rolls against one of the following monster types [d8] (1) Aberration (2) Beast (3) Construct (4) Elemental (5) Fiend (6) Humanoid (7) Monstrosity (8) Undead.",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "s6r62x1fe4b0evz1",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 3,
+      "rangeH": 4
+    },
+    {
+      "type": 0,
+      "text": "Moment of Weakness. Any resistances you are able to gain, as a result of traits, feats or other effects (for example, a barbarian’s resistance to certain damage while raging), are gone during the next combat encounter. Other aspects of the trait or feat are unaffected (for example, the barbarian would still get the +2 damage bonus from raging, just not the resistance).",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4231i4ak9t5v1no2",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 5,
+      "rangeH": 6
+    },
+    {
+      "type": 0,
+      "text": "Forgot to Stretch. You woke up this morning feeling a little bit stiff, perhaps after recent exertions. You have a -1 to any Dexterity-based checks and saving throws until you complete your next long rest.",
+      "weight": 2,
+      "range": [
+        7,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "kddk26dv8qwb4y4g",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 7,
+      "rangeH": 8
+    },
+    {
+      "type": 0,
+      "text": "Rumbling from Below. Something you ate recently is not agreeing with you. You have a -2 to Constitution-based checks and saving throws until you complete your next long rest.",
+      "weight": 2,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "qnta55iuot9bat61",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 9,
+      "rangeH": 10
+    },
+    {
+      "type": 0,
+      "text": "Thieving Rascals. Someone’s been into your pack while your back was turned! Choose or roll for a random possession to remove from your inventory, or deduct 1d10x10 gp.",
+      "weight": 2,
+      "range": [
+        11,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "kqgd0gi8jirayccj",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 11,
+      "rangeH": 12
+    },
+    {
+      "type": 0,
+      "text": "Dancing Lights. Not far off, you see strange dancing lights which attract you with their playful movement. You cannot help but feel drawn towards them. Make a DC 9 + tier Wisdom saving throw or suffer one of the following effects (your choice): Lose 1 Clue Point; Lose an Inspiration; Suffer 2d6 psychic damage.",
+      "weight": 2,
+      "range": [
+        13,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "z9xt4ua0wb8kh1kd",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 13,
+      "rangeH": 14
+    },
+    {
+      "type": 0,
+      "text": "Resistance is Futile. Some foul arcane trickery is afoot. Any resistances you have to particular damage types are null until you complete the next long rest. This applies to all race and class features and traits.",
+      "weight": 2,
+      "range": [
+        15,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "l9oy8ddousnakut6",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 15,
+      "rangeH": 16
+    },
+    {
+      "type": 0,
+      "text": "Curse of Poor Speech. Somehow you have lost your voice! Perhaps you’ve been arguing with your fellow adventurers, are a bit run down, or are just on the wrong end of some mischievous sorcery, but whatever the case your voice has taken on a raspy and unpleasant tone. You have disadvantage on all Charisma checks that rely on speech until you finish your current quest. Also, whenever you attempt to cast a spell with a verbal component, you must make a DC 11 + tier Constitution check. If you fail, you cannot cast the spell (but you do not lose the slot).",
+      "weight": 2,
+      "range": [
+        17,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "d5mhethyu6rvy53l",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 17,
+      "rangeH": 18
+    },
+    {
+      "type": 0,
+      "text": "Weakest Link. For some reason, your courage has deserted you somewhat, and the very idea of combat seems daunting. You wonder if your companions will notice. During the next combat encounter, your character will not be able to participate in any flanking maneuvers.",
+      "weight": 2,
+      "range": [
+        19,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "vhjumbxqy3x9os9a",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 19,
+      "rangeH": 20
+    },
+    {
+      "type": 0,
+      "text": "Arcane Memory Loss. Try as you might, your spells are not coming to you as easy as they normally do. Perhaps it is the wine you drank last night, but your mental acuity is somewhat less than normal. During the next combat encounter, you can either cast a spell or cantrip as your main action, but you cannot cast a spell or cantrip as a bonus action.",
+      "weight": 2,
+      "range": [
+        21,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "1jaqh4t73pg4fhjb",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 21,
+      "rangeH": 22
+    },
+    {
+      "type": 0,
+      "text": "Brain Fog Something is clouding your judgment and decision making. Until the end of this quest, you have a penalty of -1 on Wisdom- and Intelligence-based checks and saving throws.",
+      "weight": 2,
+      "range": [
+        23,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "q9zsiuyfspdmcs2e",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 23,
+      "rangeH": 24
+    },
+    {
+      "type": 0,
+      "text": "Deserted by Luck. You feel as if the entire cosmos is bent against your good fortune. Make your next three saving throws at disadvantage.",
+      "weight": 2,
+      "range": [
+        25,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "an6cl4pgczq1i0z5",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 25,
+      "rangeH": 26
+    },
+    {
+      "type": 0,
+      "text": "Lead in Your Boots. You just can’t seem to shake this lethargy. The next time you roll initiative, your speed is halved for the first two rounds.",
+      "weight": 2,
+      "range": [
+        27,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "k9a56b2m1481mrah",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 27,
+      "rangeH": 28
+    },
+    {
+      "type": 0,
+      "text": "Fear the Reaper. Your fate teeters on a knife edge. If at any time during the remainder of this quest you are forced to make death saving throws, you automatically fail the first one.",
+      "weight": 2,
+      "range": [
+        29,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "84x7336xsqgbuzv7",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 29,
+      "rangeH": 30
+    },
+    {
+      "type": 0,
+      "text": "Clumsy. You just can’t seem to co-ordinate yourself today. You have disadvantage on all Dexterity-based checks and saving throws until you finish your next combat encounter.",
+      "weight": 2,
+      "range": [
+        31,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6ixv9tf25ypm8251",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 31,
+      "rangeH": 32
+    },
+    {
+      "type": 0,
+      "text": "Slow Healer. You immediately begin to feel a little sickly. Until the end of this quest, when you regain hit points through magical means (such as spells or healing potions) you only regain half the hit points bestowed.",
+      "weight": 2,
+      "range": [
+        33,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "n6olanmgerqzc9kg",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 33,
+      "rangeH": 34
+    },
+    {
+      "type": 0,
+      "text": "Berserker. You feel a sudden, irrational anger against your enemies. The next time you are hit in combat by an enemy, you go berserk against that enemy, immediately making an extra attack at disadvantage vs that enemy. The same enemy then has advantage on their next attack roll against you. This only occurs once.",
+      "weight": 2,
+      "range": [
+        35,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "t15m8xpt4in66qwf",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 35,
+      "rangeH": 36
+    },
+    {
+      "type": 0,
+      "text": "Nightmares. You begin to be tormented by disturbing visions of horrific creatures. The next time you encounter a non-humanoid enemy, make a DC 17 + tier Wisdom saving throw. On a fail you are immediately frightened. You may repeat the saving throw at the beginning of each of your turns, ending the effect on a success. The bane then ends.",
+      "weight": 2,
+      "range": [
+        37,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6sjvmw3hzajlznzp",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 37,
+      "rangeH": 38
+    },
+    {
+      "type": 0,
+      "text": "Insomniac. You feel a bizarre, washed-out tiredness. The next time you attempt to take a long rest, make a DC 14 + tier Constitution saving throw. On a failed save, you get a terrible sleep. You must choose one class feature to not refresh, and after replenishing hit points, roll (tier x d4) hit dice and deduct this from your hit point total.",
+      "weight": 2,
+      "range": [
+        39,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ehnwou6jd9un3627",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 39,
+      "rangeH": 40
+    },
+    {
+      "type": 0,
+      "text": "Weak Hitter. Your main attack (be it weapon or spell-based) has lost some of its gusto. During the next combat encounter, deduct (tier x d4) damage from each of your weapon’s damage rolls.",
+      "weight": 2,
+      "range": [
+        41,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "o12frylm8tlxa5w6",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 41,
+      "rangeH": 42
+    },
+    {
+      "type": 0,
+      "text": "Forgetful Caster. If you are a non-casting class, reroll. You have temporarily forgotten one of your spells. Choose or randomly select one of your spells (not a cantrip). You have temporarily forgotten this spell until after your next long rest.",
+      "weight": 2,
+      "range": [
+        43,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "60a5k8t82qsgkurj",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 43,
+      "rangeH": 44
+    },
+    {
+      "type": 0,
+      "text": "Tired in Your Bones. All this adventuring seems to have taken it out of you - or perhaps you are just coming down with a cold. Your hit point maximum is reduced by 5 until after you complete your next long rest.",
+      "weight": 2,
+      "range": [
+        45,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "7c6b8ijwohirecav",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 45,
+      "rangeH": 46
+    },
+    {
+      "type": 0,
+      "text": "Curse of Withering. Some ancient curse lingers here! You immediately age 10 years, and can feel it in all the bones of your body. Immediately take one level of exhaustion. This curse can be removed with a remove curse spell. The exhaustion can be removed as per normal rules.",
+      "weight": 2,
+      "range": [
+        47,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "iz6d3txf5oylihqp",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 47,
+      "rangeH": 48
+    },
+    {
+      "type": 0,
+      "text": "Rust Never Sleeps. If you are wearing metal armor, you look down to notice that a significant portion has become afflicted with some kind of rapidly advancing rust. It is repairable at a blacksmith’s, but for now subtract 1 from your AC until you can find a blacksmith to repair this. The repairs should cost you around 15 gp.",
+      "weight": 2,
+      "range": [
+        49,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "n7exilinaksetleo",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 49,
+      "rangeH": 50
+    },
+    {
+      "type": 0,
+      "text": "Jammed Crossbow. If you do not use a crossbow, re-roll. If you are using a crossbow, you see that some fault has afflicted it. From now on, whenever you roll a nat 1 on an attack roll, the crossbow seizes and you must spend an action clearing the jam. You can fix this as soon as you can find a weaponsmith. The repairs should cost you around 20 gp.",
+      "weight": 2,
+      "range": [
+        51,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "7bd7fwqn776suno9",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 51,
+      "rangeH": 52
+    },
+    {
+      "type": 0,
+      "text": "Wild Magic Everywhere. If you are not a caster, re-roll. Somehow you seem to be the recipient of some kind of wild magic curse. During the next combat encounter, you cast a spell, make a DC 14 + tier check using your spellcasting ability score. If you fail the check, roll on the Wild Magic Surge table to create a random magical effect (PHB p.104).",
+      "weight": 2,
+      "range": [
+        53,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4da1bfoztof9rabk",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 53,
+      "rangeH": 54
+    },
+    {
+      "type": 0,
+      "text": "NPC Exhausted. If you do not have an NPC or sidekick, re-roll. “I can’t go any further,” your NPC says, dropping to their knees. “How do you keep this up, all day every day?” Your travelling companion seems unaccustomed to such exertion. Have the NPC/sidekick make a DC 14 + tier Constitution saving throw. If they fail, they take one level of exhaustion. If they succeed, their hit point maximum is reduced by 10 until they complete a long rest.",
+      "weight": 2,
+      "range": [
+        55,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "cmuzhhgcx55hpyzm",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 55,
+      "rangeH": 56
+    },
+    {
+      "type": 0,
+      "text": "Curse of Madness. Some ancient malediction infects this area. You feel the tendrils of madness creeping into your mind… Every character must make a DC 12 + tier Wisdom saving throw. If they fail the save, they make a roll on the short-term madness table (DMG, p.259). If they roll a nat 1 then have them roll on the long-term madness table (DMG, p.260).",
+      "weight": 2,
+      "range": [
+        57,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "gostgy5p7hbo562e",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 57,
+      "rangeH": 58
+    },
+    {
+      "type": 0,
+      "text": "Vulnerable. Dark gods aligned with your enemies have cursed you! Until the end of the next combat encounter, you have vulnerability to [d6] (1-2) Bludgeoning (3-4) Piercing (5-6) Slashing damage.",
+      "weight": 2,
+      "range": [
+        59,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "eiw3vdfi96v1d0ol",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 59,
+      "rangeH": 60
+    },
+    {
+      "type": 0,
+      "text": "Magic Susceptibility. A curse has made you susceptible to arcane attacks. You have disadvantage on your next three saving throws vs. spells or other magical effects. This curse ends with your current quest.",
+      "weight": 2,
+      "range": [
+        61,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "8zdjr2785s58oees",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 61,
+      "rangeH": 62
+    },
+    {
+      "type": 0,
+      "text": "Elemental Susceptibility. Until the end of the current quest, you are vulnerable to one of the following damage types: [d4] (1) Fire (2) Cold (3) Lightning (4) Force.",
+      "weight": 2,
+      "range": [
+        63,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6ajw78d7316awppa",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 63,
+      "rangeH": 64
+    },
+    {
+      "type": 0,
+      "text": "Unproficient. Some malignant force clouds your brain, making you lose expertise in something you were previously a master of. Until the end of the current quest, you lose proficiency in one of your skills. Count the number of skills you are proficient in and devise a dice roll to randomly determine which skill you have lost proficiency in. This effect ends at the conclusion of the current quest (take note on your character sheet so you can restore your skill later.",
+      "weight": 2,
+      "range": [
+        65,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "rx5pst6tydaohek7",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 65,
+      "rangeH": 66
+    },
+    {
+      "type": 0,
+      "text": "Rusty Weapon. Reroll if you do not possess any steel weapons. One non-magical steel weapon in your possession has become rusty and does not do as much damage as it used to. If you roll a nat 1 with this weapon it breaks and cannot be used until you find a weaponsmith. Until then, deduct d4 from each of your damage rolls with this weapon. This effect lasts until you can find a weaponsmith. The cost to repair will be 10 gold pieces.",
+      "weight": 2,
+      "range": [
+        67,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "vxyb06kfuif782qh",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 67,
+      "rangeH": 68
+    },
+    {
+      "type": 0,
+      "text": "Kelemvor’s Wrath. The god of death and justice is annoyed that you are seemingly doing his work for him. Roll a d6 and take note of effects. (1-2) Until the end of the quest, healing spells are only half as effective. (3-4) The next character to make a death save does so at disadvantage (5-6) The next time you reduce a monster to 0 hp, you reduce it to 1 hp instead.",
+      "weight": 2,
+      "range": [
+        69,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "z19e94b1g9qivpgw",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 69,
+      "rangeH": 70
+    },
+    {
+      "type": 0,
+      "text": "Unsure of Foot. Fatigue and dark forces are conspiring against you, dogging your steps. During the next combat encounter, before every movement, make a DC 13 + tier Dexterity saving throw. On a fail, your character can only move up to half their speed.",
+      "weight": 2,
+      "range": [
+        71,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "7cjodu2sad8zn0td",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 71,
+      "rangeH": 72
+    },
+    {
+      "type": 0,
+      "text": "Tainted Potion. If you possess no potions, re-roll. Some sort of mold has altered the composition of one of your potions (select potion randomly if possible). When you use this potion, instead of working normally, it triggers a roll on the Variant: Mixing Potions table on p.140 of Dungeon Master’s Guide.",
+      "weight": 2,
+      "range": [
+        73,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5tgmlq88wqbi2ec8",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 73,
+      "rangeH": 74
+    },
+    {
+      "type": 0,
+      "text": "Conspicuous. You and your allies stick out like a sore thumb in this environment. Perhaps your enemy has alarms in place, or perhaps they have heightened senses. Whatever the case, remaining undetected in here is nigh on impossible. For the remainder of this quest, your party has disadvantage on Dexterity (Stealth) checks, and your allies have advantage on Dexterity (Stealth) checks.",
+      "weight": 2,
+      "range": [
+        75,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "14pk8dtixwn6s2cp",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 75,
+      "rangeH": 76
+    },
+    {
+      "type": 0,
+      "text": "Heightened Danger. If you are not using the 6d12 system, re-roll. Things are starting to get more perilous, whether you are aware of it or not. Add 1 to every die in your next 4 6d12 rolls.",
+      "weight": 2,
+      "range": [
+        77,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6op08ybhqu8efgqm",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 77,
+      "rangeH": 78
+    },
+    {
+      "type": 0,
+      "text": "Bestow Curse. An unseen enemy has afflicted you with a bestow curse spell. During your next combat encounter, choose a member of your party to be affected by this spell.",
+      "weight": 2,
+      "range": [
+        79,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "qf3ruh6rwhk32q2l",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 79,
+      "rangeH": 80
+    },
+    {
+      "type": 0,
+      "text": "Darkness Descends. The area you are in is suddenly affected by a darkness spell. Any enemies are not affected by this spell. The effect ends at the edge of the current room or area you are exploring.",
+      "weight": 2,
+      "range": [
+        81,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "im9ns7akezlcor0m",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 81,
+      "rangeH": 82
+    },
+    {
+      "type": 0,
+      "text": "Bane. An unseen enemy has afflicted you with a bane spell. During your next combat encounter, choose a member of your party to be affected by this spell.",
+      "weight": 2,
+      "range": [
+        83,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "uqidz42kvuqw7zwx",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 83,
+      "rangeH": 84
+    },
+    {
+      "type": 0,
+      "text": "Command Curse. Some sort of ancient ritual was performed here. One of your party (determine randomly) must make a DC 17 + tier Wisdom saving throw, or become the subject of an enchantment spell which will cause them to carry out a task, unbeknown to the rest of the party (and possibly even to themselves, at least consciously). Use keywords and oracle to determine the nature of this task, which should fit within the context of the current quest. This ancient curse does not conform to any known spell. They may repeat the Wisdom saving throw when they are just about to consummate the task.",
+      "weight": 2,
+      "range": [
+        85,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "i2xrn6hhvaooc62f",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 85,
+      "rangeH": 86
+    },
+    {
+      "type": 0,
+      "text": "Illusory Area. If you are not using the 6d12 system, reroll. The current area you are in turns out to be nothing more than a very real-seeming illusion. If using the 6d12 system, reroll, adding 5 to every dice except the treasure dice. If enemies are generated, your characters are surprised in the first round.",
+      "weight": 2,
+      "range": [
+        87,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "v03h0q73izffnpn9",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 87,
+      "rangeH": 88
+    },
+    {
+      "type": 0,
+      "text": "Invisible Trap. You have blundered into a trap, which has been concealed with some sort of invisibility spell. Roll on either the Wilderness or Standard Trap table (pp.40-41). Do not roll in the notice DC column. However, you will still be able to make a saving throw to avoid the effects of the trap (e.g., Dexterity save for a spear trap).",
+      "weight": 2,
+      "range": [
+        89,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "8b8vxc1cgqq8fg6g",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 89,
+      "rangeH": 90
+    },
+    {
+      "type": 0,
+      "text": "Hallucinatory Mold. Some sort of mold has released its spores into the air, causing you to hallucinate and see double. It appears that there are two of each of your party members, and this will also apply to any enemies you see. During the next combat encounter, every time you make an attack roll, make a DC 19 + tier Constitution saving throw. If you fail, make the attack roll at disadvantage. If you succeed, the effect ends at that point.",
+      "weight": 2,
+      "range": [
+        91,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ogx1edapjo8kbn0m",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 91,
+      "rangeH": 92
+    },
+    {
+      "type": 0,
+      "text": "Curse of Hideousness. Some ancient curse has caused your visage to alter, making you hideously ugly! You have disadvantage on all Charisma-based checks. This effect can be ended with a remove curse spell. Perhaps you can find a mage in a nearby settlement, or a caster in your party can learn this spell next time you stop for a long rest.",
+      "weight": 2,
+      "range": [
+        93,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "50wnkpxqzti2pcbh",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 93,
+      "rangeH": 94
+    },
+    {
+      "type": 0,
+      "text": "Slow Healer. Some effect has caused your regenerative properties to slow down. You only regain half your hit points on a long rest. Your hit points can still be restored to maximum with spells or potions, but a long rest will only restore you to half your maximum hit points.",
+      "weight": 2,
+      "range": [
+        95,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "kaq18stonfibxlqb",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 95,
+      "rangeH": 96
+    },
+    {
+      "type": 0,
+      "text": "Speechless. Randomly determine a character in your party. This character loses the ability to speak due to an ancient curse on this area. Obviously, this affects casters more than other classes, but regardless this effect can be ended with a remove curse spell, or when your current quest is concluded.",
+      "weight": 2,
+      "range": [
+        97,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "na6ra14ezel1wuqo",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 97,
+      "rangeH": 98
+    },
+    {
+      "type": 0,
+      "text": "Arch Enemy. Randomly determine a character from your party. That character, through their heroic deeds or misdeeds, has attracted the attention of a being from the hellish planes. Use keywords and oracle rolls to determine the nature of this being, but regardless, until this being is defeated it will prove to be a major source of consternation to the character.",
+      "weight": 2,
+      "range": [
+        99,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "x3ghyk1py0asta1y",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 99,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.R8Vlq4v3jlFqHUF3"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}
