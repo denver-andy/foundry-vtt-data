@@ -1,0 +1,19 @@
+{
+  "name": "Random Region",
+  "content": "<p>When you need to create a new region and need inspiration, roll one up. First, roll 1d12 for the region name template. Then, roll for each component of that template until you have a complete name. Rewrite or re-roll any result you don’t like.</p>\n<p> </p>\n<table style=\"width:100%;height:119px\" border=\"1\">\n<tbody>\n<tr style=\"height:17px\">\n<td style=\"width:9.77942%;height:17px;text-align:center\"><strong>D12</strong></td>\n<td style=\"width:90.2206%;height:17px\"><strong>Region Name Template</strong></td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:9.77942%;height:17px;text-align:center\">1-4</td>\n<td style=\"width:90.2206%;height:17px\">@RollTable[BbGGHOXJHyEUxaZw]{Random Region - Adjective} @RollTable[M9bDEbjix00XD4cW]{Random Region - Terrain}</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:9.77942%;height:17px;text-align:center\">5-6</td>\n<td style=\"width:90.2206%;height:17px\"><span style=\"background-color:rgba(255, 255, 255, 0.2)\">@RollTable[M9bDEbjix00XD4cW]{Random Region - Terrain}</span> of (the) @RollTable[dI32g9RZGLjd4md4]{Random Region - Noun}</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:9.77942%;height:17px;text-align:center\">7-8</td>\n<td style=\"width:90.2206%;height:17px\">The @RollTable[M9bDEbjix00XD4cW]{Random Region - Terrain} @RollTable[BbGGHOXJHyEUxaZw]{Random Region - Adjective}</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:9.77942%;height:17px;text-align:center\">9-10</td>\n<td style=\"width:90.2206%;height:17px\">@RollTable[dI32g9RZGLjd4md4]{Random Region - Noun} @RollTable[M9bDEbjix00XD4cW]{Random Region - Terrain}</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:9.77942%;height:17px;text-align:center\">11</td>\n<td style=\"width:90.2206%;height:17px\"><span style=\"background-color:rgba(0, 0, 0, 0.05)\">@RollTable[dI32g9RZGLjd4md4]{Random Region - Noun}</span>’s @RollTable[BbGGHOXJHyEUxaZw]{Random Region - Adjective} @RollTable[M9bDEbjix00XD4cW]{Random Region - Terrain}</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:9.77942%;height:17px;text-align:center\">12</td>\n<td style=\"width:90.2206%;height:17px\"><span style=\"background-color:rgba(255, 255, 255, 0.2)\">@RollTable[BbGGHOXJHyEUxaZw]{Random Region - Adjective}</span> <span style=\"background-color:rgba(255, 255, 255, 0.2)\">@RollTable[M9bDEbjix00XD4cW]{Random Region - Terrain}</span> of (the) [Noun]</td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
+  "img": "",
+  "flags": {
+    "monks-enhanced-journal": {
+      "type": "base"
+    },
+    "scene-packer": {
+      "sourceId": "JournalEntry.EsHkLlWkHgPzHZtv"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}
