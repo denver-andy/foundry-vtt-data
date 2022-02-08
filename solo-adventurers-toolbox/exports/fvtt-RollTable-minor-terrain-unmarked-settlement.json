@@ -1,0 +1,249 @@
+{
+  "name": "Minor Terrain - Unmarked Settlement",
+  "img": "modules/game-icons-net/whitetransparent/spyglass.svg",
+  "description": "Minor features associated with unmarked settlements.",
+  "results": [
+    {
+      "type": 0,
+      "text": "Standard (d4) [1-2]: Hamlet, [3-4]: Village. Situated in overarching terrain. Q/A rolls to find out more.",
+      "weight": 52,
+      "range": [
+        1,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "jxdfx5ydzeo1g9h6",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 52
+    },
+    {
+      "type": 0,
+      "text": "Nomadic camp.",
+      "weight": 4,
+      "range": [
+        53,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "gzvst1f1fi5e7c41",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 53,
+      "rangeH": 56
+    },
+    {
+      "type": 0,
+      "text": "Abandoned settlement. Roll d4: [1-2]: Hamlet, [3-4]: Village. Q/A rolls to discern cause of abandonment and how long ago it was abandoned.",
+      "weight": 4,
+      "range": [
+        57,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ytogbl0qg2d20b4t",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 57,
+      "rangeH": 60
+    },
+    {
+      "type": 0,
+      "text": "Tower. Appears uninhabited. Q/A to discern whether anything lurks here.",
+      "weight": 4,
+      "range": [
+        61,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "b6wgviyevof0aj8g",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 61,
+      "rangeH": 64
+    },
+    {
+      "type": 0,
+      "text": "Tower. Appears inhabited. Q/A rolls to discern more.",
+      "weight": 4,
+      "range": [
+        65,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "7lz5rxsctph7tifp",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 65,
+      "rangeH": 68
+    },
+    {
+      "type": 0,
+      "text": "Worker’s camp. Appropriate to overarching terrain. 70% human, otherwise some other sort of humanoid.",
+      "weight": 4,
+      "range": [
+        69,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "i9fgvtkg67sbrerr",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 69,
+      "rangeH": 72
+    },
+    {
+      "type": 0,
+      "text": "Hamlet, inhabited. Settlement founded on surrounding industry. 70% human, otherwise some other sort of humanoid.",
+      "weight": 4,
+      "range": [
+        73,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "od419v455ha5k0dq",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 73,
+      "rangeH": 76
+    },
+    {
+      "type": 0,
+      "text": "Hamlet, but some sort of affliction on the inhabitants. Q/A rolls to discern more. 70% human, otherwise some other sort of humanoid.",
+      "weight": 4,
+      "range": [
+        77,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ugq8dtfu8ivtdzgw",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 77,
+      "rangeH": 80
+    },
+    {
+      "type": 0,
+      "text": "Unmapped village, inhabited. Settlement founded on surrounding industry. 70% human, otherwise some other sort of humanoid.",
+      "weight": 4,
+      "range": [
+        81,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6golxsb8916uim8a",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 81,
+      "rangeH": 84
+    },
+    {
+      "type": 0,
+      "text": "Village, but in discord / strife. Q/A rolls to discern more. 70% human, otherwise some other sort of humanoid.",
+      "weight": 4,
+      "range": [
+        85,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "pv8gv5hrkl940ck3",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 85,
+      "rangeH": 88
+    },
+    {
+      "type": 0,
+      "text": "Hidden town / humanoid colony. A good number of inhabitants. How have they remained hidden, and why? Q/A rolls to discern more. 70% human, otherwise some other sort of humanoid.",
+      "weight": 4,
+      "range": [
+        89,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "mnzkczn4cqt8s05x",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 89,
+      "rangeH": 92
+    },
+    {
+      "type": 0,
+      "text": "Tree hut village. 80% humanoid inhabitants (probably wood elves).",
+      "weight": 4,
+      "range": [
+        93,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "qeuc8ngbi9954w4x",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 93,
+      "rangeH": 96
+    },
+    {
+      "type": 0,
+      "text": "Roll d6. [1]: Town is here magically; [2]: result of a dimensional rift; [3]: Town is illusory, but inhabitants still interact with you; [4]: Floating town, suspended by magic; [5]: Town is a haven for undead [6]: Whatever takes your fancy!. 50% hard encounter. Q/A rolls to discern more.",
+      "weight": 4,
+      "range": [
+        97,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "8b3kbvhz5jt2suz8",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 97,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.MJWPIjIEzB5i8016"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

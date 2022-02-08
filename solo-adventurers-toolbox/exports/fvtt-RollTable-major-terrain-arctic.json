@@ -1,0 +1,181 @@
+{
+  "name": "Major Terrain - Arctic",
+  "img": "modules/game-icons-net/whitetransparent/spyglass.svg",
+  "description": "Major terrain features in Arctic areas. Roll every 5 miles of new terrain.",
+  "results": [
+    {
+      "type": 0,
+      "text": "Continuing arctic terrain (5 miles)",
+      "weight": 60,
+      "range": [
+        1,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "tglj1xkxn0ebf0hp",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 60
+    },
+    {
+      "type": 0,
+      "text": "Icy hills (roll hills and interpret… arctically)(1d4 miles)",
+      "weight": 5,
+      "range": [
+        61,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6nb656s5jpgob2a2",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 61,
+      "rangeH": 65
+    },
+    {
+      "type": 0,
+      "text": "Small mountain range / foothills (1d4 miles)",
+      "weight": 5,
+      "range": [
+        66,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "rrido27cal8svs9j",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 66,
+      "rangeH": 70
+    },
+    {
+      "type": 0,
+      "text": "Waterway (probably frozen)(1d4 miles)",
+      "weight": 5,
+      "range": [
+        71,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "72365ydr8z8p2viw",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 71,
+      "rangeH": 75
+    },
+    {
+      "type": 0,
+      "text": "Small Wood (1d4 miles)",
+      "weight": 5,
+      "range": [
+        76,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "h9ikvt4tz230liww",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 76,
+      "rangeH": 80
+    },
+    {
+      "type": 0,
+      "text": "Rocky outcrop (1d4 miles)",
+      "weight": 5,
+      "range": [
+        81,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "i5gtdlpugorq897b",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 81,
+      "rangeH": 85
+    },
+    {
+      "type": 0,
+      "text": "Unmarked Settlement",
+      "weight": 5,
+      "range": [
+        86,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "3niwxe997gj1sion",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 86,
+      "rangeH": 90
+    },
+    {
+      "type": 0,
+      "text": "D6 roll. 1-2: Structure / 3-4: Monument / 5-6: Interesting landscape feature",
+      "weight": 5,
+      "range": [
+        91,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "c68qybuqjd67xd97",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 91,
+      "rangeH": 95
+    },
+    {
+      "type": 0,
+      "text": "Monster Lair",
+      "weight": 5,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "990f7jgduqddsj80",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 96,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.f8JyBvIWJe3phErh"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

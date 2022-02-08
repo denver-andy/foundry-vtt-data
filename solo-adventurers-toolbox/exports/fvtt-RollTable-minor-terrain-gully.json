@@ -1,0 +1,164 @@
+{
+  "name": "Minor Terrain - Gully",
+  "img": "modules/game-icons-net/whitetransparent/spyglass.svg",
+  "description": "Minor terrain features associated with gullies.",
+  "results": [
+    {
+      "type": 0,
+      "text": "Standard Gully. Characteristic of the overarching terrain.",
+      "weight": 50,
+      "range": [
+        1,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "j2efuncuxci162jo",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 50
+    },
+    {
+      "type": 0,
+      "text": "Gully with a waterway. Roll on waterways table.",
+      "weight": 7,
+      "range": [
+        51,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "s002hcigoopokcwr",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 51,
+      "rangeH": 57
+    },
+    {
+      "type": 0,
+      "text": "Rocky gully containing caves. 25% easy encounter. Q/A & investigation rolls to investigate caves. 15% chance they lead to tunnels. 10% NPC.",
+      "weight": 7,
+      "range": [
+        58,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "iqqta18bc1r7r8x6",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 58,
+      "rangeH": 64
+    },
+    {
+      "type": 0,
+      "text": "Gully that looks as if recently caused, perhaps by an earthquake or other natural disaster… or by a huge creature perhaps! Q/A / nature rolls to discern cause.",
+      "weight": 7,
+      "range": [
+        65,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "1n4y3ryovfci8r18",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 65,
+      "rangeH": 71
+    },
+    {
+      "type": 0,
+      "text": "Dry gully containing the bones of many animals. A graveyard of sorts. Q/A nature rolls to find out more.",
+      "weight": 7,
+      "range": [
+        72,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "wre6q5wedlsyuk99",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 72,
+      "rangeH": 78
+    },
+    {
+      "type": 0,
+      "text": "Heavily wooded gully, an oasis for a particular colony of creatures. Q/A nature rolls to find out more. Are they still here? 25% Easy encounter, 25% clue.",
+      "weight": 7,
+      "range": [
+        79,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "xd8nvkjon5nwk9ym",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 79,
+      "rangeH": 85
+    },
+    {
+      "type": 0,
+      "text": "Gully with evidence of mining - an abandoned mining operation. Mines may lead quite far underground. Go to Random Dungeon Generator.",
+      "weight": 7,
+      "range": [
+        86,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "po75w2udesedjuzr",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 86,
+      "rangeH": 92
+    },
+    {
+      "type": 0,
+      "text": "Magical wooded gully. A druid, or wizard, or Fey creatures lives here! Friendly 50%, Clue 50%.",
+      "weight": 8,
+      "range": [
+        93,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6o9lednan2wo4rp3",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 93,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.95swUYcblUYsYMom"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

@@ -8,7 +8,7 @@ Large lake with small woods on its shores. Roll on Small Woods Table.{5}|
 Medium-sized lakes with many boats. Q/A rolls to determine more. 25% clue. 40% NPC.{5}|
 Small lake or pond, serves as a lair for some aquatic creature. 25% clue.{5}|
 Medium-sized lake, fish jumping. DC Moderate Survival check to catch a fish.{5}|
-Sacred pool of some sort. Magical in nature. Q/A to discern whether any rituals are going on / magic user NPCs nearby.{5}|
+Sacred pool of some sort. Magical in nature. Q/A to discern whether any rituals are going on / magic user NPCs nearby.{5}
 
 
 Minor terrain features associated with lakes.

@@ -1,0 +1,215 @@
+{
+  "name": "Minor Terrain - Waterways",
+  "img": "modules/game-icons-net/whitetransparent/spyglass.svg",
+  "description": "Minor terrain features applicable to waterways.",
+  "results": [
+    {
+      "type": 0,
+      "text": "Stream /river running through. Runs through overarching terrain. 15% waterfall nearby.",
+      "weight": 50,
+      "range": [
+        1,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "oolcdxynl7cn0j35",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 50
+    },
+    {
+      "type": 0,
+      "text": "Slightly larger river, might be difficult to ford. Survival check, DC Moderate to ford. On a fail, you lose 1d4 perishable goods downstream and are soaked through. If it's cold, you might need to stop and make a fire to dry off.",
+      "weight": 5,
+      "range": [
+        51,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "an8abrh31knrybjq",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 51,
+      "rangeH": 55
+    },
+    {
+      "type": 0,
+      "text": "A man-made waterway of some sort, irrigation channel perhaps? Q/A rolls to discern purpose.",
+      "weight": 5,
+      "range": [
+        56,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "opjgakfn51r8pbl2",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 56,
+      "rangeH": 60
+    },
+    {
+      "type": 0,
+      "text": "Deep but narrow stream. You see something float by! DEX check to grab it. Clue 50%, otherwise just a branch",
+      "weight": 5,
+      "range": [
+        61,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "na1r1jw6zfo2zmg8",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 61,
+      "rangeH": 65
+    },
+    {
+      "type": 0,
+      "text": "Large, unmapped river. Could be rideable in canoe. DC Hard Survival check to craft boat (if in forest or trees are nearby). Q/A rolls and DC 12 History roll to discern more about this river.",
+      "weight": 5,
+      "range": [
+        66,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "al3to4qrk1l92bzf",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 66,
+      "rangeH": 70
+    },
+    {
+      "type": 0,
+      "text": "Sizable river with pond areas. Probably quite good for fishing or swimming. Medium encounter 50%, Clue 25%.",
+      "weight": 5,
+      "range": [
+        71,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "dm3j9w6iygbuhn5n",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 71,
+      "rangeH": 75
+    },
+    {
+      "type": 0,
+      "text": "Sizable, unmapped river, spanned by bridge. Easy encounter 25%. Q/A roll to discern who built the bridge and for what purpose. 35% Unmarked Settlement nearby.",
+      "weight": 5,
+      "range": [
+        76,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4lxhnx3y4enjplk4",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 76,
+      "rangeH": 80
+    },
+    {
+      "type": 0,
+      "text": "Meandering river with pier where small boats are tied up. Ferryman?. Q/A rolls to determine purpose of boats.",
+      "weight": 5,
+      "range": [
+        81,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "8u1qtbw4n8qya6yp",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 81,
+      "rangeH": 85
+    },
+    {
+      "type": 0,
+      "text": "This appears to be a drainage channel for a nearby settlement. Roll on Unmarked Settlement table.",
+      "weight": 5,
+      "range": [
+        86,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "wdp1ritzn37txgxj",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 86,
+      "rangeH": 90
+    },
+    {
+      "type": 0,
+      "text": "Humanoids or fey (elves? dryads?) frolicking in the water. 25% get freaky.",
+      "weight": 5,
+      "range": [
+        91,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "goo5y5un2j835579",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 91,
+      "rangeH": 95
+    },
+    {
+      "type": 0,
+      "text": "Shallow brook… what is that you see there amongst the pebbles? Loot 20% (based on last creature defeated). Clue 40%.",
+      "weight": 5,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "026d99otfm9ic5e1",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 96,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.pvI60dz2wn9SfvVt"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

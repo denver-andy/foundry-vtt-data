@@ -1,0 +1,215 @@
+{
+  "name": "Minor Terrain - Lake",
+  "img": "modules/game-icons-net/whitetransparent/spyglass.svg",
+  "description": "Minor terrain features associated with lakes.",
+  "results": [
+    {
+      "type": 0,
+      "text": "Medium-sized lake, unmarked on map. Situated in overarching terrain. 40% easy encounter. Use overarching terrain for encounter table. 10% NPC.",
+      "weight": 50,
+      "range": [
+        1,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "dbsxii8o8bddrx20",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 50
+    },
+    {
+      "type": 0,
+      "text": "Medium sized lake, small settlement somewhere on its shores. Roll on Unmarked Settlement Table.",
+      "weight": 5,
+      "range": [
+        51,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "dl9sno9ryydghngn",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 51,
+      "rangeH": 55
+    },
+    {
+      "type": 0,
+      "text": "Smallish lake / pond / watering hole. Q/A to discern whether anything lurks here. 30% medium encounter. Use overarching terrain for encounter table.",
+      "weight": 5,
+      "range": [
+        56,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ua6zipmp10gevjms",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 56,
+      "rangeH": 60
+    },
+    {
+      "type": 0,
+      "text": "Large, unmapped lake, with a waterway running out of it. Could be rideable in a canoe. DC Hard Survival check to craft canoe if trees are nearby. 10% NPC.",
+      "weight": 5,
+      "range": [
+        61,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "2psoacuk774g758u",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 61,
+      "rangeH": 65
+    },
+    {
+      "type": 0,
+      "text": "Medium sized lake, small settlement somewhere on its shores. Roll on Unmarked Settlement Table, adding 20 to roll.",
+      "weight": 5,
+      "range": [
+        66,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "n9lc2cqyydii4b6c",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 66,
+      "rangeH": 70
+    },
+    {
+      "type": 0,
+      "text": "Large, unmapped lake, with small mountain range by its shores. Roll on Small Mountain Range table.",
+      "weight": 5,
+      "range": [
+        71,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "1vlq9034zi1ho0bf",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 71,
+      "rangeH": 75
+    },
+    {
+      "type": 0,
+      "text": "Large lake with small woods on its shores. Roll on Small Woods Table.",
+      "weight": 5,
+      "range": [
+        76,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "pe0nv0xx5y8br0pe",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 76,
+      "rangeH": 80
+    },
+    {
+      "type": 0,
+      "text": "Medium-sized lakes with many boats. Q/A rolls to determine more. 25% clue. 40% NPC.",
+      "weight": 5,
+      "range": [
+        81,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "f34o7uc9jtekv56w",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 81,
+      "rangeH": 85
+    },
+    {
+      "type": 0,
+      "text": "Small lake or pond, serves as a lair for some aquatic creature. 25% clue.",
+      "weight": 5,
+      "range": [
+        86,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "7s0j9ft19lcv7evm",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 86,
+      "rangeH": 90
+    },
+    {
+      "type": 0,
+      "text": "Medium-sized lake, fish jumping. DC Moderate Survival check to catch a fish.",
+      "weight": 5,
+      "range": [
+        91,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "bdne54eqwn6w3elk",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 91,
+      "rangeH": 95
+    },
+    {
+      "type": 0,
+      "text": "Sacred pool of some sort. Magical in nature. Q/A to discern whether any rituals are going on / magic user NPCs nearby.",
+      "weight": 5,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "359aogzxrxnna1eu",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 96,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.2FZ5SMJsZZhH3yQu"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

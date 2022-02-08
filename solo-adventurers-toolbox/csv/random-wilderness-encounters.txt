@@ -1,4 +1,4 @@
-Small dungeon or crypt found. Purpose and history unknown. If entering, see Random Dungeon Generation.{4}|
+Small dungeon or crypt found. Purpose and history unknown. If entering, see Random Dungeon Generation.{5}|
 Ready-made camp found, or cozy cave, that could potentially be used as shelter for the night, or a base while exploring. Inhabited?{1}|
 A small creek, babbling pleasantly. Or a large crack, bubbling pungently.{1}|
 A storm on the horizon, lightning dancing underneath dark grey clouds.{1}|

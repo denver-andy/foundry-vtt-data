@@ -1,0 +1,198 @@
+{
+  "name": "Minor Terrain - Clearing",
+  "img": "modules/game-icons-net/whitetransparent/spyglass.svg",
+  "description": "Minor terrain features associated with clearings.",
+  "results": [
+    {
+      "type": 0,
+      "text": "Natural clearing, devoid of trees. Is something watching you from the trees? Q/A roll. Do you notice it?",
+      "weight": 52,
+      "range": [
+        1,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4rc0ee5iood4jrgn",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 52
+    },
+    {
+      "type": 0,
+      "text": "Druid circle containing standing stones. Q/A roll to see what you can discern. Clue 20%.",
+      "weight": 6,
+      "range": [
+        53,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6eqqx1s4el3fzsyk",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 53,
+      "rangeH": 58
+    },
+    {
+      "type": 0,
+      "text": "Totems and other sinister symbols. Q/A rolls, medium encounter 10%. Clue 40%. Possibly dark rituals take place here.",
+      "weight": 6,
+      "range": [
+        59,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5lua4te997kmhsd8",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 59,
+      "rangeH": 65
+    },
+    {
+      "type": 0,
+      "text": "Clearing contains a pond, watering hole for local wildlife. Easy encounter(beast) 20%. If left alone it will probably just take a drink and leave.",
+      "weight": 6,
+      "range": [
+        66,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "skm0n2a6lan8a4sz",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 66,
+      "rangeH": 71
+    },
+    {
+      "type": 0,
+      "text": "Abandoned campsite. Q/A rolls, investigation rolls to find out more. Clue 50%.",
+      "weight": 6,
+      "range": [
+        72,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "a5uy7tx0jey8ri6u",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 72,
+      "rangeH": 77
+    },
+    {
+      "type": 0,
+      "text": "Active campsite. Perception check, Easy, to determine whether you hear the inhabitants before seeing them. 50% friendly.",
+      "weight": 6,
+      "range": [
+        78,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "qyv2xwfufcmga528",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 78,
+      "rangeH": 83
+    },
+    {
+      "type": 0,
+      "text": "Magic at work here - some sort of dimensional rift? Q/A rolls to see what’s happening here!",
+      "weight": 6,
+      "range": [
+        84,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "00jxkh5azf6qftdj",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 84,
+      "rangeH": 89
+    },
+    {
+      "type": 0,
+      "text": "Structure present in the clearing. Roll on Structures table.",
+      "weight": 6,
+      "range": [
+        90,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "iqu80un53xmtz9ft",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 90,
+      "rangeH": 95
+    },
+    {
+      "type": 0,
+      "text": "Treant meeting currently in progress. Q/A / Charisma rolls to interact?",
+      "weight": 3,
+      "range": [
+        96,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "fxtmzzma63580dbn",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 96,
+      "rangeH": 98
+    },
+    {
+      "type": 0,
+      "text": "Magical glade. A mage or some other magic user (or fey creatures) has a residence here. 50% friendly. Q/A rolls to determine interaction. Perhaps they have a quest for you!",
+      "weight": 2,
+      "range": [
+        99,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "xa04a8klll10e5yn",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 99,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d99",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.7SSWt2yO9hEKeGvG"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

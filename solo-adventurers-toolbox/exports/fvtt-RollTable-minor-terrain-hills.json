@@ -1,0 +1,164 @@
+{
+  "name": "Minor Terrain - Hills",
+  "img": "modules/game-icons-net/whitetransparent/spyglass.svg",
+  "description": "Minor terrain features common to hills.",
+  "results": [
+    {
+      "type": 0,
+      "text": "Low, rolling hills. Covered with overarching terrain. In a forest, wooded hills. In grassland, grassy hills.",
+      "weight": 50,
+      "range": [
+        1,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "gd4k4q0iaaqqlcyh",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 50
+    },
+    {
+      "type": 0,
+      "text": "Rocky hills abundant with caves, may also possess a network of natural tunnels. Q/A rolls to see whether tunnels are present and whether they are inhabited. Clue 25%.",
+      "weight": 7,
+      "range": [
+        51,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "lpsynfhag5nairw5",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 51,
+      "rangeH": 57
+    },
+    {
+      "type": 0,
+      "text": "Slightly higher hills, giving a good view of the surrounding area. Q/A roll to see whether you can see anything of interest. 10% NPC.",
+      "weight": 7,
+      "range": [
+        58,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "d705u64ib68gd602",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 58,
+      "rangeH": 64
+    },
+    {
+      "type": 0,
+      "text": "Sharply jutting, rocky hills, practically unscalable. Athletics check to scale, DC Moderate. Fall damage if fail?",
+      "weight": 7,
+      "range": [
+        65,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "n674a48j9jf71wle",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 65,
+      "rangeH": 71
+    },
+    {
+      "type": 0,
+      "text": "Dry, low plateau. Monument 25%.",
+      "weight": 7,
+      "range": [
+        72,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5pya1ue0l02vh5po",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 72,
+      "rangeH": 78
+    },
+    {
+      "type": 0,
+      "text": "Slightly wooded hills, small patches of forest. Easy encounter 25%. Roll on Small wood minor feature table.",
+      "weight": 7,
+      "range": [
+        79,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "hb66tfudzmfirapl",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 79,
+      "rangeH": 85
+    },
+    {
+      "type": 0,
+      "text": "Not hills but barrows of some kind, possibly burial mounds! Q/A to determine nature of these mounds. May lead to tunnels.",
+      "weight": 7,
+      "range": [
+        86,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "820hyeup2qm1yczx",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 86,
+      "rangeH": 92
+    },
+    {
+      "type": 0,
+      "text": "Hills are home to some sort of colony. 50% humanoid, otherwise some sort of burrowing beast. Q/A rolls to determine what lurks here.",
+      "weight": 8,
+      "range": [
+        93,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6808utth805nu7ls",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 93,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.6A4ZC0jAzlkgV4aI"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

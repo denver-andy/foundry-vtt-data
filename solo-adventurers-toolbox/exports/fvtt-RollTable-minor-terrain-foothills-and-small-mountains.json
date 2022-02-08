@@ -1,0 +1,198 @@
+{
+  "name": "Minor Terrain - Foothills & Small Mountains",
+  "img": "modules/game-icons-net/whitetransparent/spyglass.svg",
+  "description": "Minor terrain features applicable to foothills and small mountains.",
+  "results": [
+    {
+      "type": 0,
+      "text": "Standard small mountain range, mostly uniform size, no huge peaks. Will have snow if it is winter or near to winter. DC Moderate Survival roll to scale (climbing gear also required).",
+      "weight": 55,
+      "range": [
+        1,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "hgu43u75sdiqkjxs",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 55
+    },
+    {
+      "type": 0,
+      "text": "Small mountain range with some large peaks. Will have snow if it is winter or near to winter. DC Moderate Survival roll to scale (climbing gear also required).",
+      "weight": 5,
+      "range": [
+        56,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "y2my90illbgvynwo",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 56,
+      "rangeH": 60
+    },
+    {
+      "type": 0,
+      "text": "Small mountain range that appears to possess a large number of caves. Caves might lead to tunnels / dungeons.",
+      "weight": 5,
+      "range": [
+        61,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "dzsip33rj60fob0k",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 61,
+      "rangeH": 65
+    },
+    {
+      "type": 0,
+      "text": "Mountain range appears to be home to a colony / settlement of some kind. Dwarven? Mountain-dwelling creature. Roll on Unmarked Settlement Table.",
+      "weight": 5,
+      "range": [
+        66,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "1hwj9x9drr5he5jx",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 66,
+      "rangeH": 70
+    },
+    {
+      "type": 0,
+      "text": "Small mountain range covered by forest. Roll on Small Wood Table.",
+      "weight": 5,
+      "range": [
+        71,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "qkrjw948g6qtdr08",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 71,
+      "rangeH": 75
+    },
+    {
+      "type": 0,
+      "text": "Small mountain range, rugged and dangerous, partially wooded. Giant eagles and the like. Hard encounter 50%.",
+      "weight": 5,
+      "range": [
+        76,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "w0dvunecles4fif4",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 76,
+      "rangeH": 80
+    },
+    {
+      "type": 0,
+      "text": "Bandits / Raiders using these mountains as a hideout. But does your PC know? Perception DC 18 to discern. Hard encounter 70%.",
+      "weight": 5,
+      "range": [
+        81,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "z5nct3rtmyqx2ngk",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 81,
+      "rangeH": 85
+    },
+    {
+      "type": 0,
+      "text": "Small mountain range by lake. Roll on Lake Table.",
+      "weight": 5,
+      "range": [
+        86,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "epz3rw17s8tukztm",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 86,
+      "rangeH": 90
+    },
+    {
+      "type": 0,
+      "text": "Small mountain range with colony of Giants (or perhaps other humanoids). Q/A rolls to find out more.",
+      "weight": 5,
+      "range": [
+        91,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "pabmg2i4qpf88ohj",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 91,
+      "rangeH": 95
+    },
+    {
+      "type": 0,
+      "text": "Small mtn range contains (d8) [1]: Monastery, [2]: Wizard Tower, [3]: Hidden Town, [4]: Druid Community, [5]: Secret Dwarven City, [6]: Secret Gnome City, [7]: Citadel for Secret Order, [8]: Whatever Takes Your Fancy! Q/A rolls to find out more.",
+      "weight": 5,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "gcvqkz7jktmf1r7b",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 96,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.xlhXcJAAKxMYS62q"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

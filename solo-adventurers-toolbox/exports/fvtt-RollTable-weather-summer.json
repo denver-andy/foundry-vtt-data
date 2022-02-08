@@ -1,0 +1,130 @@
+{
+  "name": "Weather - Summer",
+  "img": "modules/game-icons-net/whitetransparent/sun-cloud.svg",
+  "description": "Weather is a major consideration when travelling. Consult the DMG (p.109) or use the table below to determine what the weather is doing on any particular day or night. Where the weather gives the option Hot, if the roll is towards the lower end of the range, it is warm. If higher, it is hot. The results scale upwards. Adjust by terrain also. If in a desert, add 5. If in mountains or ice steppes, subtract 5.",
+  "results": [
+    {
+      "type": 0,
+      "text": "Unseasonably Cold",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "fcol6jibzyct2br1",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 1
+    },
+    {
+      "type": 0,
+      "text": "Rainy",
+      "weight": 3,
+      "range": [
+        2,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "01yu7cu1v9m4ggah",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 2,
+      "rangeH": 4
+    },
+    {
+      "type": 0,
+      "text": "Overcast",
+      "weight": 4,
+      "range": [
+        5,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "xi3upzcd9mgg67yt",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 5,
+      "rangeH": 8
+    },
+    {
+      "type": 0,
+      "text": "Clear & Warm",
+      "weight": 3,
+      "range": [
+        9,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "izjqkyu0ceh8n5x8",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 9,
+      "rangeH": 11
+    },
+    {
+      "type": 0,
+      "text": "Clear & Hot",
+      "weight": 7,
+      "range": [
+        12,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "d6076xjuwd9bei5x",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 12,
+      "rangeH": 18
+    },
+    {
+      "type": 0,
+      "text": "Very Hot",
+      "weight": 2,
+      "range": [
+        19,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "xah60tfchbns47cv",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 19,
+      "rangeH": 20
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.Qxez2SrPR27gGOVa"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

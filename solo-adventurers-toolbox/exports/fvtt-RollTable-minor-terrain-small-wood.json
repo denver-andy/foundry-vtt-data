@@ -1,0 +1,198 @@
+{
+  "name": "Minor Terrain - Small Wood",
+  "img": "modules/game-icons-net/whitetransparent/spyglass.svg",
+  "description": "Minor terrain features applicable to small woods.",
+  "results": [
+    {
+      "type": 0,
+      "text": "Standard type of wood for this area",
+      "weight": 55,
+      "range": [
+        1,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "g0ymoyxgdqt9omig",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 55
+    },
+    {
+      "type": 0,
+      "text": "Trees dead, as if by some mysterious disease. Use Q/A rolls to see if you can determine the nature of the affliction.",
+      "weight": 5,
+      "range": [
+        56,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "gt9hs72i9g1b2p20",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 56,
+      "rangeH": 60
+    },
+    {
+      "type": 0,
+      "text": "Ancient wood, twisted, gnarled trees. Clue 25%.",
+      "weight": 5,
+      "range": [
+        61,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "btq2q5xkbfkxtr95",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 61,
+      "rangeH": 65
+    },
+    {
+      "type": 0,
+      "text": "Serene, Sylvan wood. Q/A rolls to check for signs of life.",
+      "weight": 5,
+      "range": [
+        66,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "57427i4s5otwykpp",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 66,
+      "rangeH": 70
+    },
+    {
+      "type": 0,
+      "text": "Dark, thick wood, full of menace. Hard encounter 20%.",
+      "weight": 5,
+      "range": [
+        71,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "9q38ug8d1ajfqlmd",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 71,
+      "rangeH": 75
+    },
+    {
+      "type": 0,
+      "text": "Wood which is in the process of being clear-felled for timber. Q/A rolls to determine who is clear-felling and why.",
+      "weight": 5,
+      "range": [
+        76,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "c84l8s4rlc7wmuth",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 76,
+      "rangeH": 80
+    },
+    {
+      "type": 0,
+      "text": "Wood which has been ravaged by forest fire. Q/A rolls to determine cause of fire.",
+      "weight": 5,
+      "range": [
+        81,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5scyhfk78kt3s6vg",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 81,
+      "rangeH": 85
+    },
+    {
+      "type": 0,
+      "text": "Wood in which a band of raiding humanoids is currently hiding. Clue 50%. Medium encounter 35%.",
+      "weight": 5,
+      "range": [
+        86,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "rsgddvppn48zat5h",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 86,
+      "rangeH": 90
+    },
+    {
+      "type": 0,
+      "text": "Wood containing a clearing containing totem / standing stones. Medium encounter 25%, Clue 10%.",
+      "weight": 5,
+      "range": [
+        91,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "irllucz9n99qjfar",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 91,
+      "rangeH": 95
+    },
+    {
+      "type": 0,
+      "text": "Wood inhabited by humanoid settlement such as elves, gnomes, halflings. Q/A rolls to determine whether you meet them.",
+      "weight": 5,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "koulwhc8g6ybf8fa",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 96,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.orPsB1UmS0fsIQsX"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

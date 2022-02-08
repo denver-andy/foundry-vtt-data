@@ -10,7 +10,7 @@ Rocky Outcrop (1d4 miles){4}|
 Swamp (1d4 miles){4}|
 Unmarked Forest Settlement{4}|
 D6 roll. [1-2]: Structure; [3-4]: Monument; [5-6]: Interesting Landscape Feature{4}|
-Monster Lair{4}|
+Monster Lair{4}
 
 
 Major terrain features in Forest and Jungle areas. Roll every 5 miles of new terrain.

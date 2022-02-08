@@ -1,0 +1,181 @@
+{
+  "name": "Minor Terrain - Rocky Outcrop",
+  "img": "modules/game-icons-net/whitetransparent/spyglass.svg",
+  "description": "Minor terrain feature appropriate to rocky outcrops.",
+  "results": [
+    {
+      "type": 0,
+      "text": "Rocky Outcrop. Protruding above overarching terrain.",
+      "weight": 52,
+      "range": [
+        1,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "yugceq4ryn4dfocj",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 52
+    },
+    {
+      "type": 0,
+      "text": "Outcrop serves as a vantage point for humanoid scouts. DC Moderate perception roll to see if your PC notices. Q/A to discern more.",
+      "weight": 6,
+      "range": [
+        53,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "y6llmxg64y93hl2k",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 53,
+      "rangeH": 58
+    },
+    {
+      "type": 0,
+      "text": "Small wood atop this outcrop. Roll on Small Wood table.",
+      "weight": 7,
+      "range": [
+        59,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "c6fgt9ixq1v7vjl5",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 59,
+      "rangeH": 65
+    },
+    {
+      "type": 0,
+      "text": "If scaled, PC might find a structure or monument on top of this feature. 50% structure, 50% monument.",
+      "weight": 6,
+      "range": [
+        66,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4cygbf80p96ov1mt",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 66,
+      "rangeH": 71
+    },
+    {
+      "type": 0,
+      "text": "Rocky outcrop is an island in the middle of a lake. Roll on Lake Table.",
+      "weight": 6,
+      "range": [
+        72,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5gaefev36ehg4wja",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 72,
+      "rangeH": 77
+    },
+    {
+      "type": 0,
+      "text": "Rocky outcrop is an assortment of large boulders scattered around. Q/A to determine more. How did they get here? 50% medium encounter (possibly with surprise vs you).",
+      "weight": 6,
+      "range": [
+        78,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "tuye6y2uyto4ks2r",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 78,
+      "rangeH": 83
+    },
+    {
+      "type": 0,
+      "text": "Interesting formation of standing stones atop the outcrop. DC Moderate Survival check to scale this feature and investigate further.",
+      "weight": 6,
+      "range": [
+        84,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "gf42y3p4nn6okyys",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 84,
+      "rangeH": 89
+    },
+    {
+      "type": 0,
+      "text": "An NPC stands atop this outcrop and is calling out to you, beckoning you to join them up there. Q/A to discern more.",
+      "weight": 6,
+      "range": [
+        90,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "avu9hdu52unjd55i",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 90,
+      "rangeH": 95
+    },
+    {
+      "type": 0,
+      "text": "Outcrop has been fashioned into the face or form of a well-known god. 50% worshippers present. Shrine atop the outcrop? Q/A to discern more.",
+      "weight": 5,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "mr3edeu00qgzrzbc",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 96,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.N6LOvD5IEYr4qLAH"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}
