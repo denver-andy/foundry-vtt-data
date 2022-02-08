@@ -1,0 +1,12 @@
+Rocky Outcrop. Protruding above overarching terrain.{52}|
+Outcrop serves as a vantage point for humanoid scouts. DC Moderate perception roll to see if your PC notices. Q/A to discern more.{6}|
+Small wood atop this outcrop. Roll on Small Wood table.{7}|
+If scaled, PC might find a structure or monument on top of this feature. 50% structure, 50% monument.{6}|
+Rocky outcrop is an island in the middle of a lake. Roll on Lake Table.{6}|
+Rocky outcrop is an assortment of large boulders scattered around. Q/A to determine more. How did they get here? 50% medium encounter (possibly with surprise vs you).{6}|
+Interesting formation of standing stones atop the outcrop. DC Moderate Survival check to scale this feature and investigate further.{6}|
+An NPC stands atop this outcrop and is calling out to you, beckoning you to join them up there. Q/A to discern more.{6}|
+Outcrop has been fashioned into the face or form of a well-known god. 50% worshippers present. Shrine atop the outcrop? Q/A to discern more. {5}
+
+
+Minor terrain feature appropriate to rocky outcrops.

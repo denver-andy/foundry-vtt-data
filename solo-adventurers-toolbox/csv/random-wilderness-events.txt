@@ -1,0 +1,51 @@
+Landslide / Avalanche{2}|
+Earthquake{2}|
+Storm{2}|
+Druid gathering{2}|
+Religious pilgrimage{2}|
+Army encamped{2}|
+Sudden storm / gale force winds{2}|
+Overturned cart{2}|
+Flash flood{2}|
+Forest Fire{2}|
+Local humanoids having a festival{2}|
+Solar eclipse{2}|
+Hail (large hailstones?){2}|
+Hurricane{2}|
+Tribal encounter{2}|
+Animal stampede{2}|
+Tree falls{2}|
+Boulder falls{2}|
+Unseasonable weather{2}|
+Lightning strikes{2}|
+Market{2}|
+Hunting Party{2}|
+Farmers harvesting crops{2}|
+Cart passing{2}|
+Refugees{2}|
+Massed Animals{2}|
+Toll demanded{2}|
+Distressed NPC{2}|
+Besieged settlement{2}|
+Come across structure{2}|
+Battle in progress{2}|
+Beast / Monster carcass{2}|
+Monster - easy encounter{2}|
+Monster - easy encounter{2}|
+Monster - medium encounter{2}|
+Monster - medium encounter{2}|
+Monster - hard encounter{2}|
+Monster - deadly encounter{2}|
+Volcanic eruption{2}|
+Plague (insect / vermin){2}|
+Interdimensional Rift{2}|
+Army going to war{2}|
+Sinkhole Appears{2}|
+Appearance of Tyrant in the area{2}|
+Savage raiding party{2}|
+Marauding monster attacking village{2}|
+Undead awakening{2}|
+Unmarked Settlement{6}
+
+
+Random events that might occur during wilderness exploration or travel.

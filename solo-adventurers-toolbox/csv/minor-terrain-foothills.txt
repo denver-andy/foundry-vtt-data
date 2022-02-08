@@ -1,0 +1,13 @@
+Standard small mountain range, mostly uniform size, no huge peaks. Will have snow if it is winter or near to winter. DC Moderate Survival roll to scale (climbing gear also required).{55}|
+Small mountain range with some large peaks. Will have snow if it is winter or near to winter. DC Moderate Survival roll to scale (climbing gear also required).{5}|
+Small mountain range that appears to possess a large number of caves. Caves might lead to tunnels / dungeons.{5}|
+Mountain range appears to be home to a colony / settlement of some kind. Dwarven? Mountain-dwelling creature. Roll on Unmarked Settlement Table.{5}|
+Small mountain range covered by forest. Roll on Small Wood Table.{5}|
+Small mountain range, rugged and dangerous, partially wooded. Giant eagles and the like. Hard encounter 50%.{5}|
+Bandits / Raiders using these mountains as a hideout. But does your PC know? Perception DC 18 to discern. Hard encounter 70%.{5}|
+Small mountain range by lake. Roll on Lake Table.{5}|
+Small mountain range with colony of Giants (or perhaps other humanoids). Q/A rolls to find out more.{5}|
+Small mtn range contains (d8) [1]: Monastery, [2]: Wizard Tower, [3]: Hidden Town, [4]: Druid Community, [5]: Secret Dwarven City, [6]: Secret Gnome City, [7]: Citadel for Secret Order, [8]: Whatever Takes Your Fancy! Q/A rolls to find out more.{5}
+
+
+Minor terrain features applicable to foothills and small mountains.

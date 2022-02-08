@@ -1,0 +1,11 @@
+Standard Gully. Characteristic of the overarching terrain.{50}|
+Gully with a waterway. Roll on waterways table.{7}|
+Rocky gully containing caves. 25% easy encounter. Q/A & investigation rolls to investigate caves. 15% chance they lead to tunnels. 10% NPC.{7}|
+Gully that looks as if recently caused, perhaps by an earthquake or other natural disaster… or by a huge creature perhaps! Q/A / nature rolls to discern cause.{7}|
+Dry gully containing the bones of many animals. A graveyard of sorts. Q/A nature rolls to find out more.{7}|
+Heavily wooded gully, an oasis for a particular colony of creatures. Q/A nature rolls to find out more. Are they still here? 25% Easy encounter, 25% clue.{7}|
+Gully with evidence of mining - an abandoned mining operation. Mines may lead quite far underground. Go to Random Dungeon Generator.{7}|
+Magical wooded gully. A druid, or wizard, or Fey creatures lives here! Friendly 50%, Clue 50%.{8}
+
+
+Minor terrain features associated with gullies.

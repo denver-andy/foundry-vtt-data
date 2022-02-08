@@ -1,0 +1,13 @@
+Large camp / caravan (25% abandoned) (pop. 1-20){1}|
+Cottage (pop. 1-10){1}|
+Large Encampment (pop. 50-100){1}|)
+Hamlet (pop. 50-150){1}|
+Work Crew (e.g. woodcutters) (pop. 50-200){1}|
+Stationed Garrison (pop. 100-300){1}|
+Fort (pop. 200-400){1}|
+Village (pop. 300-1000){1}|
+Encamped Army (pop. 1000-3000){1}|
+Refugee Encampment (pop. 500-5000){1}
+
+
+This table can be used establish the size and nature of a settlement. Wherever you see a percentage value in a table, that is a direction to make a d100 roll. If you roll at or below that value, something happened. Use Q/A rolls to garner more information about the settlement, for example, whether it is inhabited by humans or orcs!

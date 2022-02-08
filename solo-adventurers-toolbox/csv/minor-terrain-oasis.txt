@@ -1,0 +1,13 @@
+Oasis with pool of refreshing water at its center. Ideal campsite. Good place for a long rest, especially in a desert.{46}|
+On reaching it, you discover it is a mirage. Just deserts.{6}|
+Oasis with pool but water is… not quite right. 30% poisoned, or something else. 50% favorable effect. Q/A rolls / Nature check to discern more.{6}|
+Oasis contains a travelling caravan of desert merchants. 90% friendly. Are you able to approach with stealth so they do not notice you?{6}|
+Oasis contains a large camp of desert nomads.  50% friendly. Are you able to approach with stealth so they do not notice you?{6}|
+Oasis contains a shrine or temple of some sort. Q/A / Investigation roll to find out more.{6}|
+Oasis contains a ruin of some sort. Q/A / Investigation roll to find out more.{6}|
+Oasis with bandits / raiders / other adventurers using it as a stop off point. 50% friendly. Are you able to approach with stealth so they do not notice you?{6}|
+Oasis with a waypoint / fresh horses / supplies. Restock on some basics! Q/A roll to discern more.{6}|
+Some sort of magical barrier here... it could only be described as a Wonderwall. Q/A rolls / Arcana check to discern nature of barrier.{6}
+
+
+Minor terrain features associated with oases.

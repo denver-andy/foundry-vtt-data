@@ -1,0 +1,16 @@
+Standard (d4) [1-2]: Hamlet, [3-4]: Village. Situated in overarching terrain. Q/A rolls to find out more.{52}|
+Nomadic camp.{4}|
+Abandoned settlement. Roll d4: [1-2]: Hamlet, [3-4]: Village. Q/A rolls to discern cause of abandonment and how long ago it was abandoned.{4}|
+Tower. Appears uninhabited. Q/A to discern whether anything lurks here.{4}|
+Tower. Appears inhabited. Q/A rolls to discern more.{4}|
+Worker’s camp. Appropriate to overarching terrain. 70% human, otherwise some other sort of humanoid.{4}|
+Hamlet, inhabited. Settlement founded on surrounding industry. 70% human, otherwise some other sort of humanoid.{4}|
+Hamlet, but some sort of affliction on the inhabitants. Q/A rolls to discern more. 70% human, otherwise some other sort of humanoid.{4}|
+Unmapped village, inhabited. Settlement founded on surrounding industry. 70% human, otherwise some other sort of humanoid.{4}|
+Village, but in discord / strife. Q/A rolls to discern more. 70% human, otherwise some other sort of humanoid.{4}|
+Hidden town / humanoid colony. A good number of inhabitants. How have they remained hidden, and why? Q/A rolls to discern more. 70% human, otherwise some other sort of humanoid.{4}|
+Tree hut village. 80% humanoid inhabitants (probably wood elves).{4}|
+Roll d6. [1]: Town is here magically; [2]: result of a dimensional rift; [3]: Town is illusory, but inhabitants still interact with you; [4]: Floating town, suspended by magic; [5]: Town is a haven for undead [6]: Whatever takes your fancy!. 50% hard encounter. Q/A rolls to discern more.{4}
+
+
+Minor features associated with unmarked settlements.

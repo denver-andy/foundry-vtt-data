@@ -1,0 +1,14 @@
+Medium-sized lake, unmarked on map. Situated in overarching terrain. 40% easy encounter. Use overarching terrain for encounter table. 10% NPC.{50}|
+Medium sized lake, small settlement somewhere on its shores. Roll on Unmarked Settlement Table.{5}|
+Smallish lake / pond / watering hole. Q/A to discern whether anything lurks here. 30% medium encounter. Use overarching terrain for encounter table.{5}|
+Large, unmapped lake, with a waterway running out of it. Could be rideable in a canoe. DC Hard Survival check to craft canoe if trees are nearby. 10% NPC.{5}|
+Medium sized lake, small settlement somewhere on its shores. Roll on Unmarked Settlement Table, adding 20 to roll.{5}|
+Large, unmapped lake, with small mountain range by its shores. Roll on Small Mountain Range table.{5}|
+Large lake with small woods on its shores. Roll on Small Woods Table.{5}|
+Medium-sized lakes with many boats. Q/A rolls to determine more. 25% clue. 40% NPC.{5}|
+Small lake or pond, serves as a lair for some aquatic creature. 25% clue.{5}|
+Medium-sized lake, fish jumping. DC Moderate Survival check to catch a fish.{5}|
+Sacred pool of some sort. Magical in nature. Q/A to discern whether any rituals are going on / magic user NPCs nearby.{5}|
+
+
+Minor terrain features associated with lakes.

@@ -1,0 +1,11 @@
+Low, rolling hills. Covered with overarching terrain. In a forest, wooded hills. In grassland, grassy hills.{50}|
+Rocky hills abundant with caves, may also possess a network of natural tunnels. Q/A rolls to see whether tunnels are present and whether they are inhabited. Clue 25%.{7}|
+Slightly higher hills, giving a good view of the surrounding area. Q/A roll to see whether you can see anything of interest. 10% NPC.{7}|
+Sharply jutting, rocky hills, practically unscalable. Athletics check to scale, DC Moderate. Fall damage if fail?{7}|
+Dry, low plateau. Monument 25%.{7}|
+Slightly wooded hills, small patches of forest. Easy encounter 25%. Roll on Small wood minor feature table.{7}|
+Not hills but barrows of some kind, possibly burial mounds! Q/A to determine nature of these mounds. May lead to tunnels.{7}|
+Hills are home to some sort of colony. 50% humanoid, otherwise some sort of burrowing beast. Q/A rolls to determine what lurks here.{8}
+
+
+Minor terrain features common to hills.

@@ -1,0 +1,14 @@
+Stream /river running through. Runs through overarching terrain. 15% waterfall nearby.{50}|
+Slightly larger river, might be difficult to ford. Survival check, DC Moderate to ford. On a fail, you lose 1d4 perishable goods downstream and are soaked through. If it's cold, you might need to stop and make a fire to dry off.{5}|
+A man-made waterway of some sort, irrigation channel perhaps? Q/A rolls to discern purpose.{5}|
+Deep but narrow stream. You see something float by! DEX check to grab it. Clue 50%, otherwise just a branch{5}|
+Large, unmapped river. Could be rideable in canoe. DC Hard Survival check to craft boat (if in forest or trees are nearby). Q/A rolls and DC 12 History roll to discern more about this river. {5}|
+Sizable river with pond areas. Probably quite good for fishing or swimming. Medium encounter 50%, Clue 25%.{5}|
+Sizable, unmapped river, spanned by bridge. Easy encounter 25%. Q/A roll to discern who built the bridge and for what purpose. 35% Unmarked Settlement nearby. {5}|
+Meandering river with pier where small boats are tied up. Ferryman?. Q/A rolls to determine purpose of boats.{5}|
+This appears to be a drainage channel for a nearby settlement. Roll on Unmarked Settlement table.{5}|
+Humanoids or fey (elves? dryads?) frolicking in the water. 25% get freaky.{5}|
+Shallow brook… what is that you see there amongst the pebbles? Loot 20% (based on last creature defeated). Clue 40%.{5}
+
+
+Minor terrain features applicable to waterways.

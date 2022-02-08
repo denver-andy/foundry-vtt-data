@@ -1,0 +1,11 @@
+Standard Swamp. Difficult terrain (half movement) 25% easy encounter.{50}|
+Thick, dense swamp, almost impossible to traverse, extending in all directions forward. Extremely difficult terrain, movement slowed to quarter of normal.{7}|
+Patchy swamp with dry areas. Perfect area for bandits or raiders to have a camp. Hard encounter 50%. Clue 30%.{7}|
+Wetland containing many ponds and a network of waterways. May need a small boat to traverse. Survival check, DC 19, to craft a small kayak. Otherwise, might need to go around, adding travel time. {7}|
+Dark, eerie swamp, with an eldritch aura. Something evil hides in here…  Q/A rolls to determine what! Clue 10%.{7}|
+A land forgotten by time! Ancient swamp, small part of a more primeval wilderness that was here before. Hard encounter 50%.{7}|
+Fey Oasis. 50% encounter with fey. Wisdom check (DC Moderate) or you get totally turned around, lost.{7}|
+Swamp inhabited by humanoids who wish to remain hidden from the world. Q/A rolls to determine whether you meet them.{8}
+
+
+Minor features associated with swamps.
