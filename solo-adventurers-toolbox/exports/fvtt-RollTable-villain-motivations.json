@@ -1,0 +1,130 @@
+{
+  "name": "Villain - Motivations",
+  "img": "modules/game-icons-net/whitetransparent/evil-tower.svg",
+  "description": "Every villain worth their salt has a plan. Here’s a list of six broad concepts for villainous motivation. The Monster Types column offers suggestions about what type of creatures might pursue the stated plan.",
+  "results": [
+    {
+      "type": 0,
+      "text": "Usurpation / Overthrow: This general plan could involve anything from overthrowing the government or the monarchy, to rallying armies and invading a kingdom, or even just a local creature or dark lord aiming to conquer and control a town. This plan will need to be broken down into stages, however, and any intelligent creature will realize this. As with all of these, add keywords for flavour. Monster Types: All.",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "q4g0l7mmiai04m03",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 1
+    },
+    {
+      "type": 0,
+      "text": "Acting as Agent: The villain may be the head of some kind of cult or guild. Through coercion, violence, manipulation, brainwashing or any other means of persuasion, they are attempting to bring as many individuals into their fold as possible. Perhaps they consider themselves to be a godlike figure, or perhaps they are acting as the emissary for an ancient (perhaps even forgotten) god of some kind. They could even see themselves as agents of change to bring an ancient prophecy into effect. Summoning is another common type of this sort of quest. The villain must enact some ritual in order to bring about the return of an ancient, powerful force. Or, perhaps they are opening a gate to another dimension or hellish plane. Either way, there is a definite element of madness and mayhem to this thread. Monster Types: Dragon, fey, fiend, giant, humanoid, undead.",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "9pj00fs8jd9dtc9p",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 2,
+      "rangeH": 2
+    },
+    {
+      "type": 0,
+      "text": "Change Their Own Nature: A common motivation for villains is to change their own state to one of godhood, immortality or perhaps even undeath. The creature either needs to perform a ritual, gain an item, or prolong their life / elevate their divine status indefinitely by some other means. Doing so would make them undefeatable, which is not a good state of affairs! Discern what it is they have to do / who they have to kill / what they have to obtain in order to make this happen, and then use keywords to fill in the blanks. Monster Types: Aberration, celestial, dragon, fey, fiend, giant, humanoid, undead.",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "0338ci8gfyds591l",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 3,
+      "rangeH": 3
+    },
+    {
+      "type": 0,
+      "text": "Acquire / Keep Things or Resources: This is perhaps a precursor to something more serious. It’s also the only kind of plot that a beast will become a villain within (i.e., a bear marauding livestock or something similar). It involves an attempt to gain control over an item or resource. Examples could range from a warlord taking a forest to provide timber for siege weapons. It could also include a sorceress stealing an ancient relic that grants her great power. Resource control could also mean stealing treasure of some sort, conducting a heist or stealing a relic. It could also mean that the creature has already obtained the resource / thing, and is now trying to keep it, wielding the control that it bestows. Monster Types: Beast, dragon, fey, giant, humanoid.",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "t8q3dph0jaff0oem",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 4,
+      "rangeH": 4
+    },
+    {
+      "type": 0,
+      "text": "Creation / Proliferation: Perhaps the villain is involved in the creation of a terrible device or war that will wreak utter devastation on the populace. Or perhaps they are seeking to spread a disease that will wipe out the populace or create a spell so powerful that it cannot be allowed to exist. They may even be trying to do something as ambitious as creating an entire world or dimension of their own where they can imprison people. Monster Types: Dragon, fey, fiend, giant, humanoid, undead.",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "yjdaqbtoclu66h5o",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 5,
+      "rangeH": 5
+    },
+    {
+      "type": 0,
+      "text": "Insane Obsession: Sometimes villains are not always born that way, but through latching onto a particular idea or becoming obsessed with a particular notion, perpetrate evil acts through their obsession. E.g., Someone loses the love of their life, and then becomes obsessed with the idea of bringing them back from death at all costs. This can also include the very common motivation of revenge. A slight (real or imagined) or truly heinous offense or crime committed against someone (or someone dear to that person) can consume them to the point where their only thought is the destruction of the offender. Monster Types: Dragon, fey, fiend, giant, humanoid, undead.",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "7zsd37ww6sdynddj",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 6,
+      "rangeH": 6
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.HdBsvgd3LLjMoB1i"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

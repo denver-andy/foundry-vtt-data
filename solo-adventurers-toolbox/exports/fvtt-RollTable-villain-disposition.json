@@ -1,0 +1,232 @@
+{
+  "name": "Villain - Disposition",
+  "img": "modules/game-icons-net/whitetransparent/evil-tower.svg",
+  "description": "To get an idea for what sort of disposition / nature the villain possesses, roll once or twice on this table.",
+  "results": [
+    {
+      "type": 0,
+      "text": "Disregard: This villain is so far removed from normal society that the general populous is nothing to them - irrelevant, really. Perhaps their true motivation lies elsewhere, on another plane, and humanoid subjects are mere pawns in their game. There’s almost a kind of psychopathic apathy towards life going on here. Maybe they’re not even actively evil, it’s just that they feel no remorse.",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "1cnfd0eoaw0h3u6z",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 1
+    },
+    {
+      "type": 0,
+      "text": "Insane: This type of villain just wants to bring about mayhem. Their only desire is to set heinous events in motion and then watch the world burn.",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "b9nk0bc4tsi9k4rm",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 2,
+      "rangeH": 2
+    },
+    {
+      "type": 0,
+      "text": "Cocky / Arrogant: This villain is so full of themself that they believe nothing will stand in their way. They have a great sense of self importance and may have come from a wealthy background, or perhaps the opposite and feel they have to make up for this.",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5038a2v0t9bm21zw",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 3,
+      "rangeH": 3
+    },
+    {
+      "type": 0,
+      "text": "Envious / Covetous: This state of mind leads the villain to covet a particular thing, person, kingdom or state of being. They resent those who currently possess it and are bent on taking it from them, possibly destroying those people in the process.",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "z392sbpxoze8omls",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 4,
+      "rangeH": 4
+    },
+    {
+      "type": 0,
+      "text": "Mischievous / Trickster: This villain delights in causing misery and confusion to others, taking great delight in suffering and the proliferation of their own plans. Think the Joker from Batman or Loki from Norse mythology (Loki is a great example as he’s not always a villain).",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "tgb75b788s55qgl0",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 5,
+      "rangeH": 5
+    },
+    {
+      "type": 0,
+      "text": "Dark / Somber / Sorrowful: This villain almost sees their own dark path as inevitable, and treads it no matter the consequences, even to their own safety. There is a kind of gothic fatality to this mindset, a somber resignation to the pre-ordained.",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "8osonhpqmkx9eepe",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 6,
+      "rangeH": 6
+    },
+    {
+      "type": 0,
+      "text": "Dangerously Obsessed / Frustrated: This person has lost most of their reason and has become obsessed with obtaining a thing, state, or person. They have developed tunnel vision and will not let anything stand in the way of their goal.",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ql7njb7h81kozcen",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 7,
+      "rangeH": 7
+    },
+    {
+      "type": 0,
+      "text": "Outwardly Friendly / Deceptive / Con Artist: This villain presents a magnanimous, accommodating, agreeable personality to the world, but their true nature is concealed. Perhaps they even keep their wrongdoings secret from the world as well, until they are exposed. Trickery and deceit are an integral part of their modus operandi.",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "zcdd1yypmgd9z05d",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 8,
+      "rangeH": 8
+    },
+    {
+      "type": 0,
+      "text": "Disgusted / Hateful / Contemptuous: The majority of society disgusts this particular villain, who views everyone as beneath them, not worthy of their respect. They view the world contemptuously and are bent on doing everything they can to bring about its destruction.",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5uxx97vo5w4xb6jd",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 9,
+      "rangeH": 9
+    },
+    {
+      "type": 0,
+      "text": "Determined / Ambitious: This personality is the province of tyrannical lords and nobles, tinpot rulers who seek to enlarge their dominion and their rule. They might achieve this by invading other lands, controlling resources or systematically destroying their enemies.",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "wp7aziqulmn63cxy",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 10,
+      "rangeH": 10
+    },
+    {
+      "type": 0,
+      "text": "Psychopathic / Evil: For whatever reason, this person is just out-and-out mad, bad, and dangerous to know. They care nothing for anyone, possibly even themselves, and just live to inflict pain. They are sadists and vindictive tyrants. Think Sauron from Lord of the Rings.",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "zsv7wvyhe88rptyz",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 11,
+      "rangeH": 11
+    },
+    {
+      "type": 0,
+      "text": "Matter-of-Fact: This type of villain presents as calm and composed, but will not hesitate to be ruthless. They never allow themselves to get ruffled and may even be quite polite to enemies. In fact, you could almost like them… if it wasn’t for the heinous acts that they perpetrate.",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "suarx7fkrtvzwn6r",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 12,
+      "rangeH": 12
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.F3ixMiRvy8wGGw7J"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}
