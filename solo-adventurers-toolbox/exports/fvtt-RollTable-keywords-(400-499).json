@@ -1,0 +1,1728 @@
+{
+  "name": "Keywords (400-499)",
+  "img": "modules/game-icons-net/whitetransparent/rule-book.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 0,
+      "text": "Ruined",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "0o5bddn3ug6oxvwj",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 1,
+      "rangeH": 1
+    },
+    {
+      "type": 0,
+      "text": "Boon",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "0ejy9mbpsmye1kpd",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 2,
+      "rangeH": 2
+    },
+    {
+      "type": 0,
+      "text": "Escape",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "fwaefbbq5geo8xej",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 3,
+      "rangeH": 3
+    },
+    {
+      "type": 0,
+      "text": "Fugitive",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "e1hj17ipcup1t1v8",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 4,
+      "rangeH": 4
+    },
+    {
+      "type": 0,
+      "text": "Unsafe",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "9etfhtlgsn9mst2k",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 5,
+      "rangeH": 5
+    },
+    {
+      "type": 0,
+      "text": "Treacherous",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "q0rtdl17q1khujah",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 6,
+      "rangeH": 6
+    },
+    {
+      "type": 0,
+      "text": "Clue",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "brs8z2bobhqlupu1",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 7,
+      "rangeH": 7
+    },
+    {
+      "type": 0,
+      "text": "Familiar",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "umbjc3ugyegigpcx",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 8,
+      "rangeH": 8
+    },
+    {
+      "type": 0,
+      "text": "Rotten",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4bonhhzedx7xdt70",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 9,
+      "rangeH": 9
+    },
+    {
+      "type": 0,
+      "text": "Slave",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "1luxropvrim1b19c",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 10,
+      "rangeH": 10
+    },
+    {
+      "type": 0,
+      "text": "Captive",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "41n8pv4nlbwf1mo7",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 11,
+      "rangeH": 11
+    },
+    {
+      "type": 0,
+      "text": "Savior",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "3s827gs62uqjvbi0",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 12,
+      "rangeH": 12
+    },
+    {
+      "type": 0,
+      "text": "Food",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "vkp7fualfqe0gzw4",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 13,
+      "rangeH": 13
+    },
+    {
+      "type": 0,
+      "text": "Uncharacteristic",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "tzyqghexmphj9vuy",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 14,
+      "rangeH": 14
+    },
+    {
+      "type": 0,
+      "text": "Rancid",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "jmg3lowgewg2q86e",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 15,
+      "rangeH": 15
+    },
+    {
+      "type": 0,
+      "text": "Fetid",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "fawb94gbgrcm6xzm",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 16,
+      "rangeH": 16
+    },
+    {
+      "type": 0,
+      "text": "Malodorous",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "xjiq3a1ui1pis10r",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 17,
+      "rangeH": 17
+    },
+    {
+      "type": 0,
+      "text": "Noxious",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5glnn01hrjex05bt",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 18,
+      "rangeH": 18
+    },
+    {
+      "type": 0,
+      "text": "Investigate",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ttmcczpyd29sc0p6",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 19,
+      "rangeH": 19
+    },
+    {
+      "type": 0,
+      "text": "Entertain",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "66j9j11hcixpksst",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 20,
+      "rangeH": 20
+    },
+    {
+      "type": 0,
+      "text": "Silence",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "nlxqf7floig3v1l1",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 21,
+      "rangeH": 21
+    },
+    {
+      "type": 0,
+      "text": "Sneak",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "j2fi7yx46q8p3062",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 22,
+      "rangeH": 22
+    },
+    {
+      "type": 0,
+      "text": "Trapped",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ulp020r74s49quqa",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 23,
+      "rangeH": 23
+    },
+    {
+      "type": 0,
+      "text": "Knowledge",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "rmpvet93p1ivmslg",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 24,
+      "rangeH": 24
+    },
+    {
+      "type": 0,
+      "text": "Accomplice",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "nnogu17fs0r7pz8f",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 25,
+      "rangeH": 25
+    },
+    {
+      "type": 0,
+      "text": "Henchman",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "bx7cc5eajcefrum9",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 26,
+      "rangeH": 26
+    },
+    {
+      "type": 0,
+      "text": "Illusion",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "1u1wzg1dpmgs6g96",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 27,
+      "rangeH": 27
+    },
+    {
+      "type": 0,
+      "text": "Item",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "f4h2er63fgo83qwd",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 28,
+      "rangeH": 28
+    },
+    {
+      "type": 0,
+      "text": "Controller",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "e5aqaqgr6xprxcto",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 29,
+      "rangeH": 29
+    },
+    {
+      "type": 0,
+      "text": "Toss",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "rtp7alqf96ho0a64",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 30,
+      "rangeH": 30
+    },
+    {
+      "type": 0,
+      "text": "Disciple",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ir7m0uf649a6tucb",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 31,
+      "rangeH": 31
+    },
+    {
+      "type": 0,
+      "text": "Secure",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "szyulluyuobgjtyq",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 32,
+      "rangeH": 32
+    },
+    {
+      "type": 0,
+      "text": "NPC",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ivpee5je9wm6j79d",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 33,
+      "rangeH": 33
+    },
+    {
+      "type": 0,
+      "text": "Rescue",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "xl34t8o5c0bf6qjw",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 34,
+      "rangeH": 34
+    },
+    {
+      "type": 0,
+      "text": "Diversion",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "zz45033yz6r8tt1v",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 35,
+      "rangeH": 35
+    },
+    {
+      "type": 0,
+      "text": "Explosion",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "2r43n463ign9k7nt",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 36,
+      "rangeH": 36
+    },
+    {
+      "type": 0,
+      "text": "Turgid",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "utvonh6ltq9nmzbp",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 37,
+      "rangeH": 37
+    },
+    {
+      "type": 0,
+      "text": "Blustering",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ynvo56ma0edeujrx",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 38,
+      "rangeH": 38
+    },
+    {
+      "type": 0,
+      "text": "Hidden",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6mb3a2tzewvmjh44",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 39,
+      "rangeH": 39
+    },
+    {
+      "type": 0,
+      "text": "Adventurers",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "g1pfnbnwkqeeetdw",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 40,
+      "rangeH": 40
+    },
+    {
+      "type": 0,
+      "text": "Luminescent",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "uar7cvlj3qngo0jm",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 41,
+      "rangeH": 41
+    },
+    {
+      "type": 0,
+      "text": "Rusty",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "p029gkayl8ay0ggv",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 42,
+      "rangeH": 42
+    },
+    {
+      "type": 0,
+      "text": "Vibration",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "mxp8q7szwffdadfg",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 43,
+      "rangeH": 43
+    },
+    {
+      "type": 0,
+      "text": "Clank",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "mmmt8v5sxuiil57l",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 44,
+      "rangeH": 44
+    },
+    {
+      "type": 0,
+      "text": "Gears",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6be7e8lnzni4w617",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 45,
+      "rangeH": 45
+    },
+    {
+      "type": 0,
+      "text": "Animal droppings",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "wfnikna3fgqv43tb",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 46,
+      "rangeH": 46
+    },
+    {
+      "type": 0,
+      "text": "Itch",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "z6yximzwtfjbhwha",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 47,
+      "rangeH": 47
+    },
+    {
+      "type": 0,
+      "text": "Smell",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "skishtxm9b19ydae",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 48,
+      "rangeH": 48
+    },
+    {
+      "type": 0,
+      "text": "Diary",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "yaje76aqf5zaygzu",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 49,
+      "rangeH": 49
+    },
+    {
+      "type": 0,
+      "text": "Dripping",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "3wba459wbdnnhh6b",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 50,
+      "rangeH": 50
+    },
+    {
+      "type": 0,
+      "text": "Escape",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "yntzunrr6kpmur6u",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 51,
+      "rangeH": 51
+    },
+    {
+      "type": 0,
+      "text": "Hairpin",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "k4ow9v4o4itrycpd",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 52,
+      "rangeH": 52
+    },
+    {
+      "type": 0,
+      "text": "Slippery",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "c8uvf8am8jwdqip8",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 53,
+      "rangeH": 53
+    },
+    {
+      "type": 0,
+      "text": "Severed hand",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "pha0pq1z5odvo0kf",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 54,
+      "rangeH": 54
+    },
+    {
+      "type": 0,
+      "text": "Misty",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "lj1yogkllcxl4uy0",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 55,
+      "rangeH": 55
+    },
+    {
+      "type": 0,
+      "text": "Floating",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "2yb0o1uk2eyphcxl",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 56,
+      "rangeH": 56
+    },
+    {
+      "type": 0,
+      "text": "Laugh",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ysu5z5l06b8ureyn",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 57,
+      "rangeH": 57
+    },
+    {
+      "type": 0,
+      "text": "Blood",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "9069qnjr54fvguwz",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 58,
+      "rangeH": 58
+    },
+    {
+      "type": 0,
+      "text": "Cloying",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "3485r3eoymmgpobu",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 59,
+      "rangeH": 59
+    },
+    {
+      "type": 0,
+      "text": "Enshrine",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "pu7nvx9g2csh56c3",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 60,
+      "rangeH": 60
+    },
+    {
+      "type": 0,
+      "text": "Smoke",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ik06i3bfgvj7c6mz",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 61,
+      "rangeH": 61
+    },
+    {
+      "type": 0,
+      "text": "Gaping",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ky5h38tzxaub1ck5",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 62,
+      "rangeH": 62
+    },
+    {
+      "type": 0,
+      "text": "Calm",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "whc5l01x20yvi0rj",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 63,
+      "rangeH": 63
+    },
+    {
+      "type": 0,
+      "text": "Subliminal",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "m6w6gpkombtg7fb6",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 64,
+      "rangeH": 64
+    },
+    {
+      "type": 0,
+      "text": "Hollow",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "s1f0ixsw2kd5wki3",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 65,
+      "rangeH": 65
+    },
+    {
+      "type": 0,
+      "text": "Whoosh",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "dwngt6wc734y96s6",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 66,
+      "rangeH": 66
+    },
+    {
+      "type": 0,
+      "text": "Arid",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "h8ebarqdq39ndbws",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 67,
+      "rangeH": 67
+    },
+    {
+      "type": 0,
+      "text": "Premonition",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ojxvkjuzhejemwx2",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 68,
+      "rangeH": 68
+    },
+    {
+      "type": 0,
+      "text": "Demon",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "rqg5u5cfo1qwk9qv",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 69,
+      "rangeH": 69
+    },
+    {
+      "type": 0,
+      "text": "Force",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "oo7atlbbyf135nar",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 70,
+      "rangeH": 70
+    },
+    {
+      "type": 0,
+      "text": "Statue",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "c0wlsdtwg8twn3c0",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 71,
+      "rangeH": 71
+    },
+    {
+      "type": 0,
+      "text": "Refuse pit",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "0rdlka32cr2pjx1t",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 72,
+      "rangeH": 72
+    },
+    {
+      "type": 0,
+      "text": "Invite",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "nqydw3a7udcaqois",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 73,
+      "rangeH": 73
+    },
+    {
+      "type": 0,
+      "text": "Obsidian",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "r3i86aa1lrqk7aji",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 74,
+      "rangeH": 74
+    },
+    {
+      "type": 0,
+      "text": "Tunnel",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "rnn0hyc0ius7rsbu",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 75,
+      "rangeH": 75
+    },
+    {
+      "type": 0,
+      "text": "Sundered",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "zhxweytfvkqn606r",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 76,
+      "rangeH": 76
+    },
+    {
+      "type": 0,
+      "text": "Fluttering",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "qdc1nagdee8r2nsn",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 77,
+      "rangeH": 77
+    },
+    {
+      "type": 0,
+      "text": "Slide",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "9rlslm3ckctff06g",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 78,
+      "rangeH": 78
+    },
+    {
+      "type": 0,
+      "text": "Silence",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "bb1kojh05fff4h3q",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 79,
+      "rangeH": 79
+    },
+    {
+      "type": 0,
+      "text": "Enlarge",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "z7xu4v0toej0rtrp",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 80,
+      "rangeH": 80
+    },
+    {
+      "type": 0,
+      "text": "Boisterous",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "31gnaark97y7n7qt",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 81,
+      "rangeH": 81
+    },
+    {
+      "type": 0,
+      "text": "Overexcited",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "v4ofiymd7wm97qgf",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 82,
+      "rangeH": 82
+    },
+    {
+      "type": 0,
+      "text": "Erratic",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "pkbwaznelvrg8p0d",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 83,
+      "rangeH": 83
+    },
+    {
+      "type": 0,
+      "text": "Decrepit",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "bm2dtc7wqmc0hecn",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 84,
+      "rangeH": 84
+    },
+    {
+      "type": 0,
+      "text": "Delusional",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "m9s0g21qb0c3yg5f",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 85,
+      "rangeH": 85
+    },
+    {
+      "type": 0,
+      "text": "Title",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ucoqh8ajjopsmzzn",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 86,
+      "rangeH": 86
+    },
+    {
+      "type": 0,
+      "text": "Decayed",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "qyhoq0ir0oklp8ej",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 87,
+      "rangeH": 87
+    },
+    {
+      "type": 0,
+      "text": "Representative",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "fhi56fpixqe5p4r4",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 88,
+      "rangeH": 88
+    },
+    {
+      "type": 0,
+      "text": "Suggestion",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4arpg36sk7j6r316",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 89,
+      "rangeH": 89
+    },
+    {
+      "type": 0,
+      "text": "Unthinking",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "p236j3md0hvt2onv",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 90,
+      "rangeH": 90
+    },
+    {
+      "type": 0,
+      "text": "Spoiled",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "i3k1d0xzighyavxk",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 91,
+      "rangeH": 91
+    },
+    {
+      "type": 0,
+      "text": "Obstinate",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "0mnumawvid4j0dov",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 92,
+      "rangeH": 92
+    },
+    {
+      "type": 0,
+      "text": "Rambling",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "qiqzmuf3b9qtpfwl",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 93,
+      "rangeH": 93
+    },
+    {
+      "type": 0,
+      "text": "Raid",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "zdptto2z2pi69sx6",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 94,
+      "rangeH": 94
+    },
+    {
+      "type": 0,
+      "text": "Rainbow",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "7rmteqfx9wqryvo0",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 95,
+      "rangeH": 95
+    },
+    {
+      "type": 0,
+      "text": "Effigy",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "pajfeo0hqlc91lme",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 96,
+      "rangeH": 96
+    },
+    {
+      "type": 0,
+      "text": "Scuttling",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "b86zrp4qsibb83nc",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 97,
+      "rangeH": 97
+    },
+    {
+      "type": 0,
+      "text": "Woven",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "9nzjx0gzpwuvgkm6",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 98,
+      "rangeH": 98
+    },
+    {
+      "type": 0,
+      "text": "Ensnare",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "spjs17c3oyfdz0zs",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 99,
+      "rangeH": 99
+    },
+    {
+      "type": 0,
+      "text": "Dispute",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6xsn994nre4kwmlh",
+      "flags": {},
+      "collection": null,
+      "resultId": null,
+      "rangeL": 100,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "none",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.WOfViusOY9dwAfZi"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

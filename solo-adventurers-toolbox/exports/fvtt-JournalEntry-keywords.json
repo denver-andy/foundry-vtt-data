@@ -1,0 +1,20 @@
+{
+  "name": "Keywords",
+  "content": "<blockquote>\n<p>The Solo Adventurer’s Guide Part 2</p>\n</blockquote>\n<p> </p>\n<h2>Keywords</h2>\n<p><span style=\"font-family:var(--font-primary);font-size:var(--font-size-14)\">Roll a 1d8 and a 1d100. The way the die roll is set up below means that you can quickly read the rolls.</span></p>\n<p><span style=\"font-family:var(--font-primary);font-size:var(--font-size-14)\">For example, rolling 3 on a d8 and a 42 on a d100 = 342. The only time that you don’t read the number on the d8 as the hundreds is when it hits 8. That means it's in the 0-100 range. Note: Some of these words do recur, as they have wide application in creating encounters.</span></p>\n<p> </p>\n<div>\n<table style=\"width:58.8235%;height:280px\" title border=\"1\">\n<tbody>\n<tr style=\"height:31px\">\n<td style=\"width:19.2883%;text-align:center;height:31px\">\n<p><strong>D8</strong></p>\n</td>\n<td style=\"width:81.0108%;text-align:left;height:31px\">\n<p><strong>D100 Keyword Table</strong></p>\n</td>\n</tr>\n<tr style=\"height:31px\">\n<td style=\"width:19.2883%;height:31px\">\n<p style=\"text-align:center\">1</p>\n</td>\n<td style=\"width:81.0108%;text-align:left;height:31px\">\n<p>@RollTable[TA5LWfnU4wYjXfZT]{Keywords (100-199)}</p>\n</td>\n</tr>\n<tr style=\"text-align:center;height:31px\">\n<td style=\"width:19.2883%;height:31px\">\n<p>2</p>\n</td>\n<td style=\"width:81.0108%;text-align:left;height:31px\">\n<p>@RollTable[tWgRaXszoyOggJ1r]{Keywords (200-299)}</p>\n</td>\n</tr>\n<tr style=\"text-align:center;height:31px\">\n<td style=\"width:19.2883%;height:31px\">\n<p>3</p>\n</td>\n<td style=\"width:81.0108%;text-align:left;height:31px\">\n<p>@RollTable[iKtQz1DGaw6ELt17]{Keywords (300-399)}</p>\n</td>\n</tr>\n<tr style=\"text-align:center;height:31px\">\n<td style=\"width:19.2883%;height:31px\">\n<p>4</p>\n</td>\n<td style=\"width:81.0108%;text-align:left;height:31px\">\n<p>@RollTable[WOfViusOY9dwAfZi]{Keywords (400-499)}</p>\n</td>\n</tr>\n<tr style=\"text-align:center;height:31px\">\n<td style=\"width:19.2883%;height:31px\">\n<p>5</p>\n</td>\n<td style=\"width:81.0108%;text-align:left;height:31px\">\n<p>@RollTable[znWQpEPYStRRf5Iy]{Keywords (500-599)}</p>\n</td>\n</tr>\n<tr style=\"text-align:center;height:31px\">\n<td style=\"width:19.2883%;height:31px\">\n<p>6</p>\n</td>\n<td style=\"width:81.0108%;text-align:left;height:31px\">\n<p>@RollTable[1ca3S18kljSr78Rt]{Keywords (600-699)}</p>\n</td>\n</tr>\n<tr style=\"text-align:center;height:32px\">\n<td style=\"width:19.2883%;height:32px\">\n<p>7</p>\n</td>\n<td style=\"width:81.0108%;text-align:left;height:32px\">\n<p>@RollTable[0tpxqWSClHchdC3t]{Keywords (700-799)}</p>\n</td>\n</tr>\n<tr style=\"height:31px\">\n<td style=\"width:19.2883%;text-align:center;height:31px\">\n<p>8</p>\n</td>\n<td style=\"width:81.0108%;text-align:left;height:31px\">\n<p>@RollTable[TLefzMrndNEj0m7A]{Keywords (0-99)}</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p> </p>\n<p> </p>",
+  "img": "",
+  "flags": {
+    "monks-enhanced-journal": {
+      "type": "base",
+      "scrollPos": "{\".description\":0}"
+    },
+    "scene-packer": {
+      "sourceId": "JournalEntry.dD9dsxGbbgOycDwQ"
+    },
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.245",
+      "systemVersion": "1.5.7"
+    }
+  }
+}
