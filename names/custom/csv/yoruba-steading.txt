@@ -1,25 +1,25 @@
-Asala Ilu (Desert Town)
-Atijo Ina (Old Fire)
-Bajesia (Broken Banner)
-Dudu Olomi (Blackmarsh)
-Ebutte Meta (Three Ports)
-Ejodo (Snake River)
-Esukale (Devil’s Dinner)
-Fadormi (Silver Spring)
-Funfumi (Whitewater)
-Gooluna (Gold Road)
-Ijisofo (Storm Hollow)
-Ikukenu (Dearth’s Door)
-Iwin Ago (Faery Watch)
-Jinibi (Far Place)
-Oba Ile (King’s Home)
-Oduroke (Prayer Hill)
-Ogbinibi (Farming Place)
-Ogunibi (Battle Place)
-Okanigi (One Tree)
-Okutasibo (Stone Marker)
-Olorusura (God’s Treasure)
-Olusajeki (Wizard’s Keep)
-Oluwakaji (Lord’s Tomb)
-Opolokuta (Many Stones)
+Asala Ilu (Desert Town)|
+Atijo Ina (Old Fire)|
+Bajesia (Broken Banner)|
+Dudu Olomi (Blackmarsh)|
+Ebutte Meta (Three Ports)|
+Ejodo (Snake River)|
+Esukale (Devil’s Dinner)|
+Fadormi (Silver Spring)|
+Funfumi (Whitewater)|
+Gooluna (Gold Road)|
+Ijisofo (Storm Hollow)|
+Ikukenu (Dearth’s Door)|
+Iwin Ago (Faery Watch)|
+Jinibi (Far Place)|
+Oba Ile (King’s Home)|
+Oduroke (Prayer Hill)|
+Ogbinibi (Farming Place)|
+Ogunibi (Battle Place)|
+Okanigi (One Tree)|
+Okutasibo (Stone Marker)|
+Olorusura (God’s Treasure)|
+Olusajeki (Wizard’s Keep)|
+Oluwakaji (Lord’s Tomb)|
+Opolokuta (Many Stones)|
 Opoligi (Many Trees)

@@ -1,100 +1,100 @@
-Ancient Hammer
-Batrider
-Beast Mother
-Big Belly
-Biletooth
-Black Bolts
-Black Horns
-Black Tooth Grin
-Blackclaw
-Blackrock
-Bladewind
-Bleeding Hollow
-Bloody Skulls
-Bloody Standard
-Bloody Swarm
-Bone Miners
-Bonechewer
-Bonechoppers
-Broken Axe
-Broken Bone
-Burned Ones
-Burning Blade
-Burning Daggers
-Chosen Wolf
-Crimson Crush
-Crooked Spike
-Cutters
-Dark Pool
-Dark Scar
-Dragonmaw
-Dwarfbanes
-First Nation
-Flaming Spike
-Flatbacks
-Flowerpicker
-Frostwolf
-Goldmeet
-Greenhaven
-Grimm
-Hallowed Dragon
-Hanged Men
-Heartchewers
-Hellhounds
-Hillsguard
-Howltusk
-Iron Ones
-Killsorrow
-Laughing Skull
-Lightning Blade
-Longpoles
-Longrunners
-Longspear
-Manticores
-Many Teeth
-Many-Arrows
-Marauders
-Merciless
-No-Nose
-One Ears
-Primal Force
-Rageroar
-Red Fangs
-Red Slash
-Redwalker
-Rifters
-Ripped Gut
-Saearing Blade
-Scarred Faces
-Severed Tongue
-Shadowmoon
-Shattered Hand
-Shattered Stone
-Sightstealer
-Silencers
-Silvered Fox
-Silverglory
-Skillhackers
-Snarrl
-Spearcrusher
-Specters
-Spinebreakers
-Stormreaver
-Swift Sword
-Sword and Fist
-The Ancients
-The Hidden
-Thousand Fists
-Torn Spine
-Tornskulls
-Twisted Elves
-Twisted Nail
-Twisting Spears
-Warlock
-Warpaws
-White Hand
-Whiteclaw
-Wolf Jaw
-Wolf Stalker
-Yellow Fang
+Ancient Hammer|
+Batrider|
+Beast Mother|
+Big Belly|
+Biletooth|
+Black Bolts|
+Black Horns|
+Black Tooth Grin|
+Blackclaw|
+Blackrock|
+Bladewind|
+Bleeding Hollow|
+Bloody Skulls|
+Bloody Standard|
+Bloody Swarm|
+Bone Miners|
+Bonechewer|
+Bonechoppers|
+Broken Axe|
+Broken Bone|
+Burned Ones|
+Burning Blade|
+Burning Daggers|
+Chosen Wolf|
+Crimson Crush|
+Crooked Spike|
+Cutters|
+Dark Pool|
+Dark Scar|
+Dragonmaw|
+Dwarfbanes|
+First Nation|
+Flaming Spike|
+Flatbacks|
+Flowerpicker|
+Frostwolf|
+Goldmeet|
+Greenhaven|
+Grimm|
+Hallowed Dragon|
+Hanged Men|
+Heartchewers|
+Hellhounds|
+Hillsguard|
+Howltusk|
+Iron Ones|
+Killsorrow|
+Laughing Skull|
+Lightning Blade|
+Longpoles|
+Longrunners|
+Longspear|
+Manticores|
+Many Teeth|
+Many-Arrows|
+Marauders|
+Merciless|
+No-Nose|
+One Ears|
+Primal Force|
+Rageroar|
+Red Fangs|
+Red Slash|
+Redwalker|
+Rifters|
+Ripped Gut|
+Saearing Blade|
+Scarred Faces|
+Severed Tongue|
+Shadowmoon|
+Shattered Hand|
+Shattered Stone|
+Sightstealer|
+Silencers|
+Silvered Fox|
+Silverglory|
+Skillhackers|
+Snarrl|
+Spearcrusher|
+Specters|
+Spinebreakers|
+Stormreaver|
+Swift Sword|
+Sword and Fist|
+The Ancients|
+The Hidden|
+Thousand Fists|
+Torn Spine|
+Tornskulls|
+Twisted Elves|
+Twisted Nail|
+Twisting Spears|
+Warlock|
+Warpaws|
+White Hand|
+Whiteclaw|
+Wolf Jaw|
+Wolf Stalker|
+Yellow Fang|
 Yellowtusk
