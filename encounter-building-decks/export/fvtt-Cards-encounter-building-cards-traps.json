@@ -1,0 +1,1607 @@
+{
+  "name": "Encounter Building Cards - Traps",
+  "type": "deck",
+  "description": "",
+  "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+  "data": {},
+  "cards": [
+    {
+      "_id": "9aabM8vMSpjXWEgk",
+      "name": "CroppedCard01",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard01.png",
+          "name": "CroppedCard01",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 21,
+      "flags": {}
+    },
+    {
+      "_id": "A61AqeDtrHrKywqi",
+      "name": "CroppedCard02",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard02.png",
+          "name": "CroppedCard02",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 26,
+      "flags": {}
+    },
+    {
+      "_id": "TnjRcbASRi5C8TZI",
+      "name": "CroppedCard03",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard03.png",
+          "name": "CroppedCard03",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 37,
+      "flags": {}
+    },
+    {
+      "_id": "0NoPuZ1G6vQ6AleB",
+      "name": "CroppedCard04",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard04.png",
+          "name": "CroppedCard04",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 30,
+      "flags": {}
+    },
+    {
+      "_id": "vjkzAGYsVO6nEQGo",
+      "name": "CroppedCard05",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard05.png",
+          "name": "CroppedCard05",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 41,
+      "flags": {}
+    },
+    {
+      "_id": "L5fTHb3PaIr34Fe6",
+      "name": "CroppedCard06",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard06.png",
+          "name": "CroppedCard06",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 5,
+      "flags": {}
+    },
+    {
+      "_id": "EuyeHh1gMmaUItTM",
+      "name": "CroppedCard07",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard07.png",
+          "name": "CroppedCard07",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 44,
+      "flags": {}
+    },
+    {
+      "_id": "JBveK3rPcQe1gjU2",
+      "name": "CroppedCard08",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard08.png",
+          "name": "CroppedCard08",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 8,
+      "flags": {}
+    },
+    {
+      "_id": "hMpJPiyENCwo6Osf",
+      "name": "CroppedCard09",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard09.png",
+          "name": "CroppedCard09",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 46,
+      "flags": {}
+    },
+    {
+      "_id": "VF3Keh1wQ2JMGU5M",
+      "name": "CroppedCard10",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard10.png",
+          "name": "CroppedCard10",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 58,
+      "flags": {}
+    },
+    {
+      "_id": "WQNuUMkMuvDkRj0Y",
+      "name": "CroppedCard11",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard11.png",
+          "name": "CroppedCard11",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 10,
+      "flags": {}
+    },
+    {
+      "_id": "UoRz4cDVA046WpPV",
+      "name": "CroppedCard12",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard12.png",
+          "name": "CroppedCard12",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 4,
+      "flags": {}
+    },
+    {
+      "_id": "W5aPDLRBFgnFIv4w",
+      "name": "CroppedCard13",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard13.png",
+          "name": "CroppedCard13",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 9,
+      "flags": {}
+    },
+    {
+      "_id": "J95H0nScxgKUu4S2",
+      "name": "CroppedCard14",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard14.png",
+          "name": "CroppedCard14",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 14,
+      "flags": {}
+    },
+    {
+      "_id": "0ItbikYeWalfCJB3",
+      "name": "CroppedCard15",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard15.png",
+          "name": "CroppedCard15",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 57,
+      "flags": {}
+    },
+    {
+      "_id": "kQjMWNe26xDlSSpc",
+      "name": "CroppedCard16",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard16.png",
+          "name": "CroppedCard16",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 52,
+      "flags": {}
+    },
+    {
+      "_id": "0Zv75H1JZ87tP3yV",
+      "name": "CroppedCard17",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard17.png",
+          "name": "CroppedCard17",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 48,
+      "flags": {}
+    },
+    {
+      "_id": "AE37Phv7ifxZhZac",
+      "name": "CroppedCard18",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard18.png",
+          "name": "CroppedCard18",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "_id": "SezDYsPmXfBz6Ehc",
+      "name": "CroppedCard19",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard19.png",
+          "name": "CroppedCard19",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 36,
+      "flags": {}
+    },
+    {
+      "_id": "pUJMvH9jDjCirqVt",
+      "name": "CroppedCard20",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard20.png",
+          "name": "CroppedCard20",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 35,
+      "flags": {}
+    },
+    {
+      "_id": "Os67ABkbgfFxXjLw",
+      "name": "CroppedCard21",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard21.png",
+          "name": "CroppedCard21",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 55,
+      "flags": {}
+    },
+    {
+      "_id": "Ug3YAHiM94hUB6bU",
+      "name": "CroppedCard22",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard22.png",
+          "name": "CroppedCard22",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 49,
+      "flags": {}
+    },
+    {
+      "_id": "XsljB7YMndVEdUo7",
+      "name": "CroppedCard23",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard23.png",
+          "name": "CroppedCard23",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 33,
+      "flags": {}
+    },
+    {
+      "_id": "DS199kyjLVFe9Sfm",
+      "name": "CroppedCard24",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard24.png",
+          "name": "CroppedCard24",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 15,
+      "flags": {}
+    },
+    {
+      "_id": "7Xh1NUPTrV6UML5F",
+      "name": "CroppedCard25",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard25.png",
+          "name": "CroppedCard25",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 34,
+      "flags": {}
+    },
+    {
+      "_id": "xzzMPo22sJWr9uQG",
+      "name": "CroppedCard26",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard26.png",
+          "name": "CroppedCard26",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 42,
+      "flags": {}
+    },
+    {
+      "_id": "gDB88rF1Pmllz13B",
+      "name": "CroppedCard27",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard27.png",
+          "name": "CroppedCard27",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 38,
+      "flags": {}
+    },
+    {
+      "_id": "bh9P8knkw3gjh8au",
+      "name": "CroppedCard28",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard28.png",
+          "name": "CroppedCard28",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 11,
+      "flags": {}
+    },
+    {
+      "_id": "Hsd6HLDvk9FFY9hB",
+      "name": "CroppedCard29",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard29.png",
+          "name": "CroppedCard29",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 17,
+      "flags": {}
+    },
+    {
+      "_id": "bJaQF3PMrWSkOxzi",
+      "name": "CroppedCard30",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard30.png",
+          "name": "CroppedCard30",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 28,
+      "flags": {}
+    },
+    {
+      "_id": "n841luGxtZvrk2HX",
+      "name": "CroppedCard31",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard31.png",
+          "name": "CroppedCard31",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 39,
+      "flags": {}
+    },
+    {
+      "_id": "nXMzFLeovQIrN8c8",
+      "name": "CroppedCard32",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard32.png",
+          "name": "CroppedCard32",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 40,
+      "flags": {}
+    },
+    {
+      "_id": "999jN3jLu4Jt6kWL",
+      "name": "CroppedCard33",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard33.png",
+          "name": "CroppedCard33",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 20,
+      "flags": {}
+    },
+    {
+      "_id": "ZfYTDQKBA0ig6wdm",
+      "name": "CroppedCard34",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard34.png",
+          "name": "CroppedCard34",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 50,
+      "flags": {}
+    },
+    {
+      "_id": "07UbitdWQifi8VlI",
+      "name": "CroppedCard35",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard35.png",
+          "name": "CroppedCard35",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 7,
+      "flags": {}
+    },
+    {
+      "_id": "yVNbRF0BaSJCL6CK",
+      "name": "CroppedCard36",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard36.png",
+          "name": "CroppedCard36",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 24,
+      "flags": {}
+    },
+    {
+      "_id": "BVM60IRIoxEram99",
+      "name": "CroppedCard37",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard37.png",
+          "name": "CroppedCard37",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 12,
+      "flags": {}
+    },
+    {
+      "_id": "ho5Zz9GqHsxy1JAd",
+      "name": "CroppedCard38",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard38.png",
+          "name": "CroppedCard38",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 13,
+      "flags": {}
+    },
+    {
+      "_id": "Tot3fxwWUhzm1qx5",
+      "name": "CroppedCard39",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard39.png",
+          "name": "CroppedCard39",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 47,
+      "flags": {}
+    },
+    {
+      "_id": "vOUdAv2UfqKfuOmg",
+      "name": "CroppedCard40",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard40.png",
+          "name": "CroppedCard40",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 1,
+      "flags": {}
+    },
+    {
+      "_id": "JqNqxHc7xuum5h2O",
+      "name": "CroppedCard41",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard41.png",
+          "name": "CroppedCard41",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 43,
+      "flags": {}
+    },
+    {
+      "_id": "54yuTPcoIC9VxNUq",
+      "name": "CroppedCard42",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard42.png",
+          "name": "CroppedCard42",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 19,
+      "flags": {}
+    },
+    {
+      "_id": "ZjNC4H2TSjNGNfXw",
+      "name": "CroppedCard43",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard43.png",
+          "name": "CroppedCard43",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 56,
+      "flags": {}
+    },
+    {
+      "_id": "U2I2oNVITHNG8y3j",
+      "name": "CroppedCard44",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard44.png",
+          "name": "CroppedCard44",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 3,
+      "flags": {}
+    },
+    {
+      "_id": "FLSwHrjnPD31xCzo",
+      "name": "CroppedCard45",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard45.png",
+          "name": "CroppedCard45",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 2,
+      "flags": {}
+    },
+    {
+      "_id": "DSuRMdUU9Q3jf9IE",
+      "name": "CroppedCard46",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard46.png",
+          "name": "CroppedCard46",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 59,
+      "flags": {}
+    },
+    {
+      "_id": "K85JANMWNYhyZ30W",
+      "name": "CroppedCard47",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard47.png",
+          "name": "CroppedCard47",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 31,
+      "flags": {}
+    },
+    {
+      "_id": "z91wOBPo0zZc2XJA",
+      "name": "CroppedCard48",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard48.png",
+          "name": "CroppedCard48",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 6,
+      "flags": {}
+    },
+    {
+      "_id": "ucsDZZGuK3NM1usI",
+      "name": "CroppedCard49",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard49.png",
+          "name": "CroppedCard49",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 45,
+      "flags": {}
+    },
+    {
+      "_id": "PCUx0hrNif6UfVcb",
+      "name": "CroppedCard50",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard50.png",
+          "name": "CroppedCard50",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 18,
+      "flags": {}
+    },
+    {
+      "_id": "rxLps22K9YatYz57",
+      "name": "CroppedCard51",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard51.png",
+          "name": "CroppedCard51",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 29,
+      "flags": {}
+    },
+    {
+      "_id": "zFM8PwQDV7OjMPR0",
+      "name": "CroppedCard52",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard52.png",
+          "name": "CroppedCard52",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 53,
+      "flags": {}
+    },
+    {
+      "_id": "Fwd9PszpAH57HQ3y",
+      "name": "CroppedCard53",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard53.png",
+          "name": "CroppedCard53",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 51,
+      "flags": {}
+    },
+    {
+      "_id": "j1899SLBWWadBDRA",
+      "name": "CroppedCard54",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard54.png",
+          "name": "CroppedCard54",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 25,
+      "flags": {}
+    },
+    {
+      "_id": "5rgNi2oWhKyZIoiL",
+      "name": "CroppedCard55",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard55.png",
+          "name": "CroppedCard55",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 27,
+      "flags": {}
+    },
+    {
+      "_id": "NYwUuAvj2BUpPBlj",
+      "name": "CroppedCard56",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard56.png",
+          "name": "CroppedCard56",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 32,
+      "flags": {}
+    },
+    {
+      "_id": "AvQ7ghDTLUZ2jQMB",
+      "name": "CroppedCard57",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard57.png",
+          "name": "CroppedCard57",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 60,
+      "flags": {}
+    },
+    {
+      "_id": "R6bm8ubqnYt4ZD6h",
+      "name": "CroppedCard58",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard58.png",
+          "name": "CroppedCard58",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 54,
+      "flags": {}
+    },
+    {
+      "_id": "0V3y3K7RMvivCjUg",
+      "name": "CroppedCard59",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard59.png",
+          "name": "CroppedCard59",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 23,
+      "flags": {}
+    },
+    {
+      "_id": "6eajC1ofllEkYXNV",
+      "name": "CroppedCard60",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedCard60.png",
+          "name": "CroppedCard60",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 22,
+      "flags": {}
+    },
+    {
+      "_id": "4ZMbqiwRugGD52aN",
+      "name": "CroppedTrapCardBackTemplate",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+        "name": "Trap Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Traps/CroppedTrapCardBackTemplate.png",
+          "name": "CroppedTrapCardBackTemplate",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "rQBP7sfltRL50r5z",
+      "rotation": 0,
+      "sort": 16,
+      "flags": {}
+    }
+  ],
+  "width": 750,
+  "height": 1050,
+  "rotation": 0,
+  "displayCount": false,
+  "flags": {
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.255",
+      "systemVersion": "1.5.7"
+    }
+  }
+}

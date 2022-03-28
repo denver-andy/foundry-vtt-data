@@ -1,0 +1,1607 @@
+{
+  "name": "Encounter Building Cards - Decisions",
+  "type": "deck",
+  "description": "",
+  "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+  "data": {},
+  "cards": [
+    {
+      "_id": "W9V8Xj4wAuku57R9",
+      "name": "CroppedCard01",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard01.png",
+          "name": "CroppedCard01",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "_id": "MVj7oL6VtjtQrZIt",
+      "name": "CroppedCard02",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard02.png",
+          "name": "CroppedCard02",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 1,
+      "flags": {}
+    },
+    {
+      "_id": "rKkzjlDYQMVsFz4t",
+      "name": "CroppedCard03",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard03.png",
+          "name": "CroppedCard03",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 2,
+      "flags": {}
+    },
+    {
+      "_id": "4rookSyKCZLnACs7",
+      "name": "CroppedCard04",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard04.png",
+          "name": "CroppedCard04",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 3,
+      "flags": {}
+    },
+    {
+      "_id": "n8a2cZyq1JwTzacc",
+      "name": "CroppedCard05",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard05.png",
+          "name": "CroppedCard05",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 4,
+      "flags": {}
+    },
+    {
+      "_id": "J4wmv9QUA0LElCQ0",
+      "name": "CroppedCard06",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard06.png",
+          "name": "CroppedCard06",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 5,
+      "flags": {}
+    },
+    {
+      "_id": "8tMZ2VMkxai2fsSl",
+      "name": "CroppedCard07",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard07.png",
+          "name": "CroppedCard07",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 6,
+      "flags": {}
+    },
+    {
+      "_id": "43JGE4GtvxCvKzc0",
+      "name": "CroppedCard08",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard08.png",
+          "name": "CroppedCard08",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 7,
+      "flags": {}
+    },
+    {
+      "_id": "QRyXj3dVNQSvfol8",
+      "name": "CroppedCard09",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard09.png",
+          "name": "CroppedCard09",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 8,
+      "flags": {}
+    },
+    {
+      "_id": "Vtq5dRZ1VCvFcTgV",
+      "name": "CroppedCard10",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard10.png",
+          "name": "CroppedCard10",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 9,
+      "flags": {}
+    },
+    {
+      "_id": "pWnMufiAsSdmD4dr",
+      "name": "CroppedCard11",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard11.png",
+          "name": "CroppedCard11",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 10,
+      "flags": {}
+    },
+    {
+      "_id": "Yyo5oLbzAITxmzcX",
+      "name": "CroppedCard12",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard12.png",
+          "name": "CroppedCard12",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 11,
+      "flags": {}
+    },
+    {
+      "_id": "0aiuU3I9JsjFgNYl",
+      "name": "CroppedCard13",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard13.png",
+          "name": "CroppedCard13",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 12,
+      "flags": {}
+    },
+    {
+      "_id": "Vf3iSV17e0BGgGaR",
+      "name": "CroppedCard14",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard14.png",
+          "name": "CroppedCard14",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 13,
+      "flags": {}
+    },
+    {
+      "_id": "syqKAjGQYcli92mt",
+      "name": "CroppedCard15",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard15.png",
+          "name": "CroppedCard15",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 14,
+      "flags": {}
+    },
+    {
+      "_id": "5pirlTTaPkLaembx",
+      "name": "CroppedCard16",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard16.png",
+          "name": "CroppedCard16",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 15,
+      "flags": {}
+    },
+    {
+      "_id": "c9WDf5oBw1hQlUhJ",
+      "name": "CroppedCard17",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard17.png",
+          "name": "CroppedCard17",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 16,
+      "flags": {}
+    },
+    {
+      "_id": "GbbJrxchYz9vYsv8",
+      "name": "CroppedCard18",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard18.png",
+          "name": "CroppedCard18",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 17,
+      "flags": {}
+    },
+    {
+      "_id": "hb0sYGjhHRTWEb52",
+      "name": "CroppedCard19",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard19.png",
+          "name": "CroppedCard19",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 18,
+      "flags": {}
+    },
+    {
+      "_id": "8d2bKc9L5iOVkBfR",
+      "name": "CroppedCard20",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard20.png",
+          "name": "CroppedCard20",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 19,
+      "flags": {}
+    },
+    {
+      "_id": "BgnPQlCpen91TXJM",
+      "name": "CroppedCard21",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard21.png",
+          "name": "CroppedCard21",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 20,
+      "flags": {}
+    },
+    {
+      "_id": "NTIgByekvp34LI5E",
+      "name": "CroppedCard22",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard22.png",
+          "name": "CroppedCard22",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 21,
+      "flags": {}
+    },
+    {
+      "_id": "VUYEeh4vyNm5l979",
+      "name": "CroppedCard23",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard23.png",
+          "name": "CroppedCard23",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 22,
+      "flags": {}
+    },
+    {
+      "_id": "f51gmUiEPsDar3Qu",
+      "name": "CroppedCard24",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard24.png",
+          "name": "CroppedCard24",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 23,
+      "flags": {}
+    },
+    {
+      "_id": "109Z9axPKXinIqyd",
+      "name": "CroppedCard25",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard25.png",
+          "name": "CroppedCard25",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 24,
+      "flags": {}
+    },
+    {
+      "_id": "5Vwh9qupF6NnBOG4",
+      "name": "CroppedCard26",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard26.png",
+          "name": "CroppedCard26",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 25,
+      "flags": {}
+    },
+    {
+      "_id": "5K3w65bFiLXgqK6C",
+      "name": "CroppedCard27",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard27.png",
+          "name": "CroppedCard27",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 26,
+      "flags": {}
+    },
+    {
+      "_id": "7t3r6tg868XHBsbm",
+      "name": "CroppedCard28",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard28.png",
+          "name": "CroppedCard28",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 27,
+      "flags": {}
+    },
+    {
+      "_id": "Hc6zyNK1CjFb7Xk3",
+      "name": "CroppedCard29",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard29.png",
+          "name": "CroppedCard29",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 28,
+      "flags": {}
+    },
+    {
+      "_id": "BRylrQWcmLxcoCew",
+      "name": "CroppedCard30",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard30.png",
+          "name": "CroppedCard30",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 29,
+      "flags": {}
+    },
+    {
+      "_id": "tv7OgcBX74N3AGlm",
+      "name": "CroppedCard31",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard31.png",
+          "name": "CroppedCard31",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 30,
+      "flags": {}
+    },
+    {
+      "_id": "WJQ0XaWdANKiouDS",
+      "name": "CroppedCard32",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard32.png",
+          "name": "CroppedCard32",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 31,
+      "flags": {}
+    },
+    {
+      "_id": "2rh8VOsYT14IdxBX",
+      "name": "CroppedCard33",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard33.png",
+          "name": "CroppedCard33",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 32,
+      "flags": {}
+    },
+    {
+      "_id": "v9pjHizPQiiTonfL",
+      "name": "CroppedCard34",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard34.png",
+          "name": "CroppedCard34",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 33,
+      "flags": {}
+    },
+    {
+      "_id": "dFuiqXeBVLyMCMDs",
+      "name": "CroppedCard35",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard35.png",
+          "name": "CroppedCard35",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 34,
+      "flags": {}
+    },
+    {
+      "_id": "aQ9Xj9fmGhwAYgSA",
+      "name": "CroppedCard36",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard36.png",
+          "name": "CroppedCard36",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 35,
+      "flags": {}
+    },
+    {
+      "_id": "2N0NkfLcYNDaJDG8",
+      "name": "CroppedCard37",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard37.png",
+          "name": "CroppedCard37",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 36,
+      "flags": {}
+    },
+    {
+      "_id": "SZYALschhRoyRlYf",
+      "name": "CroppedCard38",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard38.png",
+          "name": "CroppedCard38",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 37,
+      "flags": {}
+    },
+    {
+      "_id": "GWjMBW1eozNyajZj",
+      "name": "CroppedCard39",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard39.png",
+          "name": "CroppedCard39",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 38,
+      "flags": {}
+    },
+    {
+      "_id": "adUzdW7RcSwJMCNK",
+      "name": "CroppedCard40",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard40.png",
+          "name": "CroppedCard40",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 39,
+      "flags": {}
+    },
+    {
+      "_id": "SiYoLmp23U772fCM",
+      "name": "CroppedCard41",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard41.png",
+          "name": "CroppedCard41",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 40,
+      "flags": {}
+    },
+    {
+      "_id": "1WqZYCfqlMWNdCIO",
+      "name": "CroppedCard42",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard42.png",
+          "name": "CroppedCard42",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 41,
+      "flags": {}
+    },
+    {
+      "_id": "wQ7OosjO07sAIBBO",
+      "name": "CroppedCard43",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard43.png",
+          "name": "CroppedCard43",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 42,
+      "flags": {}
+    },
+    {
+      "_id": "kHpJ9IliZYrZwLUd",
+      "name": "CroppedCard44",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard44.png",
+          "name": "CroppedCard44",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 43,
+      "flags": {}
+    },
+    {
+      "_id": "id3sNSVXJbk8MSy1",
+      "name": "CroppedCard45",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard45.png",
+          "name": "CroppedCard45",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 44,
+      "flags": {}
+    },
+    {
+      "_id": "oG9G92LzPigCfNhO",
+      "name": "CroppedCard46",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard46.png",
+          "name": "CroppedCard46",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 45,
+      "flags": {}
+    },
+    {
+      "_id": "lmRICwlFfqgv2Zcq",
+      "name": "CroppedCard47",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard47.png",
+          "name": "CroppedCard47",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 46,
+      "flags": {}
+    },
+    {
+      "_id": "Fnc5UA0AiMvirJBm",
+      "name": "CroppedCard48",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard48.png",
+          "name": "CroppedCard48",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 47,
+      "flags": {}
+    },
+    {
+      "_id": "BzonL56oqZNzXblw",
+      "name": "CroppedCard49",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard49.png",
+          "name": "CroppedCard49",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 48,
+      "flags": {}
+    },
+    {
+      "_id": "whRmq6Z844BuOeg4",
+      "name": "CroppedCard50",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard50.png",
+          "name": "CroppedCard50",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 49,
+      "flags": {}
+    },
+    {
+      "_id": "I9BHld0UpYrF7I1t",
+      "name": "CroppedCard51",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard51.png",
+          "name": "CroppedCard51",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 50,
+      "flags": {}
+    },
+    {
+      "_id": "zfuK6U99jzgRhrp8",
+      "name": "CroppedCard52",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard52.png",
+          "name": "CroppedCard52",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 51,
+      "flags": {}
+    },
+    {
+      "_id": "iJQktQ9lpE50eepL",
+      "name": "CroppedCard53",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard53.png",
+          "name": "CroppedCard53",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 52,
+      "flags": {}
+    },
+    {
+      "_id": "BHLKyxkAZt6kKuXy",
+      "name": "CroppedCard54",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard54.png",
+          "name": "CroppedCard54",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 53,
+      "flags": {}
+    },
+    {
+      "_id": "24BVUTj5yl4XN6p4",
+      "name": "CroppedCard55",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard55.png",
+          "name": "CroppedCard55",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 54,
+      "flags": {}
+    },
+    {
+      "_id": "uyRngpxJO9IlSVvZ",
+      "name": "CroppedCard56",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard56.png",
+          "name": "CroppedCard56",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 55,
+      "flags": {}
+    },
+    {
+      "_id": "RB2niHHsBwPtVUcj",
+      "name": "CroppedCard57",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard57.png",
+          "name": "CroppedCard57",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 56,
+      "flags": {}
+    },
+    {
+      "_id": "cbJ0UkWYKT40afEW",
+      "name": "CroppedCard58",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard58.png",
+          "name": "CroppedCard58",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 57,
+      "flags": {}
+    },
+    {
+      "_id": "sksSY4SLgTDARukq",
+      "name": "CroppedCard59",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard59.png",
+          "name": "CroppedCard59",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 58,
+      "flags": {}
+    },
+    {
+      "_id": "AFxLfwFdDr9eAwkw",
+      "name": "CroppedCard60",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedCard60.png",
+          "name": "CroppedCard60",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 59,
+      "flags": {}
+    },
+    {
+      "_id": "kuRRUBNFssrVkJWy",
+      "name": "CroppedDecisionCardBack",
+      "description": "",
+      "type": "base",
+      "data": {},
+      "suit": "",
+      "back": {
+        "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+        "name": "Combat Card Back",
+        "text": ""
+      },
+      "faces": [
+        {
+          "img": "decks/Encounter_Building_Cards_Decisions/CroppedDecisionCardBack.png",
+          "name": "CroppedDecisionCardBack",
+          "text": ""
+        }
+      ],
+      "face": 0,
+      "drawn": false,
+      "origin": "6YMLsbzhYBl3dJ1U",
+      "rotation": 0,
+      "sort": 60,
+      "flags": {}
+    }
+  ],
+  "width": 750,
+  "height": 1050,
+  "rotation": 0,
+  "displayCount": false,
+  "flags": {
+    "exportSource": {
+      "world": "eigen-5e",
+      "system": "dnd5e",
+      "coreVersion": "9.255",
+      "systemVersion": "1.5.7"
+    }
+  }
+}
